@@ -1,0 +1,27 @@
+# Build context allow-list. Credentials, private responses and Terraform state
+# never enter any image layer, including builder layers.
+**
+!Dockerfile
+!.dockerignore
+!package.json
+!package-lock.json
+!next.config.ts
+!next-env.d.ts
+!tsconfig.json
+!postcss.config.mjs
+!app/
+!app/**
+!lib/
+!lib/**
+!scripts/
+!scripts/prepare-cloud-data.mjs
+!data/
+!data/catalog.json
+!data/collection-log.jsonl
+!data/pdf-reviewed.json
+!data/derived/
+!data/derived/current.json
+!data/raw/
+!data/raw/**
+!data/reports/
+!data/reports/**

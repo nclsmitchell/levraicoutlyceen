@@ -1,0 +1,7 @@
+project_id = "levraicoutlyceen"
+region     = "europe-west1"
+# Initially null: create registry and runtime identity, then build/push the image.
+container_image = null
+max_instances   = 1
+concurrency     = 8
+site_domain     = "levraicoutlyceen.fr"

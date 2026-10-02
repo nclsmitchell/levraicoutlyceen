@@ -1,0 +1,75 @@
+[
+  {
+    "source": "dotation-2025",
+    "sha256": "0973f8b9304572149ccc36cca262c25591d433dbeb78318f904c2278b1d7a1f1",
+    "year": 2025,
+    "report": "CR 2024-041",
+    "pages": [
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "expected_establishments": 471,
+    "review": "Codex, 2026-10-02 : pages rendues et inspectées ; UAI colonne 1 ; DGFL nette colonne 7 ; internat colonne 8 ; EPLE/CMR/CMD séparés. Adoption non confirmée."
+  },
+  {
+    "source": "dotation-2026",
+    "sha256": "43e0a198c6c8608e2ff717aab4dd5a156d0b981074247015fda42e3ed1dcf6c9",
+    "year": 2026,
+    "report": "CR 2025-030",
+    "pages": [
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "expected_establishments": 470,
+    "review": "Codex, 2026-10-02 : pages rendues et inspectées ; DGFL à notifier colonne 8 ; internat tableau distinct aligné par lignes ; EPLE/CMR/CMD séparés. Adoption non confirmée."
+  },
+  {
+    "source": "dotation-2025",
+    "sha256": "0973f8b9304572149ccc36cca262c25591d433dbeb78318f904c2278b1d7a1f1",
+    "year": 2025,
+    "report": "CR 2024-041",
+    "pages": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "expected_establishments": 464,
+    "review": "Codex, 2026-10-02 : pages rendues et inspectées ; montant total CTEO/CEO-CTO uniquement ; composantes CEO et CTO non ajoutées au total ; groupes EPLE/CMR distincts ; adoption non confirmée. UAI 0952173w normalisé en 0952173W, casse uniquement ; ligne brute conservée.",
+    "kind": "CTEO",
+    "net_index": 6,
+    "table": "Annexe 3 · CEO/CTO",
+    "post": "Dotation CEO/CTO proposée"
+  },
+  {
+    "source": "dotation-2026",
+    "sha256": "43e0a198c6c8608e2ff717aab4dd5a156d0b981074247015fda42e3ed1dcf6c9",
+    "year": 2026,
+    "report": "CR 2025-030",
+    "pages": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "expected_establishments": 463,
+    "review": "Codex, 2026-10-02 : pages rendues et inspectées ; montant total CTEO/CEO-CTO uniquement ; composantes CEO et CTO non ajoutées au total ; groupes EPLE/CMR distincts ; adoption non confirmée.",
+    "kind": "CTEO",
+    "net_index": 4,
+    "table": "Annexe 3 · CEO/CTO",
+    "post": "Dotation CEO/CTO proposée"
+  }
+]

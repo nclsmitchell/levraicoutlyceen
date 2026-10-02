@@ -1,0 +1,4 @@
+{
+  "columns": {"uai":"UAI","year":"exercice","amount":"montant","post":"poste"},
+  "constants": {"nature":"mandate_net","population":"all_school_users_unallocated","unit":"EUR","currency":"EUR","tax":"unknown","quality":"observed"}
+}

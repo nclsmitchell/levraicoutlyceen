@@ -1,0 +1,93 @@
+[
+  {
+    "source": "fr-en-annuaire-education",
+    "row": 160,
+    "uai": "0750787Y",
+    "reason": "UAI multi-sites : identité principale conservée, site supplémentaire à qualifier",
+    "evidence": "5e48ec45dd8a421b7c8e0765"
+  },
+  {
+    "source": "fr-en-annuaire-education",
+    "row": 301,
+    "uai": "0940137N",
+    "reason": "UAI multi-sites : identité principale conservée, site supplémentaire à qualifier",
+    "evidence": "043a8aeae5da1d4ae7300971"
+  },
+  {
+    "source": "fr-en-annuaire-education",
+    "row": 322,
+    "uai": "0921935D",
+    "reason": "UAI multi-sites : identité principale conservée, site supplémentaire à qualifier",
+    "evidence": "b2f35c4d9950238bf959e726"
+  },
+  {
+    "source": "fr-en-annuaire-education",
+    "row": 372,
+    "uai": "0750651A",
+    "reason": "UAI multi-sites : identité principale conservée, site supplémentaire à qualifier",
+    "evidence": "5a142250acc7fb3a09b64f08"
+  },
+  {
+    "source": "fr-en-annuaire-education",
+    "row": 382,
+    "uai": "0750711R",
+    "reason": "UAI multi-sites : identité principale conservée, site supplémentaire à qualifier",
+    "evidence": "692e56038f3e1b1c7f64f131"
+  },
+  {
+    "source": "fr-en-annuaire-education",
+    "row": 482,
+    "uai": "0770920G",
+    "reason": "UAI multi-sites : identité principale conservée, site supplémentaire à qualifier",
+    "evidence": "da42dcc26583aafda9dda903"
+  },
+  {
+    "source": "fr-en-annuaire-education",
+    "row": 555,
+    "uai": "0753268V",
+    "reason": "UAI multi-sites : identité principale conservée, site supplémentaire à qualifier",
+    "evidence": "29a65813f349f9e28c8cd016"
+  },
+  {
+    "source": "fr-en-annuaire-education",
+    "row": 572,
+    "uai": "0750770E",
+    "reason": "UAI multi-sites : identité principale conservée, site supplémentaire à qualifier",
+    "evidence": "8b5f79547cf72bde42a4f7bf"
+  },
+  {
+    "source": "fr-en-lycee_gt-effectifs-niveau-sexe-lv",
+    "row": 191,
+    "uai": "0754684J",
+    "reason": "Code arrondissement non conforme au COG : valeur brute conservée, arrondissement non attribué",
+    "evidence": "1f71db9260af3a5f4687bf17"
+  },
+  {
+    "source": "fr-en-lycee_pro-effectifs-niveau-sexe-lv",
+    "row": 153,
+    "uai": "0750794F",
+    "reason": "Code arrondissement non conforme au COG : valeur brute conservée, arrondissement non attribué",
+    "evidence": "a85d85daeaa56f3f30474125"
+  },
+  {
+    "source": "fr-en-lycee_pro-effectifs-niveau-sexe-lv",
+    "row": 158,
+    "uai": "0750508V",
+    "reason": "Code arrondissement non conforme au COG : valeur brute conservée, arrondissement non attribué",
+    "evidence": "f799b65a8c0c9df3273dd988"
+  },
+  {
+    "source": "fr-en-lycee_pro-effectifs-niveau-sexe-lv",
+    "row": 215,
+    "uai": "0752109K",
+    "reason": "Code arrondissement non conforme au COG : valeur brute conservée, arrondissement non attribué",
+    "evidence": "692e8933e03e556c451899cf"
+  },
+  {
+    "source": "fr-en-lycee_pro-effectifs-niveau-sexe-lv",
+    "row": 217,
+    "uai": "0752700C",
+    "reason": "Code arrondissement non conforme au COG : valeur brute conservée, arrondissement non attribué",
+    "evidence": "27319af29b7593f27ac5b87c"
+  }
+]

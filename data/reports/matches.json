@@ -1,0 +1,4820 @@
+[
+  {
+    "observation": "2e93bb2ae4329cb78f37ffe9",
+    "uai": "0921500F",
+    "method": "exact_uai",
+    "source_uai": "0921500F"
+  },
+  {
+    "observation": "888e1124455167e69f17d314",
+    "uai": "0750662M",
+    "method": "exact_uai",
+    "source_uai": "0750662M"
+  },
+  {
+    "observation": "a312114ddf35fcdb689501d3",
+    "uai": "0782562L",
+    "method": "exact_uai",
+    "source_uai": "0782562L"
+  },
+  {
+    "observation": "a0530d2f4931aa079316843e",
+    "uai": "0930831Y",
+    "method": "exact_uai",
+    "source_uai": "0930831Y"
+  },
+  {
+    "observation": "23db6947b81745f6e845b665",
+    "uai": "0780004F",
+    "method": "exact_uai",
+    "source_uai": "0780004F"
+  },
+  {
+    "observation": "209e75af94578e162c7cf542",
+    "uai": "0750662M",
+    "method": "exact_uai",
+    "source_uai": "0750662M"
+  },
+  {
+    "observation": "cb9aa38da3bb2cb30060d7aa",
+    "uai": "0752608C",
+    "method": "exact_uai",
+    "source_uai": "0752608C"
+  },
+  {
+    "observation": "34d757fb52f78f4211963e5e",
+    "uai": "0932046U",
+    "method": "exact_uai",
+    "source_uai": "0932046U"
+  },
+  {
+    "observation": "bfdd22eced98ec582b5c4827",
+    "uai": "0940126B",
+    "method": "exact_uai",
+    "source_uai": "0940126B"
+  },
+  {
+    "observation": "5a16db4d5c8e65869d354d45",
+    "uai": "0783533S",
+    "method": "exact_uai",
+    "source_uai": "0783533S"
+  },
+  {
+    "observation": "bca9396e07b676d8f6d8bc7d",
+    "uai": "0920144G",
+    "method": "exact_uai",
+    "source_uai": "0920144G"
+  },
+  {
+    "observation": "2216656a4c5ce819751b0500",
+    "uai": "0750656F",
+    "method": "exact_uai",
+    "source_uai": "0750656F"
+  },
+  {
+    "observation": "8f37a0442e351322a834629b",
+    "uai": "0781512V",
+    "method": "exact_uai",
+    "source_uai": "0781512V"
+  },
+  {
+    "observation": "d9e5174e3bd3a3b3dec4cccc",
+    "uai": "0930127H",
+    "method": "exact_uai",
+    "source_uai": "0930127H"
+  },
+  {
+    "observation": "0658774abfd77f1faa5092fb",
+    "uai": "0782540M",
+    "method": "exact_uai",
+    "source_uai": "0782540M"
+  },
+  {
+    "observation": "4a1d7f07784df337b2dfb6b9",
+    "uai": "0950947N",
+    "method": "exact_uai",
+    "source_uai": "0950947N"
+  },
+  {
+    "observation": "43f651ac2e757c0e1b4458e0",
+    "uai": "0770938B",
+    "method": "exact_uai",
+    "source_uai": "0770938B"
+  },
+  {
+    "observation": "0afff50bd7621a6020aa9b73",
+    "uai": "0782539L",
+    "method": "exact_uai",
+    "source_uai": "0782539L"
+  },
+  {
+    "observation": "f22ff07ea2c2fe795e41a91a",
+    "uai": "0782549X",
+    "method": "exact_uai",
+    "source_uai": "0782549X"
+  },
+  {
+    "observation": "3dd86cc51a5aae968a4c303b",
+    "uai": "0781512V",
+    "method": "exact_uai",
+    "source_uai": "0781512V"
+  },
+  {
+    "observation": "23c0635c0d13bc8ac441ab0a",
+    "uai": "0911346U",
+    "method": "exact_uai",
+    "source_uai": "0911346U"
+  },
+  {
+    "observation": "92f2c2d14864eb3060a34c2e",
+    "uai": "0780004F",
+    "method": "exact_uai",
+    "source_uai": "0780004F"
+  },
+  {
+    "observation": "e831f39f3ecec567f1332f85",
+    "uai": "0781512V",
+    "method": "exact_uai",
+    "source_uai": "0781512V"
+  },
+  {
+    "observation": "1a4fa72fdcebf3b67062bca1",
+    "uai": "0950656X",
+    "method": "exact_uai",
+    "source_uai": "0950656X"
+  },
+  {
+    "observation": "b0645a8ed4650efd9b13a138",
+    "uai": "0781948U",
+    "method": "exact_uai",
+    "source_uai": "0781948U"
+  },
+  {
+    "observation": "f704d3af53c1d651853bc542",
+    "uai": "0772228D",
+    "method": "exact_uai",
+    "source_uai": "0772228D"
+  },
+  {
+    "observation": "884414a4e80ca0dbf0ad0be9",
+    "uai": "0781884Z",
+    "method": "exact_uai",
+    "source_uai": "0781884Z"
+  },
+  {
+    "observation": "5f8318ee2cd41328a578b060",
+    "uai": "0950640E",
+    "method": "exact_uai",
+    "source_uai": "0950640E"
+  },
+  {
+    "observation": "6fb56892d2f9d1071cff7308",
+    "uai": "0920142E",
+    "method": "exact_uai",
+    "source_uai": "0920142E"
+  },
+  {
+    "observation": "0862616d2e2d71233a731c89",
+    "uai": "0951922Y",
+    "method": "exact_uai",
+    "source_uai": "0951922Y"
+  },
+  {
+    "observation": "b96889243847376881551ac3",
+    "uai": "0930138V",
+    "method": "exact_uai",
+    "source_uai": "0930138V"
+  },
+  {
+    "observation": "90faf86f01203199d4d77431",
+    "uai": "0750553U",
+    "method": "exact_uai",
+    "source_uai": "0750553U"
+  },
+  {
+    "observation": "2814060b2e1ea22c38a22f60",
+    "uai": "0750707L",
+    "method": "exact_uai",
+    "source_uai": "0750707L"
+  },
+  {
+    "observation": "5681baf78a40537218eec717",
+    "uai": "0750668U",
+    "method": "exact_uai",
+    "source_uai": "0750668U"
+  },
+  {
+    "observation": "8031751fd637306babf36457",
+    "uai": "0781859X",
+    "method": "exact_uai",
+    "source_uai": "0781859X"
+  },
+  {
+    "observation": "e66e1113e0ae88a0c6434b6b",
+    "uai": "0770342D",
+    "method": "exact_uai",
+    "source_uai": "0770342D"
+  },
+  {
+    "observation": "50f37a65b88c1011e8170e6b",
+    "uai": "0781819D",
+    "method": "exact_uai",
+    "source_uai": "0781819D"
+  },
+  {
+    "observation": "33caf02af06cd1f7a44e88dc",
+    "uai": "0781948U",
+    "method": "exact_uai",
+    "source_uai": "0781948U"
+  },
+  {
+    "observation": "f9403c99977d93feb735426d",
+    "uai": "0941355M",
+    "method": "exact_uai",
+    "source_uai": "0941355M"
+  },
+  {
+    "observation": "7f30b9c2823a74c01cd9a490",
+    "uai": "0921676X",
+    "method": "exact_uai",
+    "source_uai": "0921676X"
+  },
+  {
+    "observation": "f4087154e60f217b93f016c1",
+    "uai": "0932048W",
+    "method": "exact_uai",
+    "source_uai": "0932048W"
+  },
+  {
+    "observation": "39e6f2aa4b055ff60eee26d9",
+    "uai": "0932034F",
+    "method": "exact_uai",
+    "source_uai": "0932034F"
+  },
+  {
+    "observation": "cd5a1da980fc40daf6ed7b82",
+    "uai": "0781859X",
+    "method": "exact_uai",
+    "source_uai": "0781859X"
+  },
+  {
+    "observation": "fd0c5bb5ebfaf348915f8c16",
+    "uai": "0940116R",
+    "method": "exact_uai",
+    "source_uai": "0940116R"
+  },
+  {
+    "observation": "f1791db8e663a5558a4a070b",
+    "uai": "0941413A",
+    "method": "exact_uai",
+    "source_uai": "0941413A"
+  },
+  {
+    "observation": "6c3d7757fb4e406167141412",
+    "uai": "0911492C",
+    "method": "exact_uai",
+    "source_uai": "0911492C"
+  },
+  {
+    "observation": "03a5216cd28d71de89d55f47",
+    "uai": "0951811C",
+    "method": "exact_uai",
+    "source_uai": "0951811C"
+  },
+  {
+    "observation": "f4b64eda07531b620ef1cff2",
+    "uai": "0781839A",
+    "method": "exact_uai",
+    "source_uai": "0781839A"
+  },
+  {
+    "observation": "cfbc81021b62edece04f3247",
+    "uai": "0782539L",
+    "method": "exact_uai",
+    "source_uai": "0782539L"
+  },
+  {
+    "observation": "d5c5236e2aac95f35988bb27",
+    "uai": "0920141D",
+    "method": "exact_uai",
+    "source_uai": "0920141D"
+  },
+  {
+    "observation": "977d2a0bf97ddacd13f4a8b5",
+    "uai": "0781297L",
+    "method": "exact_uai",
+    "source_uai": "0781297L"
+  },
+  {
+    "observation": "6aa2973165a77c0dcb93a785",
+    "uai": "0950983C",
+    "method": "exact_uai",
+    "source_uai": "0950983C"
+  },
+  {
+    "observation": "f3bd7c294f35e1ffcc7fb054",
+    "uai": "0750776L",
+    "method": "exact_uai",
+    "source_uai": "0750776L"
+  },
+  {
+    "observation": "58cc6cd4128998295b1820c6",
+    "uai": "0932048W",
+    "method": "exact_uai",
+    "source_uai": "0932048W"
+  },
+  {
+    "observation": "2e3e0a4b8b8c9c8e46e643aa",
+    "uai": "0910620E",
+    "method": "exact_uai",
+    "source_uai": "0910620E"
+  },
+  {
+    "observation": "7d63d267df4f1e1a1c5d02c7",
+    "uai": "0950983C",
+    "method": "exact_uai",
+    "source_uai": "0950983C"
+  },
+  {
+    "observation": "447c0ece0ea5da1cc1be7e47",
+    "uai": "0922149L",
+    "method": "exact_uai",
+    "source_uai": "0922149L"
+  },
+  {
+    "observation": "a35957dfe2fd8b454c1c72f8",
+    "uai": "0941413A",
+    "method": "exact_uai",
+    "source_uai": "0941413A"
+  },
+  {
+    "observation": "d6adcd1c7b69426f939e6fd2",
+    "uai": "0750657G",
+    "method": "exact_uai",
+    "source_uai": "0750657G"
+  },
+  {
+    "observation": "c9d5161c2de294df6ce5f422",
+    "uai": "0941355M",
+    "method": "exact_uai",
+    "source_uai": "0941355M"
+  },
+  {
+    "observation": "4361bbe0a88b1d08d1241822",
+    "uai": "0750673Z",
+    "method": "exact_uai",
+    "source_uai": "0750673Z"
+  },
+  {
+    "observation": "e9538ce23799c2bd0032393e",
+    "uai": "0750553U",
+    "method": "exact_uai",
+    "source_uai": "0750553U"
+  },
+  {
+    "observation": "473baf6878ed6f6ff85a8e0b",
+    "uai": "0750658H",
+    "method": "exact_uai",
+    "source_uai": "0750658H"
+  },
+  {
+    "observation": "389f0515c0769d46c19613fc",
+    "uai": "0781839A",
+    "method": "exact_uai",
+    "source_uai": "0781839A"
+  },
+  {
+    "observation": "b018787f7a96a5cc1a2b9147",
+    "uai": "0782539L",
+    "method": "exact_uai",
+    "source_uai": "0782539L"
+  },
+  {
+    "observation": "0a6330219e3e77bd7316ca76",
+    "uai": "0920145H",
+    "method": "exact_uai",
+    "source_uai": "0920145H"
+  },
+  {
+    "observation": "d144c09638054478ad6e284e",
+    "uai": "0940580V",
+    "method": "exact_uai",
+    "source_uai": "0940580V"
+  },
+  {
+    "observation": "40dece956183d39f42c5a509",
+    "uai": "0750715V",
+    "method": "exact_uai",
+    "source_uai": "0750715V"
+  },
+  {
+    "observation": "b3f6069efe2a3793f51f6232",
+    "uai": "0941301D",
+    "method": "exact_uai",
+    "source_uai": "0941301D"
+  },
+  {
+    "observation": "e2a76636e9a35b2bc0c0badb",
+    "uai": "0772751X",
+    "method": "exact_uai",
+    "source_uai": "0772751X"
+  },
+  {
+    "observation": "ee49ec73139b14470844408e",
+    "uai": "0750588G",
+    "method": "exact_uai",
+    "source_uai": "0750588G"
+  },
+  {
+    "observation": "a9481757712dd7185a1f1493",
+    "uai": "0752388N",
+    "method": "exact_uai",
+    "source_uai": "0752388N"
+  },
+  {
+    "observation": "f12d1ba07b34eb2ef921134d",
+    "uai": "0772292Y",
+    "method": "exact_uai",
+    "source_uai": "0772292Y"
+  },
+  {
+    "observation": "2283fc95f33b0d6b374f7ea3",
+    "uai": "0921156G",
+    "method": "exact_uai",
+    "source_uai": "0921156G"
+  },
+  {
+    "observation": "77579966a2aa5f978f01fed7",
+    "uai": "0750657G",
+    "method": "exact_uai",
+    "source_uai": "0750657G"
+  },
+  {
+    "observation": "5b06e4c3260074441d85da84",
+    "uai": "0940141T",
+    "method": "exact_uai",
+    "source_uai": "0940141T"
+  },
+  {
+    "observation": "174ea17d2b2827745a9fb20c",
+    "uai": "0950709E",
+    "method": "exact_uai",
+    "source_uai": "0950709E"
+  },
+  {
+    "observation": "f692e5c5665f0731b35ac725",
+    "uai": "0941018W",
+    "method": "exact_uai",
+    "source_uai": "0941018W"
+  },
+  {
+    "observation": "4571d817dbef1ef46d020a2c",
+    "uai": "0782587N",
+    "method": "exact_uai",
+    "source_uai": "0782587N"
+  },
+  {
+    "observation": "3b18a59c0382ee3d94a95dd5",
+    "uai": "0930138V",
+    "method": "exact_uai",
+    "source_uai": "0930138V"
+  },
+  {
+    "observation": "7e12b5adaaf88f1fad466d9d",
+    "uai": "0931739K",
+    "method": "exact_uai",
+    "source_uai": "0931739K"
+  },
+  {
+    "observation": "2bbdd71467d7e92d597808b8",
+    "uai": "0940122X",
+    "method": "exact_uai",
+    "source_uai": "0940122X"
+  },
+  {
+    "observation": "fb5dea108cdcd4a8dd88bb90",
+    "uai": "0770938B",
+    "method": "exact_uai",
+    "source_uai": "0770938B"
+  },
+  {
+    "observation": "1532c9e2c642020d5c405038",
+    "uai": "0782539L",
+    "method": "exact_uai",
+    "source_uai": "0782539L"
+  },
+  {
+    "observation": "fb1c7483ccff9ba8f1967c33",
+    "uai": "0930125F",
+    "method": "exact_uai",
+    "source_uai": "0930125F"
+  },
+  {
+    "observation": "9a9e67e4bc3154da10d1eb33",
+    "uai": "0781948U",
+    "method": "exact_uai",
+    "source_uai": "0781948U"
+  },
+  {
+    "observation": "ecb4fee864bcfac9882ecab6",
+    "uai": "0780422K",
+    "method": "exact_uai",
+    "source_uai": "0780422K"
+  },
+  {
+    "observation": "c5343ba9466e1513c4124283",
+    "uai": "0932120Z",
+    "method": "exact_uai",
+    "source_uai": "0932120Z"
+  },
+  {
+    "observation": "41f9571712c4bdd2f3a4b5ba",
+    "uai": "0770938B",
+    "method": "exact_uai",
+    "source_uai": "0770938B"
+  },
+  {
+    "observation": "52518cfc0adf3ee6bb07afa1",
+    "uai": "0781950W",
+    "method": "exact_uai",
+    "source_uai": "0781950W"
+  },
+  {
+    "observation": "5d59839f500d8b3874882610",
+    "uai": "0750685M",
+    "method": "exact_uai",
+    "source_uai": "0750685M"
+  },
+  {
+    "observation": "ee66c52a382eefc2412be37f",
+    "uai": "0750664P",
+    "method": "exact_uai",
+    "source_uai": "0750664P"
+  },
+  {
+    "observation": "2ff7a1a37a4984caf1134167",
+    "uai": "0781859X",
+    "method": "exact_uai",
+    "source_uai": "0781859X"
+  },
+  {
+    "observation": "27b81da2c4257e30b6fd4622",
+    "uai": "0941018W",
+    "method": "exact_uai",
+    "source_uai": "0941018W"
+  },
+  {
+    "observation": "cf7509541aa55d62d7c83c7b",
+    "uai": "0910429X",
+    "method": "exact_uai",
+    "source_uai": "0910429X"
+  },
+  {
+    "observation": "ff97a378e973a849bfa04ed9",
+    "uai": "0911577V",
+    "method": "exact_uai",
+    "source_uai": "0911577V"
+  },
+  {
+    "observation": "dd179162a644b76d62361afd",
+    "uai": "0750682J",
+    "method": "exact_uai",
+    "source_uai": "0750682J"
+  },
+  {
+    "observation": "d347b2bf28323b850f717179",
+    "uai": "0951811C",
+    "method": "exact_uai",
+    "source_uai": "0951811C"
+  },
+  {
+    "observation": "ff20cff0b574dc83c9d7b199",
+    "uai": "0940116R",
+    "method": "exact_uai",
+    "source_uai": "0940116R"
+  },
+  {
+    "observation": "5574552304a4ecde4ca0c8dc",
+    "uai": "0920142E",
+    "method": "exact_uai",
+    "source_uai": "0920142E"
+  },
+  {
+    "observation": "5dfe8740896dfda8e90891fe",
+    "uai": "0750690T",
+    "method": "exact_uai",
+    "source_uai": "0750690T"
+  },
+  {
+    "observation": "53979516073548e31a7a5606",
+    "uai": "0781839A",
+    "method": "exact_uai",
+    "source_uai": "0781839A"
+  },
+  {
+    "observation": "63c83ec880ed24c2b4f3585b",
+    "uai": "0770945J",
+    "method": "exact_uai",
+    "source_uai": "0770945J"
+  },
+  {
+    "observation": "429c7af2d7921ac3c1f0811d",
+    "uai": "0950164M",
+    "method": "exact_uai",
+    "source_uai": "0950164M"
+  },
+  {
+    "observation": "8f4bb7eb8aba329741a77026",
+    "uai": "0750682J",
+    "method": "exact_uai",
+    "source_uai": "0750682J"
+  },
+  {
+    "observation": "c030b5844fb51be042ea1e10",
+    "uai": "0922249V",
+    "method": "exact_uai",
+    "source_uai": "0922249V"
+  },
+  {
+    "observation": "94d8181dba58141c0deaae89",
+    "uai": "0940138P",
+    "method": "exact_uai",
+    "source_uai": "0940138P"
+  },
+  {
+    "observation": "cab17aece0477ade89873072",
+    "uai": "0941972H",
+    "method": "exact_uai",
+    "source_uai": "0941972H"
+  },
+  {
+    "observation": "6cd3fe960731ea6a0f9cc65d",
+    "uai": "0942269F",
+    "method": "exact_uai",
+    "source_uai": "0942269F"
+  },
+  {
+    "observation": "351715ddb865b91ee16ef385",
+    "uai": "0750693W",
+    "method": "exact_uai",
+    "source_uai": "0750693W"
+  },
+  {
+    "observation": "8acc8e33891e1d639c518822",
+    "uai": "0940118T",
+    "method": "exact_uai",
+    "source_uai": "0940118T"
+  },
+  {
+    "observation": "21175df435dae373d721b0b6",
+    "uai": "0940116R",
+    "method": "exact_uai",
+    "source_uai": "0940116R"
+  },
+  {
+    "observation": "f429ef46a18589bcd73fa686",
+    "uai": "0781845G",
+    "method": "exact_uai",
+    "source_uai": "0781845G"
+  },
+  {
+    "observation": "bf123c7bcde0ae47fe5e9de1",
+    "uai": "0920802X",
+    "method": "exact_uai",
+    "source_uai": "0920802X"
+  },
+  {
+    "observation": "d2c6ec5b4c943422f2746326",
+    "uai": "0951727L",
+    "method": "exact_uai",
+    "source_uai": "0951727L"
+  },
+  {
+    "observation": "a2794e03b7ac11aecf851cae",
+    "uai": "0770943G",
+    "method": "exact_uai",
+    "source_uai": "0770943G"
+  },
+  {
+    "observation": "f70c098cdd1d34535a1253be",
+    "uai": "0922149L",
+    "method": "exact_uai",
+    "source_uai": "0922149L"
+  },
+  {
+    "observation": "263d6d579b445cbeecc2f831",
+    "uai": "0770932V",
+    "method": "exact_uai",
+    "source_uai": "0770932V"
+  },
+  {
+    "observation": "89662216478b6ec9f8389469",
+    "uai": "0940137N",
+    "method": "exact_uai",
+    "source_uai": "0940137N"
+  },
+  {
+    "observation": "861d1255c49ac68e7c7946cd",
+    "uai": "0750702F",
+    "method": "exact_uai",
+    "source_uai": "0750702F"
+  },
+  {
+    "observation": "e91565092123bfcc82c8c2cb",
+    "uai": "0771995A",
+    "method": "exact_uai",
+    "source_uai": "0771995A"
+  },
+  {
+    "observation": "10a7ab6918acd85a86f8e146",
+    "uai": "0782539L",
+    "method": "exact_uai",
+    "source_uai": "0782539L"
+  },
+  {
+    "observation": "2dc5a8eca4c8241cd6dbab69",
+    "uai": "0930126G",
+    "method": "exact_uai",
+    "source_uai": "0930126G"
+  },
+  {
+    "observation": "4ed40bd426ca1e63f043d193",
+    "uai": "0932034F",
+    "method": "exact_uai",
+    "source_uai": "0932034F"
+  },
+  {
+    "observation": "83a3ebcd37131e80cab5695c",
+    "uai": "0941355M",
+    "method": "exact_uai",
+    "source_uai": "0941355M"
+  },
+  {
+    "observation": "83bb09da7456a5d4c26e1802",
+    "uai": "0910975R",
+    "method": "exact_uai",
+    "source_uai": "0910975R"
+  },
+  {
+    "observation": "673eb01a3a318d845d738797",
+    "uai": "0782539L",
+    "method": "exact_uai",
+    "source_uai": "0782539L"
+  },
+  {
+    "observation": "ab7e3b15dbeae59d022192d2",
+    "uai": "0911021R",
+    "method": "exact_uai",
+    "source_uai": "0911021R"
+  },
+  {
+    "observation": "dc838be8688b7806bc92ec14",
+    "uai": "0750656F",
+    "method": "exact_uai",
+    "source_uai": "0750656F"
+  },
+  {
+    "observation": "7c2cfbdcefa0dc33b9f584d5",
+    "uai": "0782568T",
+    "method": "exact_uai",
+    "source_uai": "0782568T"
+  },
+  {
+    "observation": "21ddf51349fef7dc9ee2f0d3",
+    "uai": "0940129E",
+    "method": "exact_uai",
+    "source_uai": "0940129E"
+  },
+  {
+    "observation": "0050d71113226eb65e87418b",
+    "uai": "0910975R",
+    "method": "exact_uai",
+    "source_uai": "0910975R"
+  },
+  {
+    "observation": "10cd531fa166a1b333adddf6",
+    "uai": "0931272C",
+    "method": "exact_uai",
+    "source_uai": "0931272C"
+  },
+  {
+    "observation": "ec2a5728d284e3c60142db3d",
+    "uai": "0920144G",
+    "method": "exact_uai",
+    "source_uai": "0920144G"
+  },
+  {
+    "observation": "75613fe53a48e0ce89ededdb",
+    "uai": "0772244W",
+    "method": "exact_uai",
+    "source_uai": "0772244W"
+  },
+  {
+    "observation": "a06b77ab7295de980b190ab3",
+    "uai": "0940123Y",
+    "method": "exact_uai",
+    "source_uai": "0940123Y"
+  },
+  {
+    "observation": "c0a6739b6cc547f10aeaf304",
+    "uai": "0751710B",
+    "method": "exact_uai",
+    "source_uai": "0751710B"
+  },
+  {
+    "observation": "9edbf10e5fcb3012fc5ac48a",
+    "uai": "0931738J",
+    "method": "exact_uai",
+    "source_uai": "0931738J"
+  },
+  {
+    "observation": "0668602ea49962c0d2d57472",
+    "uai": "0770943G",
+    "method": "exact_uai",
+    "source_uai": "0770943G"
+  },
+  {
+    "observation": "661fa42df424152cb22ed401",
+    "uai": "0920171L",
+    "method": "exact_uai",
+    "source_uai": "0920171L"
+  },
+  {
+    "observation": "a6281e553b065609808ed56d",
+    "uai": "0772244W",
+    "method": "exact_uai",
+    "source_uai": "0772244W"
+  },
+  {
+    "observation": "7d2b37722d2549c64e5520d6",
+    "uai": "0950666H",
+    "method": "exact_uai",
+    "source_uai": "0950666H"
+  },
+  {
+    "observation": "ff976f8f3493e31b501bd139",
+    "uai": "0750697A",
+    "method": "exact_uai",
+    "source_uai": "0750697A"
+  },
+  {
+    "observation": "78c86cb0772b0e33c6cb5e43",
+    "uai": "0950656X",
+    "method": "exact_uai",
+    "source_uai": "0950656X"
+  },
+  {
+    "observation": "f116eafde280b31f28ed628d",
+    "uai": "0941301D",
+    "method": "exact_uai",
+    "source_uai": "0941301D"
+  },
+  {
+    "observation": "73ab621cf5dfb3b2366056af",
+    "uai": "0750705J",
+    "method": "exact_uai",
+    "source_uai": "0750705J"
+  },
+  {
+    "observation": "effc5f1b07d9e6a9525bc5f0",
+    "uai": "0772310T",
+    "method": "exact_uai",
+    "source_uai": "0772310T"
+  },
+  {
+    "observation": "2198b56d8ecfed4ae2e8d72e",
+    "uai": "0750648X",
+    "method": "exact_uai",
+    "source_uai": "0750648X"
+  },
+  {
+    "observation": "caae774e319b6d6da0b1310c",
+    "uai": "0782565P",
+    "method": "exact_uai",
+    "source_uai": "0782565P"
+  },
+  {
+    "observation": "01de9c04cb9ca824122fe5af",
+    "uai": "0951753P",
+    "method": "exact_uai",
+    "source_uai": "0951753P"
+  },
+  {
+    "observation": "533129cb9d65af517d65cdab",
+    "uai": "0782568T",
+    "method": "exact_uai",
+    "source_uai": "0782568T"
+  },
+  {
+    "observation": "08296fc043c6a2790ecd90c7",
+    "uai": "0750712S",
+    "method": "exact_uai",
+    "source_uai": "0750712S"
+  },
+  {
+    "observation": "2528488d9e16d2355d126ac5",
+    "uai": "0782565P",
+    "method": "exact_uai",
+    "source_uai": "0782565P"
+  },
+  {
+    "observation": "43244764767c5bd749727122",
+    "uai": "0750650Z",
+    "method": "exact_uai",
+    "source_uai": "0750650Z"
+  },
+  {
+    "observation": "a552e54b920c3ee33f2c2938",
+    "uai": "0752846L",
+    "method": "exact_uai",
+    "source_uai": "0752846L"
+  },
+  {
+    "observation": "803432f15397abc9996e4105",
+    "uai": "0780422K",
+    "method": "exact_uai",
+    "source_uai": "0780422K"
+  },
+  {
+    "observation": "d4e1670c36049272a7139e17",
+    "uai": "0951788C",
+    "method": "exact_uai",
+    "source_uai": "0951788C"
+  },
+  {
+    "observation": "42985e92cff3d2ba19a9576f",
+    "uai": "0950164M",
+    "method": "exact_uai",
+    "source_uai": "0950164M"
+  },
+  {
+    "observation": "ed90d6a585cfacef38ac7780",
+    "uai": "0750693W",
+    "method": "exact_uai",
+    "source_uai": "0750693W"
+  },
+  {
+    "observation": "c6cae465aa70c731b8119e96",
+    "uai": "0750660K",
+    "method": "exact_uai",
+    "source_uai": "0750660K"
+  },
+  {
+    "observation": "7548e8bf72ecdc0ee507a71a",
+    "uai": "0750697A",
+    "method": "exact_uai",
+    "source_uai": "0750697A"
+  },
+  {
+    "observation": "8bcd7280776dd39ec88514d6",
+    "uai": "0951748J",
+    "method": "exact_uai",
+    "source_uai": "0951748J"
+  },
+  {
+    "observation": "4bbc1a0a584feec6efaebdaa",
+    "uai": "0782549X",
+    "method": "exact_uai",
+    "source_uai": "0782549X"
+  },
+  {
+    "observation": "9d11af3894b4a0ad72e84246",
+    "uai": "0782567S",
+    "method": "exact_uai",
+    "source_uai": "0782567S"
+  },
+  {
+    "observation": "4b49acb08c51e434bc2c2188",
+    "uai": "0950709E",
+    "method": "exact_uai",
+    "source_uai": "0950709E"
+  },
+  {
+    "observation": "308eeb313571b830fbb71f21",
+    "uai": "0932291K",
+    "method": "exact_uai",
+    "source_uai": "0932291K"
+  },
+  {
+    "observation": "f6b4cbb77090701bd9ca00d8",
+    "uai": "0941018W",
+    "method": "exact_uai",
+    "source_uai": "0941018W"
+  },
+  {
+    "observation": "a7964de9b189bb13a58eed3c",
+    "uai": "0930130L",
+    "method": "exact_uai",
+    "source_uai": "0930130L"
+  },
+  {
+    "observation": "148a3b26a738d7f829bd261f",
+    "uai": "0950164M",
+    "method": "exact_uai",
+    "source_uai": "0950164M"
+  },
+  {
+    "observation": "2e9e0b91d905751aa6c6e372",
+    "uai": "0750682J",
+    "method": "exact_uai",
+    "source_uai": "0750682J"
+  },
+  {
+    "observation": "64c9b1cba07eb88b0e9a2dff",
+    "uai": "0783548H",
+    "method": "exact_uai",
+    "source_uai": "0783548H"
+  },
+  {
+    "observation": "4da7ae66e7984cbd00654622",
+    "uai": "0951787B",
+    "method": "exact_uai",
+    "source_uai": "0951787B"
+  },
+  {
+    "observation": "f4ee8a5dfeebe1ca9cddd4b8",
+    "uai": "0941301D",
+    "method": "exact_uai",
+    "source_uai": "0941301D"
+  },
+  {
+    "observation": "98c44487dc957e20c0017dfe",
+    "uai": "0950949R",
+    "method": "exact_uai",
+    "source_uai": "0950949R"
+  },
+  {
+    "observation": "f4fe19f70a61ccf57f9116ab",
+    "uai": "0771995A",
+    "method": "exact_uai",
+    "source_uai": "0771995A"
+  },
+  {
+    "observation": "ee706e40e13c581f09158f5d",
+    "uai": "0930831Y",
+    "method": "exact_uai",
+    "source_uai": "0930831Y"
+  },
+  {
+    "observation": "b4c2d10b9ee688d543044eee",
+    "uai": "0920141D",
+    "method": "exact_uai",
+    "source_uai": "0920141D"
+  },
+  {
+    "observation": "cb84c5d7a619ea08a044a19a",
+    "uai": "0920145H",
+    "method": "exact_uai",
+    "source_uai": "0920145H"
+  },
+  {
+    "observation": "a9c15677098537a9f29f1fc6",
+    "uai": "0750680G",
+    "method": "exact_uai",
+    "source_uai": "0750680G"
+  },
+  {
+    "observation": "ae05c849335c730dd52ca677",
+    "uai": "0771027Y",
+    "method": "exact_uai",
+    "source_uai": "0771027Y"
+  },
+  {
+    "observation": "58b364d8325e7f955e2241f3",
+    "uai": "0940145X",
+    "method": "exact_uai",
+    "source_uai": "0940145X"
+  },
+  {
+    "observation": "6764642b666cc9a73ba9fd4b",
+    "uai": "0750654D",
+    "method": "exact_uai",
+    "source_uai": "0750654D"
+  },
+  {
+    "observation": "b514a8138f4690c30bf3925c",
+    "uai": "0750691U",
+    "method": "exact_uai",
+    "source_uai": "0750691U"
+  },
+  {
+    "observation": "4084b58c5f8d52455743c8a7",
+    "uai": "0922276Z",
+    "method": "exact_uai",
+    "source_uai": "0922276Z"
+  },
+  {
+    "observation": "aff84162e1a3cb99e14e4c19",
+    "uai": "0931565W",
+    "method": "exact_uai",
+    "source_uai": "0931565W"
+  },
+  {
+    "observation": "2aa07248829328ed8d0fe2f5",
+    "uai": "0772225A",
+    "method": "exact_uai",
+    "source_uai": "0772225A"
+  },
+  {
+    "observation": "4b4a0fd994c292acabd23dd9",
+    "uai": "0920147K",
+    "method": "exact_uai",
+    "source_uai": "0920147K"
+  },
+  {
+    "observation": "52b0d039eebb177b627002bd",
+    "uai": "0770943G",
+    "method": "exact_uai",
+    "source_uai": "0770943G"
+  },
+  {
+    "observation": "6a9b024fd159fc1e859ec5a2",
+    "uai": "0922276Z",
+    "method": "exact_uai",
+    "source_uai": "0922276Z"
+  },
+  {
+    "observation": "f4e688aaaf965d09c517f933",
+    "uai": "0750654D",
+    "method": "exact_uai",
+    "source_uai": "0750654D"
+  },
+  {
+    "observation": "27000ea50405faf3ce9c84d0",
+    "uai": "0921676X",
+    "method": "exact_uai",
+    "source_uai": "0921676X"
+  },
+  {
+    "observation": "ec2bb770d2605d08e017c31f",
+    "uai": "0771027Y",
+    "method": "exact_uai",
+    "source_uai": "0771027Y"
+  },
+  {
+    "observation": "16f0def9281b4be3c71112ca",
+    "uai": "0750711R",
+    "method": "exact_uai",
+    "source_uai": "0750711R"
+  },
+  {
+    "observation": "a532347610f53d4459cda5d1",
+    "uai": "0754530S",
+    "method": "exact_uai",
+    "source_uai": "0754530S"
+  },
+  {
+    "observation": "88f9599a3af4917c9f1c1b69",
+    "uai": "0931613Y",
+    "method": "exact_uai",
+    "source_uai": "0931613Y"
+  },
+  {
+    "observation": "b7de552115ca9c9e67c43b60",
+    "uai": "0752961L",
+    "method": "exact_uai",
+    "source_uai": "0752961L"
+  },
+  {
+    "observation": "6c9143971fc9b24fd830951c",
+    "uai": "0781983G",
+    "method": "exact_uai",
+    "source_uai": "0781983G"
+  },
+  {
+    "observation": "186499c297fafdbefee9007c",
+    "uai": "0920171L",
+    "method": "exact_uai",
+    "source_uai": "0920171L"
+  },
+  {
+    "observation": "cd9ebbebebf40043788a3822",
+    "uai": "0940118T",
+    "method": "exact_uai",
+    "source_uai": "0940118T"
+  },
+  {
+    "observation": "8d055dc8098d03dc8262547c",
+    "uai": "0951673C",
+    "method": "exact_uai",
+    "source_uai": "0951673C"
+  },
+  {
+    "observation": "86b7d3786f8176c79d0328a3",
+    "uai": "0920135X",
+    "method": "exact_uai",
+    "source_uai": "0920135X"
+  },
+  {
+    "observation": "4fe46ca4f447317abfbd5880",
+    "uai": "0940141T",
+    "method": "exact_uai",
+    "source_uai": "0940141T"
+  },
+  {
+    "observation": "8bb82eb23927ea1a25c59dbe",
+    "uai": "0941413A",
+    "method": "exact_uai",
+    "source_uai": "0941413A"
+  },
+  {
+    "observation": "1bc04df16807366cf8f64fef",
+    "uai": "0781949V",
+    "method": "exact_uai",
+    "source_uai": "0781949V"
+  },
+  {
+    "observation": "9db63ff0c0981c55cfc9ccca",
+    "uai": "0920130S",
+    "method": "exact_uai",
+    "source_uai": "0920130S"
+  },
+  {
+    "observation": "6a939776416cbe2e765863e1",
+    "uai": "0940124Z",
+    "method": "exact_uai",
+    "source_uai": "0940124Z"
+  },
+  {
+    "observation": "9100072013dc9adad0f426b9",
+    "uai": "0754475G",
+    "method": "exact_uai",
+    "source_uai": "0754475G"
+  },
+  {
+    "observation": "d334414f6ac8641db97bae60",
+    "uai": "0940137N",
+    "method": "exact_uai",
+    "source_uai": "0940137N"
+  },
+  {
+    "observation": "ca450dab2b1f0e4f2ac36ed9",
+    "uai": "0782565P",
+    "method": "exact_uai",
+    "source_uai": "0782565P"
+  },
+  {
+    "observation": "18eb5ed63b4f34a8b039b765",
+    "uai": "0920144G",
+    "method": "exact_uai",
+    "source_uai": "0920144G"
+  },
+  {
+    "observation": "170e35fcacad8b6dc0cf4cd3",
+    "uai": "0940114N",
+    "method": "exact_uai",
+    "source_uai": "0940114N"
+  },
+  {
+    "observation": "377331a06a2a7ad70f5eb7de",
+    "uai": "0771763Y",
+    "method": "exact_uai",
+    "source_uai": "0771763Y"
+  },
+  {
+    "observation": "6cd65b487fd3bb5b66c4ebe3",
+    "uai": "0782539L",
+    "method": "exact_uai",
+    "source_uai": "0782539L"
+  },
+  {
+    "observation": "e3c2f3ac47df182f798120d5",
+    "uai": "0782549X",
+    "method": "exact_uai",
+    "source_uai": "0782549X"
+  },
+  {
+    "observation": "16b3db55bdbe9b3d31b586e6",
+    "uai": "0750787Y",
+    "method": "exact_uai",
+    "source_uai": "0750787Y"
+  },
+  {
+    "observation": "7000978b7b187adfadc59ad7",
+    "uai": "0750684L",
+    "method": "exact_uai",
+    "source_uai": "0750684L"
+  },
+  {
+    "observation": "bc3fd501b8d83b5ee565212e",
+    "uai": "0770943G",
+    "method": "exact_uai",
+    "source_uai": "0770943G"
+  },
+  {
+    "observation": "fd09ad3ecbdddfe946fbd947",
+    "uai": "0910620E",
+    "method": "exact_uai",
+    "source_uai": "0910620E"
+  },
+  {
+    "observation": "b94008fa1486a9b87b8a20c5",
+    "uai": "0750654D",
+    "method": "exact_uai",
+    "source_uai": "0750654D"
+  },
+  {
+    "observation": "94a5ddfe8f2bc24168247f2d",
+    "uai": "0754475G",
+    "method": "exact_uai",
+    "source_uai": "0754475G"
+  },
+  {
+    "observation": "2f63a87bf4d88c661bd44fbd",
+    "uai": "0750654D",
+    "method": "exact_uai",
+    "source_uai": "0750654D"
+  },
+  {
+    "observation": "a4e61c57772f9ba7f49ca8a3",
+    "uai": "0940140S",
+    "method": "exact_uai",
+    "source_uai": "0940140S"
+  },
+  {
+    "observation": "a8bd55d4fa7cbfc995571624",
+    "uai": "0771663P",
+    "method": "exact_uai",
+    "source_uai": "0771663P"
+  },
+  {
+    "observation": "6b1b9d3dcee6e1c8230a1eeb",
+    "uai": "0782593V",
+    "method": "exact_uai",
+    "source_uai": "0782593V"
+  },
+  {
+    "observation": "00fb0109d5e21761d4fc9f11",
+    "uai": "0772230F",
+    "method": "exact_uai",
+    "source_uai": "0772230F"
+  },
+  {
+    "observation": "c941bc8bb70bc9d21051e026",
+    "uai": "0752700C",
+    "method": "exact_uai",
+    "source_uai": "0752700C"
+  },
+  {
+    "observation": "03381f2898d13f2843ef89d6",
+    "uai": "0911962N",
+    "method": "exact_uai",
+    "source_uai": "0911962N"
+  },
+  {
+    "observation": "0e49af5656b6947f8f555bd2",
+    "uai": "0930833A",
+    "method": "exact_uai",
+    "source_uai": "0930833A"
+  },
+  {
+    "observation": "f46dfd4f1d6f5ae8bcb6ad91",
+    "uai": "0770933W",
+    "method": "exact_uai",
+    "source_uai": "0770933W"
+  },
+  {
+    "observation": "84314d6c4abecba1b4e7bdb9",
+    "uai": "0932126F",
+    "method": "exact_uai",
+    "source_uai": "0932126F"
+  },
+  {
+    "observation": "a6fcde440abdd043ef87b81e",
+    "uai": "0754684J",
+    "method": "exact_uai",
+    "source_uai": "0754684J"
+  },
+  {
+    "observation": "c30dd1e6de6f0564ec3d5240",
+    "uai": "0750697A",
+    "method": "exact_uai",
+    "source_uai": "0750697A"
+  },
+  {
+    "observation": "0ba51635079cc306f8c8f4ad",
+    "uai": "0750793E",
+    "method": "exact_uai",
+    "source_uai": "0750793E"
+  },
+  {
+    "observation": "9b1650cd397ea2e1f083ea98",
+    "uai": "0750677D",
+    "method": "exact_uai",
+    "source_uai": "0750677D"
+  },
+  {
+    "observation": "af16b96446c94cba42d66084",
+    "uai": "0750508V",
+    "method": "exact_uai",
+    "source_uai": "0750508V"
+  },
+  {
+    "observation": "592342cc67f70d5930f8d220",
+    "uai": "0770942F",
+    "method": "exact_uai",
+    "source_uai": "0770942F"
+  },
+  {
+    "observation": "728bd242ee7fa97bbd1273d1",
+    "uai": "0750677D",
+    "method": "exact_uai",
+    "source_uai": "0750677D"
+  },
+  {
+    "observation": "62c54ff2ab019f8c52e42b96",
+    "uai": "0752961L",
+    "method": "exact_uai",
+    "source_uai": "0752961L"
+  },
+  {
+    "observation": "2cb324d3edc1f68607141932",
+    "uai": "0781819D",
+    "method": "exact_uai",
+    "source_uai": "0781819D"
+  },
+  {
+    "observation": "8fcc66e2b8d008da86d806bc",
+    "uai": "0911492C",
+    "method": "exact_uai",
+    "source_uai": "0911492C"
+  },
+  {
+    "observation": "bd4b17a6f7b4c888630a10d7",
+    "uai": "0754530S",
+    "method": "exact_uai",
+    "source_uai": "0754530S"
+  },
+  {
+    "observation": "44c8cc52b6c9a8c3c9b5fa03",
+    "uai": "0750676C",
+    "method": "exact_uai",
+    "source_uai": "0750676C"
+  },
+  {
+    "observation": "4eee20f929d89b344a5973e8",
+    "uai": "0930118Y",
+    "method": "exact_uai",
+    "source_uai": "0930118Y"
+  },
+  {
+    "observation": "1caba06ac88850c6c8c9bd5f",
+    "uai": "0750697A",
+    "method": "exact_uai",
+    "source_uai": "0750697A"
+  },
+  {
+    "observation": "c148886bb0a599b26f581bbf",
+    "uai": "0920146J",
+    "method": "exact_uai",
+    "source_uai": "0920146J"
+  },
+  {
+    "observation": "7156fcf5f56edbab6f690c78",
+    "uai": "0750776L",
+    "method": "exact_uai",
+    "source_uai": "0750776L"
+  },
+  {
+    "observation": "671c007a1d9071a569e3ab36",
+    "uai": "0772120L",
+    "method": "exact_uai",
+    "source_uai": "0772120L"
+  },
+  {
+    "observation": "105ac1393e0364492f01ff00",
+    "uai": "0770926N",
+    "method": "exact_uai",
+    "source_uai": "0770926N"
+  },
+  {
+    "observation": "45def452f9a9cd9bdff1fdda",
+    "uai": "0920134W",
+    "method": "exact_uai",
+    "source_uai": "0920134W"
+  },
+  {
+    "observation": "34d2d68d763f7bd901ce1fc2",
+    "uai": "0750776L",
+    "method": "exact_uai",
+    "source_uai": "0750776L"
+  },
+  {
+    "observation": "4461e7ff6ff84f2386538dd5",
+    "uai": "0752845K",
+    "method": "exact_uai",
+    "source_uai": "0752845K"
+  },
+  {
+    "observation": "a0804f0ad964206ca74196da",
+    "uai": "0750463W",
+    "method": "exact_uai",
+    "source_uai": "0750463W"
+  },
+  {
+    "observation": "3ba639dcece5d88b17afe4a5",
+    "uai": "0920146J",
+    "method": "exact_uai",
+    "source_uai": "0920146J"
+  },
+  {
+    "observation": "d9aa4290e2801d9879b162d1",
+    "uai": "0750694X",
+    "method": "exact_uai",
+    "source_uai": "0750694X"
+  },
+  {
+    "observation": "68f53dc013d9f0379be7deb8",
+    "uai": "0750778N",
+    "method": "exact_uai",
+    "source_uai": "0750778N"
+  },
+  {
+    "observation": "7a4df92156a6e75dfafff809",
+    "uai": "0754684J",
+    "method": "exact_uai",
+    "source_uai": "0754684J"
+  },
+  {
+    "observation": "c38fb03ee2ad6f0919e593b6",
+    "uai": "0941301D",
+    "method": "exact_uai",
+    "source_uai": "0941301D"
+  },
+  {
+    "observation": "b929576bafd2682b323f9b41",
+    "uai": "0780422K",
+    "method": "exact_uai",
+    "source_uai": "0780422K"
+  },
+  {
+    "observation": "1baef9640382c504baca495a",
+    "uai": "0770920G",
+    "method": "exact_uai",
+    "source_uai": "0770920G"
+  },
+  {
+    "observation": "8589df908610b2974357e4c2",
+    "uai": "0930121B",
+    "method": "exact_uai",
+    "source_uai": "0930121B"
+  },
+  {
+    "observation": "fe03c2d5f33f033ad8b26ac9",
+    "uai": "0750650Z",
+    "method": "exact_uai",
+    "source_uai": "0750650Z"
+  },
+  {
+    "observation": "93c9c70d795694190ca5480b",
+    "uai": "0752961L",
+    "method": "exact_uai",
+    "source_uai": "0752961L"
+  },
+  {
+    "observation": "ce54d8a1c6d4b6204de92a86",
+    "uai": "0911021R",
+    "method": "exact_uai",
+    "source_uai": "0911021R"
+  },
+  {
+    "observation": "420172b6ad758861cad8370d",
+    "uai": "0751708Z",
+    "method": "exact_uai",
+    "source_uai": "0751708Z"
+  },
+  {
+    "observation": "7dee825d4d4f91e1cf35513d",
+    "uai": "0941301D",
+    "method": "exact_uai",
+    "source_uai": "0941301D"
+  },
+  {
+    "observation": "a46d75f71891a6d0b481a40a",
+    "uai": "0770938B",
+    "method": "exact_uai",
+    "source_uai": "0770938B"
+  },
+  {
+    "observation": "7bba3068e4df418815cbe743",
+    "uai": "0771357G",
+    "method": "exact_uai",
+    "source_uai": "0771357G"
+  },
+  {
+    "observation": "988ac2b133afad5f8a8d11ec",
+    "uai": "0750648X",
+    "method": "exact_uai",
+    "source_uai": "0750648X"
+  },
+  {
+    "observation": "c58e0e9695db6e24e0ac88ed",
+    "uai": "0750436S",
+    "method": "exact_uai",
+    "source_uai": "0750436S"
+  },
+  {
+    "observation": "0834333d973b751e8d5ea331",
+    "uai": "0932282A",
+    "method": "exact_uai",
+    "source_uai": "0932282A"
+  },
+  {
+    "observation": "13cb1dbb6e25a9b6e7890a03",
+    "uai": "0750656F",
+    "method": "exact_uai",
+    "source_uai": "0750656F"
+  },
+  {
+    "observation": "9a3ae957cc8f7c4e4b4b189b",
+    "uai": "0941413A",
+    "method": "exact_uai",
+    "source_uai": "0941413A"
+  },
+  {
+    "observation": "40ebebaf8fc93731f2e2184a",
+    "uai": "0750705J",
+    "method": "exact_uai",
+    "source_uai": "0750705J"
+  },
+  {
+    "observation": "adb8d539eb5fa4c968f76b41",
+    "uai": "0910756C",
+    "method": "exact_uai",
+    "source_uai": "0910756C"
+  },
+  {
+    "observation": "1d74534a9abfc99b5210870f",
+    "uai": "0782539L",
+    "method": "exact_uai",
+    "source_uai": "0782539L"
+  },
+  {
+    "observation": "46b4109e9fcea9b920aa43a5",
+    "uai": "0921230M",
+    "method": "exact_uai",
+    "source_uai": "0921230M"
+  },
+  {
+    "observation": "37666255cab1f283a7200f41",
+    "uai": "0772312V",
+    "method": "exact_uai",
+    "source_uai": "0772312V"
+  },
+  {
+    "observation": "b31d7fac4e9b8855cd1938f2",
+    "uai": "0752109K",
+    "method": "exact_uai",
+    "source_uai": "0752109K"
+  },
+  {
+    "observation": "bea922a35730f4bc94b125ef",
+    "uai": "0772312V",
+    "method": "exact_uai",
+    "source_uai": "0772312V"
+  },
+  {
+    "observation": "93715110de41c070ea3b5a64",
+    "uai": "0940123Y",
+    "method": "exact_uai",
+    "source_uai": "0940123Y"
+  },
+  {
+    "observation": "e4ebef8b30cffba145256299",
+    "uai": "0910625K",
+    "method": "exact_uai",
+    "source_uai": "0910625K"
+  },
+  {
+    "observation": "8c32284961f7ca8c805be2fd",
+    "uai": "0911927A",
+    "method": "exact_uai",
+    "source_uai": "0911927A"
+  },
+  {
+    "observation": "b83c2a2a75d62f62a7a8775d",
+    "uai": "0942130E",
+    "method": "exact_uai",
+    "source_uai": "0942130E"
+  },
+  {
+    "observation": "21ffd74f9c791b9764d5b10d",
+    "uai": "0770942F",
+    "method": "exact_uai",
+    "source_uai": "0770942F"
+  },
+  {
+    "observation": "4fbdb4c755d6c7fcbf2404a4",
+    "uai": "0782563M",
+    "method": "exact_uai",
+    "source_uai": "0782563M"
+  },
+  {
+    "observation": "683aae0b30d9d83512a1f5d9",
+    "uai": "0920134W",
+    "method": "exact_uai",
+    "source_uai": "0920134W"
+  },
+  {
+    "observation": "28bb0c3d21e7b5fcafe7186a",
+    "uai": "0751708Z",
+    "method": "exact_uai",
+    "source_uai": "0751708Z"
+  },
+  {
+    "observation": "d8ac08ba305fa26457f8be0e",
+    "uai": "0750794F",
+    "method": "exact_uai",
+    "source_uai": "0750794F"
+  },
+  {
+    "observation": "ae715bf8ca5c783714bcb3b7",
+    "uai": "0920146J",
+    "method": "exact_uai",
+    "source_uai": "0920146J"
+  },
+  {
+    "observation": "55fcc70d985a5aed80d45f28",
+    "uai": "0930118Y",
+    "method": "exact_uai",
+    "source_uai": "0930118Y"
+  },
+  {
+    "observation": "f65c2d74a32e4b1c94441a8c",
+    "uai": "0910630R",
+    "method": "exact_uai",
+    "source_uai": "0910630R"
+  },
+  {
+    "observation": "3b70cfa7ee7b4c5e02a3bb1a",
+    "uai": "0750793E",
+    "method": "exact_uai",
+    "source_uai": "0750793E"
+  },
+  {
+    "observation": "4adc9b2765633cb09340ac02",
+    "uai": "0750463W",
+    "method": "exact_uai",
+    "source_uai": "0750463W"
+  },
+  {
+    "observation": "82b352c13be00871c9002ece",
+    "uai": "0752700C",
+    "method": "exact_uai",
+    "source_uai": "0752700C"
+  },
+  {
+    "observation": "4fa63e6308c87b2b40f9bf55",
+    "uai": "0771336J",
+    "method": "exact_uai",
+    "source_uai": "0771336J"
+  },
+  {
+    "observation": "2f409f6d092eff1c79ba5af4",
+    "uai": "0920171L",
+    "method": "exact_uai",
+    "source_uai": "0920171L"
+  },
+  {
+    "observation": "f534f21249e3f264a5457017",
+    "uai": "0930124E",
+    "method": "exact_uai",
+    "source_uai": "0930124E"
+  },
+  {
+    "observation": "dbb0ac23833590dd9b91b4e0",
+    "uai": "0750694X",
+    "method": "exact_uai",
+    "source_uai": "0750694X"
+  },
+  {
+    "observation": "217a563a651a61a1bcbcc74f",
+    "uai": "0920144G",
+    "method": "exact_uai",
+    "source_uai": "0920144G"
+  },
+  {
+    "observation": "b2e011252267d088119b6def",
+    "uai": "0772243V",
+    "method": "exact_uai",
+    "source_uai": "0772243V"
+  },
+  {
+    "observation": "13d00a1d1eeeecd91d18f65b",
+    "uai": "0750699C",
+    "method": "exact_uai",
+    "source_uai": "0750699C"
+  },
+  {
+    "observation": "3daf39409d434b8457bd90eb",
+    "uai": "0752109K",
+    "method": "exact_uai",
+    "source_uai": "0752109K"
+  },
+  {
+    "observation": "28863aad697faefa820461d3",
+    "uai": "0911401D",
+    "method": "exact_uai",
+    "source_uai": "0911401D"
+  },
+  {
+    "observation": "1e7132428890caf4f6562894",
+    "uai": "0771171E",
+    "method": "exact_uai",
+    "source_uai": "0771171E"
+  },
+  {
+    "observation": "71b75ba221d29026016783fd",
+    "uai": "0772243V",
+    "method": "exact_uai",
+    "source_uai": "0772243V"
+  },
+  {
+    "observation": "abcd448e1ecc00426cd06a1b",
+    "uai": "0770342D",
+    "method": "exact_uai",
+    "source_uai": "0770342D"
+  },
+  {
+    "observation": "b8fef09532b48bfd9f7633de",
+    "uai": "0753350J",
+    "method": "exact_uai",
+    "source_uai": "0753350J"
+  },
+  {
+    "observation": "ef682937decc1ddfb082338a",
+    "uai": "0753350J",
+    "method": "exact_uai",
+    "source_uai": "0753350J"
+  },
+  {
+    "observation": "6b4f1c52471f1d4a2d8560bc",
+    "uai": "0750588G",
+    "method": "exact_uai",
+    "source_uai": "0750588G"
+  },
+  {
+    "observation": "47608503c385e6982a94078e",
+    "uai": "0910625K",
+    "method": "exact_uai",
+    "source_uai": "0910625K"
+  },
+  {
+    "observation": "cbaacb3c6579fb292899d28a",
+    "uai": "0752845K",
+    "method": "exact_uai",
+    "source_uai": "0752845K"
+  },
+  {
+    "observation": "b61e2a54e03069b7c89c2d3a",
+    "uai": "0770943G",
+    "method": "exact_uai",
+    "source_uai": "0770943G"
+  },
+  {
+    "observation": "fb308e3887904a9c2c9fe0ff",
+    "uai": "0770945J",
+    "method": "exact_uai",
+    "source_uai": "0770945J"
+  },
+  {
+    "observation": "93f6860ea9f4368c4fd5d369",
+    "uai": "0753350J",
+    "method": "exact_uai",
+    "source_uai": "0753350J"
+  },
+  {
+    "observation": "955ac5b4dcf0c813809ec113",
+    "uai": "0752608C",
+    "method": "exact_uai",
+    "source_uai": "0752608C"
+  },
+  {
+    "observation": "0feadafb0c6fcad5011267fd",
+    "uai": "0911254U",
+    "method": "exact_uai",
+    "source_uai": "0911254U"
+  },
+  {
+    "observation": "25cd314c87fe2061a9a318e5",
+    "uai": "0750711R",
+    "method": "exact_uai",
+    "source_uai": "0750711R"
+  },
+  {
+    "observation": "0bd5ac6d88383e91d9aa37f9",
+    "uai": "0750794F",
+    "method": "exact_uai",
+    "source_uai": "0750794F"
+  },
+  {
+    "observation": "7d9cc09a69fc8f2aa15ec2c8",
+    "uai": "0782540M",
+    "method": "exact_uai",
+    "source_uai": "0782540M"
+  },
+  {
+    "observation": "5480b987198b2a3786c4a3b4",
+    "uai": "0940126B",
+    "method": "exact_uai",
+    "source_uai": "0940126B"
+  },
+  {
+    "observation": "8925a6c3f1b63362d783107a",
+    "uai": "0751708Z",
+    "method": "exact_uai",
+    "source_uai": "0751708Z"
+  },
+  {
+    "observation": "3bb12ad0c0989d825375021b",
+    "uai": "0750508V",
+    "method": "exact_uai",
+    "source_uai": "0750508V"
+  },
+  {
+    "observation": "3646df2078b01e6cc96dcde5",
+    "uai": "0930125F",
+    "method": "exact_uai",
+    "source_uai": "0930125F"
+  },
+  {
+    "observation": "c20108c6a68cec778fe9ee62",
+    "uai": "0940585A",
+    "method": "exact_uai",
+    "source_uai": "0940585A"
+  },
+  {
+    "observation": "06c6d16dc54ae6bd8796c543",
+    "uai": "0911493D",
+    "method": "exact_uai",
+    "source_uai": "0911493D"
+  },
+  {
+    "observation": "dfe2c8428a35e38635909794",
+    "uai": "0941298A",
+    "method": "exact_uai",
+    "source_uai": "0941298A"
+  },
+  {
+    "observation": "3243a40ee767f0f457d68420",
+    "uai": "0951974E",
+    "method": "exact_uai",
+    "source_uai": "0951974E"
+  },
+  {
+    "observation": "4910559a3df3ce93267b9a5c",
+    "uai": "0782132U",
+    "method": "exact_uai",
+    "source_uai": "0782132U"
+  },
+  {
+    "observation": "2297e433d7b9f99d1455d6b2",
+    "uai": "0931738J",
+    "method": "exact_uai",
+    "source_uai": "0931738J"
+  },
+  {
+    "observation": "9944abb5ad671a6abe3069f9",
+    "uai": "0782593V",
+    "method": "exact_uai",
+    "source_uai": "0782593V"
+  },
+  {
+    "observation": "ef4f1c22f13be71990dc9a89",
+    "uai": "0951753P",
+    "method": "exact_uai",
+    "source_uai": "0951753P"
+  },
+  {
+    "observation": "8bd60cc70aab0adf94b983e8",
+    "uai": "0781845G",
+    "method": "exact_uai",
+    "source_uai": "0781845G"
+  },
+  {
+    "observation": "3460408cafff0909cf9cf2bc",
+    "uai": "0940145X",
+    "method": "exact_uai",
+    "source_uai": "0940145X"
+  },
+  {
+    "observation": "8eb7edbb9e6d2aabd298dbc6",
+    "uai": "0921156G",
+    "method": "exact_uai",
+    "source_uai": "0921156G"
+  },
+  {
+    "observation": "c30498b93f0fd937408f5f9a",
+    "uai": "0750655E",
+    "method": "exact_uai",
+    "source_uai": "0750655E"
+  },
+  {
+    "observation": "3ff7b3332200c37432fd9a1a",
+    "uai": "0941018W",
+    "method": "exact_uai",
+    "source_uai": "0941018W"
+  },
+  {
+    "observation": "e6497f45495d455dc2cab7d4",
+    "uai": "0781948U",
+    "method": "exact_uai",
+    "source_uai": "0781948U"
+  },
+  {
+    "observation": "609462585ac46ba1a9e522e8",
+    "uai": "0770932V",
+    "method": "exact_uai",
+    "source_uai": "0770932V"
+  },
+  {
+    "observation": "33115e9e1b5ed5bff9a5f6d7",
+    "uai": "0783431F",
+    "method": "exact_uai",
+    "source_uai": "0783431F"
+  },
+  {
+    "observation": "31d38f412ac7e85a46a49774",
+    "uai": "0920163C",
+    "method": "exact_uai",
+    "source_uai": "0920163C"
+  },
+  {
+    "observation": "f6cb3881eb04e8499639b707",
+    "uai": "0922276Z",
+    "method": "exact_uai",
+    "source_uai": "0922276Z"
+  },
+  {
+    "observation": "9c0e0e488ab089110dc4a62d",
+    "uai": "0941972H",
+    "method": "exact_uai",
+    "source_uai": "0941972H"
+  },
+  {
+    "observation": "08172645366cefe6a7126184",
+    "uai": "0940114N",
+    "method": "exact_uai",
+    "source_uai": "0940114N"
+  },
+  {
+    "observation": "074d1895dbec367ddd240cbf",
+    "uai": "0781948U",
+    "method": "exact_uai",
+    "source_uai": "0781948U"
+  },
+  {
+    "observation": "ba5df05f275a768c6a771bbc",
+    "uai": "0911913K",
+    "method": "exact_uai",
+    "source_uai": "0911913K"
+  },
+  {
+    "observation": "cbf89f44f05228bcf4949ac1",
+    "uai": "0932121A",
+    "method": "exact_uai",
+    "source_uai": "0932121A"
+  },
+  {
+    "observation": "3365e606e920826a7583b296",
+    "uai": "0782568T",
+    "method": "exact_uai",
+    "source_uai": "0782568T"
+  },
+  {
+    "observation": "4b1bc689bd831dec129dc113",
+    "uai": "0782549X",
+    "method": "exact_uai",
+    "source_uai": "0782549X"
+  },
+  {
+    "observation": "c42665f7776b6fd082a59d89",
+    "uai": "0780422K",
+    "method": "exact_uai",
+    "source_uai": "0780422K"
+  },
+  {
+    "observation": "c57fec43794929e4dca495a7",
+    "uai": "0941974K",
+    "method": "exact_uai",
+    "source_uai": "0941974K"
+  },
+  {
+    "observation": "f1662168165f2f57a569da22",
+    "uai": "0782539L",
+    "method": "exact_uai",
+    "source_uai": "0782539L"
+  },
+  {
+    "observation": "572c623858b18b23523a740b",
+    "uai": "0940118T",
+    "method": "exact_uai",
+    "source_uai": "0940118T"
+  },
+  {
+    "observation": "8db952c8183d7210497ec042",
+    "uai": "0940114N",
+    "method": "exact_uai",
+    "source_uai": "0940114N"
+  },
+  {
+    "observation": "e722fde390a0d5d8d27ebdfa",
+    "uai": "0930128J",
+    "method": "exact_uai",
+    "source_uai": "0930128J"
+  },
+  {
+    "observation": "00a4fbbc5edc47311ea0bff5",
+    "uai": "0941474S",
+    "method": "exact_uai",
+    "source_uai": "0941474S"
+  },
+  {
+    "observation": "2e769d55038934ad26e7822b",
+    "uai": "0950164M",
+    "method": "exact_uai",
+    "source_uai": "0950164M"
+  },
+  {
+    "observation": "0dcc7f0a0473ba5c79d8fba8",
+    "uai": "0750685M",
+    "method": "exact_uai",
+    "source_uai": "0750685M"
+  },
+  {
+    "observation": "b357d16330c628cf171a1803",
+    "uai": "0782565P",
+    "method": "exact_uai",
+    "source_uai": "0782565P"
+  },
+  {
+    "observation": "c0fcdfb10f1fb39f1cf1e27e",
+    "uai": "0931430Z",
+    "method": "exact_uai",
+    "source_uai": "0931430Z"
+  },
+  {
+    "observation": "f46c578d3dbef92c3fcd0065",
+    "uai": "0941294W",
+    "method": "exact_uai",
+    "source_uai": "0941294W"
+  },
+  {
+    "observation": "b8cde481385ea80141c27538",
+    "uai": "0750653C",
+    "method": "exact_uai",
+    "source_uai": "0750653C"
+  },
+  {
+    "observation": "80723a2763116b44f8e7f7e5",
+    "uai": "0920147K",
+    "method": "exact_uai",
+    "source_uai": "0920147K"
+  },
+  {
+    "observation": "d2c8ed870afcbc742eb78b8f",
+    "uai": "0921594H",
+    "method": "exact_uai",
+    "source_uai": "0921594H"
+  },
+  {
+    "observation": "6e37a174755f22eb828bd7a3",
+    "uai": "0781512V",
+    "method": "exact_uai",
+    "source_uai": "0781512V"
+  },
+  {
+    "observation": "16b8cdb9ad701a4acf8827ef",
+    "uai": "0920810F",
+    "method": "exact_uai",
+    "source_uai": "0920810F"
+  },
+  {
+    "observation": "f311c633bd485e80d54f492f",
+    "uai": "0951788C",
+    "method": "exact_uai",
+    "source_uai": "0951788C"
+  },
+  {
+    "observation": "0390a1ae2d3c926879f9961d",
+    "uai": "0920135X",
+    "method": "exact_uai",
+    "source_uai": "0920135X"
+  },
+  {
+    "observation": "4a20762b3a2e5d43ee797805",
+    "uai": "0940145X",
+    "method": "exact_uai",
+    "source_uai": "0940145X"
+  },
+  {
+    "observation": "54a17d7477da7c0b6a795ec0",
+    "uai": "0940122X",
+    "method": "exact_uai",
+    "source_uai": "0940122X"
+  },
+  {
+    "observation": "677d399ceeb98fde9f36237f",
+    "uai": "0951748J",
+    "method": "exact_uai",
+    "source_uai": "0951748J"
+  },
+  {
+    "observation": "0309172c942574bddce161ca",
+    "uai": "0782587N",
+    "method": "exact_uai",
+    "source_uai": "0782587N"
+  },
+  {
+    "observation": "43ae709ddefb1a28e0261ae6",
+    "uai": "0920130S",
+    "method": "exact_uai",
+    "source_uai": "0920130S"
+  },
+  {
+    "observation": "8623d7027728baebdf21caaf",
+    "uai": "0932122B",
+    "method": "exact_uai",
+    "source_uai": "0932122B"
+  },
+  {
+    "observation": "447746d9f3f9d8c43983d54d",
+    "uai": "0951281B",
+    "method": "exact_uai",
+    "source_uai": "0951281B"
+  },
+  {
+    "observation": "8fdc3d17ccf41a34378354f1",
+    "uai": "0781983G",
+    "method": "exact_uai",
+    "source_uai": "0781983G"
+  },
+  {
+    "observation": "2184ea6b1abff7ca756b39e5",
+    "uai": "0780422K",
+    "method": "exact_uai",
+    "source_uai": "0780422K"
+  },
+  {
+    "observation": "43ffbc5c9a1ca6dfb3e45a37",
+    "uai": "0781859X",
+    "method": "exact_uai",
+    "source_uai": "0781859X"
+  },
+  {
+    "observation": "1b9934138eb1a97a1a82c195",
+    "uai": "0941972H",
+    "method": "exact_uai",
+    "source_uai": "0941972H"
+  },
+  {
+    "observation": "402bbd65e2ad111baaf8a001",
+    "uai": "0782565P",
+    "method": "exact_uai",
+    "source_uai": "0782565P"
+  },
+  {
+    "observation": "7a847f7c34115ceb47f740fc",
+    "uai": "0920147K",
+    "method": "exact_uai",
+    "source_uai": "0920147K"
+  },
+  {
+    "observation": "7fc59342ece110518b353230",
+    "uai": "0951727L",
+    "method": "exact_uai",
+    "source_uai": "0951727L"
+  },
+  {
+    "observation": "a37dd404d6c29e5cbd87eab7",
+    "uai": "0920130S",
+    "method": "exact_uai",
+    "source_uai": "0920130S"
+  },
+  {
+    "observation": "c504b29c6f2ed00d03d8327c",
+    "uai": "0782132U",
+    "method": "exact_uai",
+    "source_uai": "0782132U"
+  },
+  {
+    "observation": "8ec840292b6afc16d19a6835",
+    "uai": "0782568T",
+    "method": "exact_uai",
+    "source_uai": "0782568T"
+  },
+  {
+    "observation": "128a61dada395b562de9d66c",
+    "uai": "0950949R",
+    "method": "exact_uai",
+    "source_uai": "0950949R"
+  },
+  {
+    "observation": "3d7b0330c70356889f33519e",
+    "uai": "0782549X",
+    "method": "exact_uai",
+    "source_uai": "0782549X"
+  },
+  {
+    "observation": "86a25205760a07392b7f80ec",
+    "uai": "0922149L",
+    "method": "exact_uai",
+    "source_uai": "0922149L"
+  },
+  {
+    "observation": "e21fb06d978bd3139824a346",
+    "uai": "0920801W",
+    "method": "exact_uai",
+    "source_uai": "0920801W"
+  },
+  {
+    "observation": "519c80fecc206b9373154b54",
+    "uai": "0750647W",
+    "method": "exact_uai",
+    "source_uai": "0750647W"
+  },
+  {
+    "observation": "639a7456a62d5b1835d26102",
+    "uai": "0920164D",
+    "method": "exact_uai",
+    "source_uai": "0920164D"
+  },
+  {
+    "observation": "c1c9a986997769599c43dbd6",
+    "uai": "0920810F",
+    "method": "exact_uai",
+    "source_uai": "0920810F"
+  },
+  {
+    "observation": "8c17cee8e6a37ee04644e06a",
+    "uai": "0782540M",
+    "method": "exact_uai",
+    "source_uai": "0782540M"
+  },
+  {
+    "observation": "9b47c53ae7105bd64dcc5926",
+    "uai": "0940122X",
+    "method": "exact_uai",
+    "source_uai": "0940122X"
+  },
+  {
+    "observation": "61c28a067241dbb2de453577",
+    "uai": "0781839A",
+    "method": "exact_uai",
+    "source_uai": "0781839A"
+  },
+  {
+    "observation": "3c6e90cc8d741bac808969cb",
+    "uai": "0940116R",
+    "method": "exact_uai",
+    "source_uai": "0940116R"
+  },
+  {
+    "observation": "e87fda3855227b104be93716",
+    "uai": "0941975L",
+    "method": "exact_uai",
+    "source_uai": "0941975L"
+  },
+  {
+    "observation": "6a53410fa1848d27523934ab",
+    "uai": "0922464D",
+    "method": "exact_uai",
+    "source_uai": "0922464D"
+  },
+  {
+    "observation": "0ff58c0626d1c83177363db6",
+    "uai": "0781984H",
+    "method": "exact_uai",
+    "source_uai": "0781984H"
+  },
+  {
+    "observation": "44d4237f4af2de007ef52ca2",
+    "uai": "0951282C",
+    "method": "exact_uai",
+    "source_uai": "0951282C"
+  },
+  {
+    "observation": "d0b7fc6b4e12399e03f1aa17",
+    "uai": "0750654D",
+    "method": "exact_uai",
+    "source_uai": "0750654D"
+  },
+  {
+    "observation": "5df659c9e3e22d6ac7a86973",
+    "uai": "0950645K",
+    "method": "exact_uai",
+    "source_uai": "0950645K"
+  },
+  {
+    "observation": "587ef8549338d7364431288e",
+    "uai": "0921626T",
+    "method": "exact_uai",
+    "source_uai": "0921626T"
+  },
+  {
+    "observation": "b33127a598f4277e80bb6794",
+    "uai": "0940141T",
+    "method": "exact_uai",
+    "source_uai": "0940141T"
+  },
+  {
+    "observation": "643ff01a55896b977c815478",
+    "uai": "0922398G",
+    "method": "exact_uai",
+    "source_uai": "0922398G"
+  },
+  {
+    "observation": "030bd22309fbe85d74c8d005",
+    "uai": "0920141D",
+    "method": "exact_uai",
+    "source_uai": "0920141D"
+  },
+  {
+    "observation": "f4b68db9a7d000ab3851aa08",
+    "uai": "0772751X",
+    "method": "exact_uai",
+    "source_uai": "0772751X"
+  },
+  {
+    "observation": "4385758c86270b99629ffe50",
+    "uai": "0940123Y",
+    "method": "exact_uai",
+    "source_uai": "0940123Y"
+  },
+  {
+    "observation": "d980a4a79c0d0b35d404cf6c",
+    "uai": "0772127U",
+    "method": "exact_uai",
+    "source_uai": "0772127U"
+  },
+  {
+    "observation": "2630680d69c3416961cbfe73",
+    "uai": "0940123Y",
+    "method": "exact_uai",
+    "source_uai": "0940123Y"
+  },
+  {
+    "observation": "6be6f1609a7e861f33575fbb",
+    "uai": "0920158X",
+    "method": "exact_uai",
+    "source_uai": "0920158X"
+  },
+  {
+    "observation": "eafb78c1ab1ab1cb810bdb40",
+    "uai": "0931613Y",
+    "method": "exact_uai",
+    "source_uai": "0931613Y"
+  },
+  {
+    "observation": "92fd7c3f8bfc6aaca9121b7c",
+    "uai": "0940141T",
+    "method": "exact_uai",
+    "source_uai": "0940141T"
+  },
+  {
+    "observation": "97de3f36723d0769da858af1",
+    "uai": "0750677D",
+    "method": "exact_uai",
+    "source_uai": "0750677D"
+  },
+  {
+    "observation": "cb5c3d0e0bd1122e1ee3957e",
+    "uai": "0920141D",
+    "method": "exact_uai",
+    "source_uai": "0920141D"
+  },
+  {
+    "observation": "1782ba6e7fe847863b97d1e5",
+    "uai": "0752961L",
+    "method": "exact_uai",
+    "source_uai": "0752961L"
+  },
+  {
+    "observation": "b2b5561ff3a60baa0b37bb15",
+    "uai": "0772225A",
+    "method": "exact_uai",
+    "source_uai": "0772225A"
+  },
+  {
+    "observation": "54130ed748e6f4d6aa23db5d",
+    "uai": "0750558Z",
+    "method": "exact_uai",
+    "source_uai": "0750558Z"
+  },
+  {
+    "observation": "79b1abc47fabdc02a5c48437",
+    "uai": "0781819D",
+    "method": "exact_uai",
+    "source_uai": "0781819D"
+  },
+  {
+    "observation": "178e6553941ade472d5109dc",
+    "uai": "0951748J",
+    "method": "exact_uai",
+    "source_uai": "0951748J"
+  },
+  {
+    "observation": "ae52e2692322df614d5c2c6f",
+    "uai": "0940126B",
+    "method": "exact_uai",
+    "source_uai": "0940126B"
+  },
+  {
+    "observation": "2c2bba6c2840baf7cdcf51f2",
+    "uai": "0941952L",
+    "method": "exact_uai",
+    "source_uai": "0941952L"
+  },
+  {
+    "observation": "d826f235d25c05a53765f799",
+    "uai": "0940115P",
+    "method": "exact_uai",
+    "source_uai": "0940115P"
+  },
+  {
+    "observation": "8981263806b464306fef8d9c",
+    "uai": "0950983C",
+    "method": "exact_uai",
+    "source_uai": "0950983C"
+  },
+  {
+    "observation": "13a8aaed233363261a522c07",
+    "uai": "0951673C",
+    "method": "exact_uai",
+    "source_uai": "0951673C"
+  },
+  {
+    "observation": "17946fe84f5624cd821008a0",
+    "uai": "0770934X",
+    "method": "exact_uai",
+    "source_uai": "0770934X"
+  },
+  {
+    "observation": "4badb913afcdf1ac6648fcc5",
+    "uai": "0783548H",
+    "method": "exact_uai",
+    "source_uai": "0783548H"
+  },
+  {
+    "observation": "c7c281268568dd1dbc4541c8",
+    "uai": "0951723G",
+    "method": "exact_uai",
+    "source_uai": "0951723G"
+  },
+  {
+    "observation": "11e2d802d7d34baf3254f8b6",
+    "uai": "0770932V",
+    "method": "exact_uai",
+    "source_uai": "0770932V"
+  },
+  {
+    "observation": "a6da716456e271009583553e",
+    "uai": "0772188K",
+    "method": "exact_uai",
+    "source_uai": "0772188K"
+  },
+  {
+    "observation": "4b05cca0db0d314407fa05fe",
+    "uai": "0750692V",
+    "method": "exact_uai",
+    "source_uai": "0750692V"
+  },
+  {
+    "observation": "7e98da12c5d08194dae98ac5",
+    "uai": "0750680G",
+    "method": "exact_uai",
+    "source_uai": "0750680G"
+  },
+  {
+    "observation": "ea4cd54e66c6642aa55a78bb",
+    "uai": "0752846L",
+    "method": "exact_uai",
+    "source_uai": "0752846L"
+  },
+  {
+    "observation": "b027d6f9e9388f926362e964",
+    "uai": "0771663P",
+    "method": "exact_uai",
+    "source_uai": "0771663P"
+  },
+  {
+    "observation": "511015576b61015f817dc09d",
+    "uai": "0770920G",
+    "method": "exact_uai",
+    "source_uai": "0770920G"
+  },
+  {
+    "observation": "bf8d6f40778546c49095d2cd",
+    "uai": "0921625S",
+    "method": "exact_uai",
+    "source_uai": "0921625S"
+  },
+  {
+    "observation": "80c096dda6c480167cdd3ec9",
+    "uai": "0753256G",
+    "method": "exact_uai",
+    "source_uai": "0753256G"
+  },
+  {
+    "observation": "3da316ce14c56380404344c7",
+    "uai": "0772228D",
+    "method": "exact_uai",
+    "source_uai": "0772228D"
+  },
+  {
+    "observation": "84a0d528019da73446d56d29",
+    "uai": "0951922Y",
+    "method": "exact_uai",
+    "source_uai": "0951922Y"
+  },
+  {
+    "observation": "9f233f79a9ceee58e53aacd8",
+    "uai": "0921505L",
+    "method": "exact_uai",
+    "source_uai": "0921505L"
+  },
+  {
+    "observation": "303d2cd5051c384a303cd1a2",
+    "uai": "0772188K",
+    "method": "exact_uai",
+    "source_uai": "0772188K"
+  },
+  {
+    "observation": "233f19eee571dc5ec4a5acf4",
+    "uai": "0782546U",
+    "method": "exact_uai",
+    "source_uai": "0782546U"
+  },
+  {
+    "observation": "fc47e1d112d69cec0757f2ab",
+    "uai": "0911937L",
+    "method": "exact_uai",
+    "source_uai": "0911937L"
+  },
+  {
+    "observation": "8251461ea2f56a736c7fba93",
+    "uai": "0950658Z",
+    "method": "exact_uai",
+    "source_uai": "0950658Z"
+  },
+  {
+    "observation": "3d2c62a6fe1e205d6a3dde80",
+    "uai": "0772127U",
+    "method": "exact_uai",
+    "source_uai": "0772127U"
+  },
+  {
+    "observation": "116bc9864d43ff0f7792a8a5",
+    "uai": "0770920G",
+    "method": "exact_uai",
+    "source_uai": "0770920G"
+  },
+  {
+    "observation": "7f9adec4dab04a079b0b895b",
+    "uai": "0950983C",
+    "method": "exact_uai",
+    "source_uai": "0950983C"
+  },
+  {
+    "observation": "c56a0a634d521b686e33c484",
+    "uai": "0750698B",
+    "method": "exact_uai",
+    "source_uai": "0750698B"
+  },
+  {
+    "observation": "fd51896323ead5b98541a1b6",
+    "uai": "0941972H",
+    "method": "exact_uai",
+    "source_uai": "0941972H"
+  },
+  {
+    "observation": "18598ba88c66aac1bb9d4387",
+    "uai": "0771658J",
+    "method": "exact_uai",
+    "source_uai": "0771658J"
+  },
+  {
+    "observation": "50c6e7cb37aac6d7652f816f",
+    "uai": "0772127U",
+    "method": "exact_uai",
+    "source_uai": "0772127U"
+  },
+  {
+    "observation": "fc8d789ed35a858f4542688b",
+    "uai": "0772244W",
+    "method": "exact_uai",
+    "source_uai": "0772244W"
+  },
+  {
+    "observation": "005a3240b8108a49cc0de37f",
+    "uai": "0771658J",
+    "method": "exact_uai",
+    "source_uai": "0771658J"
+  },
+  {
+    "observation": "c3e6a719fbfe20560113f367",
+    "uai": "0920150N",
+    "method": "exact_uai",
+    "source_uai": "0920150N"
+  },
+  {
+    "observation": "574bf0ca9d3a8b8af647fd6a",
+    "uai": "0921230M",
+    "method": "exact_uai",
+    "source_uai": "0921230M"
+  },
+  {
+    "observation": "94ee83b71576c66f8c4ad50f",
+    "uai": "0920141D",
+    "method": "exact_uai",
+    "source_uai": "0920141D"
+  },
+  {
+    "observation": "7a748df9f3403ef3f7265513",
+    "uai": "0912142J",
+    "method": "exact_uai",
+    "source_uai": "0912142J"
+  },
+  {
+    "observation": "064fbc92c8351e5d9f882296",
+    "uai": "0750714U",
+    "method": "exact_uai",
+    "source_uai": "0750714U"
+  },
+  {
+    "observation": "1b047176675d720d458dbf9f",
+    "uai": "0782540M",
+    "method": "exact_uai",
+    "source_uai": "0782540M"
+  },
+  {
+    "observation": "20f0449953cc9a9798608789",
+    "uai": "0941470M",
+    "method": "exact_uai",
+    "source_uai": "0941470M"
+  },
+  {
+    "observation": "be4e84e91d53dcd1ac4e55e5",
+    "uai": "0940120V",
+    "method": "exact_uai",
+    "source_uai": "0940120V"
+  },
+  {
+    "observation": "eb7e7c6b81993926e5407f35",
+    "uai": "0940585A",
+    "method": "exact_uai",
+    "source_uai": "0940585A"
+  },
+  {
+    "observation": "269a434c55f6271822cbb71a",
+    "uai": "0941474S",
+    "method": "exact_uai",
+    "source_uai": "0941474S"
+  },
+  {
+    "observation": "010b8385325c4922ae739391",
+    "uai": "0951723G",
+    "method": "exact_uai",
+    "source_uai": "0951723G"
+  },
+  {
+    "observation": "5e1fb1ed6cb6b29d1ed113fd",
+    "uai": "0910622G",
+    "method": "exact_uai",
+    "source_uai": "0910622G"
+  },
+  {
+    "observation": "e6ad8d68f1514807bc34b40f",
+    "uai": "0940121W",
+    "method": "exact_uai",
+    "source_uai": "0940121W"
+  },
+  {
+    "observation": "3dddfbbac9e9427e2cf905b6",
+    "uai": "0910622G",
+    "method": "exact_uai",
+    "source_uai": "0910622G"
+  },
+  {
+    "observation": "29873b962b4fa79f75a7bad3",
+    "uai": "0783214V",
+    "method": "exact_uai",
+    "source_uai": "0783214V"
+  },
+  {
+    "observation": "b60d1e82be0e6aa026aa3b4e",
+    "uai": "0940137N",
+    "method": "exact_uai",
+    "source_uai": "0940137N"
+  },
+  {
+    "observation": "4686f3ed6e427b0d4a9acb45",
+    "uai": "0750655E",
+    "method": "exact_uai",
+    "source_uai": "0750655E"
+  },
+  {
+    "observation": "c68e224420476bac809a9e9a",
+    "uai": "0951637N",
+    "method": "exact_uai",
+    "source_uai": "0951637N"
+  },
+  {
+    "observation": "0239ca3266c6f1c6ef9fff02",
+    "uai": "0782587N",
+    "method": "exact_uai",
+    "source_uai": "0782587N"
+  },
+  {
+    "observation": "cc4926d964a09cd78ac35daa",
+    "uai": "0750676C",
+    "method": "exact_uai",
+    "source_uai": "0750676C"
+  },
+  {
+    "observation": "b4248b69e351da01ca2db112",
+    "uai": "0911961M",
+    "method": "exact_uai",
+    "source_uai": "0911961M"
+  },
+  {
+    "observation": "ee7b8cccba9ae25d37ab5247",
+    "uai": "0750654D",
+    "method": "exact_uai",
+    "source_uai": "0750654D"
+  },
+  {
+    "observation": "0c0d3e020496f66ab3b9bc9d",
+    "uai": "0750668U",
+    "method": "exact_uai",
+    "source_uai": "0750668U"
+  },
+  {
+    "observation": "95c66badd74fa7d7f5a830af",
+    "uai": "0782587N",
+    "method": "exact_uai",
+    "source_uai": "0782587N"
+  },
+  {
+    "observation": "10935e2e82db4a3b1bb238be",
+    "uai": "0750697A",
+    "method": "exact_uai",
+    "source_uai": "0750697A"
+  },
+  {
+    "observation": "23af469e22bdfde72ebce622",
+    "uai": "0754530S",
+    "method": "exact_uai",
+    "source_uai": "0754530S"
+  },
+  {
+    "observation": "0efc727256eeecb9128e38a1",
+    "uai": "0781984H",
+    "method": "exact_uai",
+    "source_uai": "0781984H"
+  },
+  {
+    "observation": "be8952e0af32d42064e2c772",
+    "uai": "0940118T",
+    "method": "exact_uai",
+    "source_uai": "0940118T"
+  },
+  {
+    "observation": "d1f724d642a5ca91b5cb5e1c",
+    "uai": "0750689S",
+    "method": "exact_uai",
+    "source_uai": "0750689S"
+  },
+  {
+    "observation": "e33da74bb1f011d4c5734f26",
+    "uai": "0770933W",
+    "method": "exact_uai",
+    "source_uai": "0770933W"
+  },
+  {
+    "observation": "14034630649cd5d8f61ac711",
+    "uai": "0771658J",
+    "method": "exact_uai",
+    "source_uai": "0771658J"
+  },
+  {
+    "observation": "ac33895b4c43bb6fac443f98",
+    "uai": "0781861Z",
+    "method": "exact_uai",
+    "source_uai": "0781861Z"
+  },
+  {
+    "observation": "b180eb86a1890baae0681f85",
+    "uai": "0920130S",
+    "method": "exact_uai",
+    "source_uai": "0920130S"
+  },
+  {
+    "observation": "5933c5bf59ae5aa4fe64ed2b",
+    "uai": "0750662M",
+    "method": "exact_uai",
+    "source_uai": "0750662M"
+  },
+  {
+    "observation": "8d9957f9821746997ddd9f59",
+    "uai": "0752700C",
+    "method": "exact_uai",
+    "source_uai": "0752700C"
+  },
+  {
+    "observation": "314898d30dd5316283e77bb6",
+    "uai": "0781984H",
+    "method": "exact_uai",
+    "source_uai": "0781984H"
+  },
+  {
+    "observation": "ee3d7723edbff18618b79586",
+    "uai": "0770940D",
+    "method": "exact_uai",
+    "source_uai": "0770940D"
+  },
+  {
+    "observation": "53bd447c366e3232aa7deaeb",
+    "uai": "0750668U",
+    "method": "exact_uai",
+    "source_uai": "0750668U"
+  },
+  {
+    "observation": "18b3890d3f6e85454bb7d5f7",
+    "uai": "0750690T",
+    "method": "exact_uai",
+    "source_uai": "0750690T"
+  },
+  {
+    "observation": "f0de57628c9f42e2d37fee13",
+    "uai": "0922149L",
+    "method": "exact_uai",
+    "source_uai": "0922149L"
+  },
+  {
+    "observation": "f1be47c1277e5429fd3b2e9c",
+    "uai": "0920141D",
+    "method": "exact_uai",
+    "source_uai": "0920141D"
+  },
+  {
+    "observation": "8c9f520bd8667baadc42cee9",
+    "uai": "0770924L",
+    "method": "exact_uai",
+    "source_uai": "0770924L"
+  },
+  {
+    "observation": "c45cdfabefc9f2c675fda87b",
+    "uai": "0770932V",
+    "method": "exact_uai",
+    "source_uai": "0770932V"
+  },
+  {
+    "observation": "323df20bff234bf17d91471f",
+    "uai": "0951090U",
+    "method": "exact_uai",
+    "source_uai": "0951090U"
+  },
+  {
+    "observation": "19a4b5de46d2b81ca0e45f95",
+    "uai": "0750683K",
+    "method": "exact_uai",
+    "source_uai": "0750683K"
+  },
+  {
+    "observation": "e367843e639b0818860eec2f",
+    "uai": "0922398G",
+    "method": "exact_uai",
+    "source_uai": "0922398G"
+  },
+  {
+    "observation": "4da4351092ca03b151b1cfd1",
+    "uai": "0782540M",
+    "method": "exact_uai",
+    "source_uai": "0782540M"
+  },
+  {
+    "observation": "b3dca4a68c72171144f80521",
+    "uai": "0752700C",
+    "method": "exact_uai",
+    "source_uai": "0752700C"
+  },
+  {
+    "observation": "a154641daf2031f890344fce",
+    "uai": "0782539L",
+    "method": "exact_uai",
+    "source_uai": "0782539L"
+  },
+  {
+    "observation": "a3dd0d7464a2dab15499a9ce",
+    "uai": "0782557F",
+    "method": "exact_uai",
+    "source_uai": "0782557F"
+  },
+  {
+    "observation": "c464993f27c8340272dfefcf",
+    "uai": "0951788C",
+    "method": "exact_uai",
+    "source_uai": "0951788C"
+  },
+  {
+    "observation": "0535da7a93c827c2c41d6bd4",
+    "uai": "0751710B",
+    "method": "exact_uai",
+    "source_uai": "0751710B"
+  },
+  {
+    "observation": "5ea9a8c83044e1b429a19407",
+    "uai": "0750802P",
+    "method": "exact_uai",
+    "source_uai": "0750802P"
+  },
+  {
+    "observation": "99215d806ec595149be9e829",
+    "uai": "0922276Z",
+    "method": "exact_uai",
+    "source_uai": "0922276Z"
+  },
+  {
+    "observation": "fce26861349caea23eca9d7e",
+    "uai": "0750502N",
+    "method": "exact_uai",
+    "source_uai": "0750502N"
+  },
+  {
+    "observation": "1f3e8ac9ada9bb1dbca675bb",
+    "uai": "0921229L",
+    "method": "exact_uai",
+    "source_uai": "0921229L"
+  },
+  {
+    "observation": "f15aedf09e331936ead72cb7",
+    "uai": "0770922J",
+    "method": "exact_uai",
+    "source_uai": "0770922J"
+  },
+  {
+    "observation": "d049361c02baf215c9147229",
+    "uai": "0921592F",
+    "method": "exact_uai",
+    "source_uai": "0921592F"
+  },
+  {
+    "observation": "299d48eca5a14f0ba6fdff74",
+    "uai": "0940116R",
+    "method": "exact_uai",
+    "source_uai": "0940116R"
+  },
+  {
+    "observation": "c45c4f7db1fa80f4f13a9e08",
+    "uai": "0750711R",
+    "method": "exact_uai",
+    "source_uai": "0750711R"
+  },
+  {
+    "observation": "960e2aa95e8f8b3cc397854c",
+    "uai": "0781948U",
+    "method": "exact_uai",
+    "source_uai": "0781948U"
+  },
+  {
+    "observation": "1f08b9f97a30d812f5532cf2",
+    "uai": "0750698B",
+    "method": "exact_uai",
+    "source_uai": "0750698B"
+  },
+  {
+    "observation": "a3dca7b8e5b1c1218489cb2b",
+    "uai": "0750667T",
+    "method": "exact_uai",
+    "source_uai": "0750667T"
+  },
+  {
+    "observation": "b79cec41ce5d6d5e482f3fc3",
+    "uai": "0771171E",
+    "method": "exact_uai",
+    "source_uai": "0771171E"
+  },
+  {
+    "observation": "db24b3889cd03fb1cc640baf",
+    "uai": "0920171L",
+    "method": "exact_uai",
+    "source_uai": "0920171L"
+  },
+  {
+    "observation": "bd7993edb02ba9cc8829087f",
+    "uai": "0950947N",
+    "method": "exact_uai",
+    "source_uai": "0950947N"
+  },
+  {
+    "observation": "9338a2062017207c4157b08a",
+    "uai": "0951763A",
+    "method": "exact_uai",
+    "source_uai": "0951763A"
+  },
+  {
+    "observation": "a4b298e570962282a9d33b81",
+    "uai": "0780422K",
+    "method": "exact_uai",
+    "source_uai": "0780422K"
+  },
+  {
+    "observation": "26fdced70f1ea72af2c110a6",
+    "uai": "0781859X",
+    "method": "exact_uai",
+    "source_uai": "0781859X"
+  },
+  {
+    "observation": "5572cca4e807df5081012bc8",
+    "uai": "0783533S",
+    "method": "exact_uai",
+    "source_uai": "0783533S"
+  },
+  {
+    "observation": "73a447d3b0bfb1b497a5f84a",
+    "uai": "0941355M",
+    "method": "exact_uai",
+    "source_uai": "0941355M"
+  },
+  {
+    "observation": "cd4ca62e561b202e729b7209",
+    "uai": "0750714U",
+    "method": "exact_uai",
+    "source_uai": "0750714U"
+  },
+  {
+    "observation": "45863fba2b041b8233fc6773",
+    "uai": "0950947N",
+    "method": "exact_uai",
+    "source_uai": "0950947N"
+  },
+  {
+    "observation": "96c8ddaa6a1d4e34e7a3d612",
+    "uai": "0750689S",
+    "method": "exact_uai",
+    "source_uai": "0750689S"
+  },
+  {
+    "observation": "b04913434f020cf545ea142e",
+    "uai": "0750668U",
+    "method": "exact_uai",
+    "source_uai": "0750668U"
+  },
+  {
+    "observation": "4e72c83293b8f1d7fd3bf659",
+    "uai": "0750654D",
+    "method": "exact_uai",
+    "source_uai": "0750654D"
+  },
+  {
+    "observation": "39d745c9432cd637ebe59057",
+    "uai": "0750802P",
+    "method": "exact_uai",
+    "source_uai": "0750802P"
+  },
+  {
+    "observation": "6c16fce9597a55b92e603cca",
+    "uai": "0782549X",
+    "method": "exact_uai",
+    "source_uai": "0782549X"
+  },
+  {
+    "observation": "49d2001bcb3c84c9bd234068",
+    "uai": "0750654D",
+    "method": "exact_uai",
+    "source_uai": "0750654D"
+  },
+  {
+    "observation": "2ba2fa74df5d3543c13635fa",
+    "uai": "0920146J",
+    "method": "exact_uai",
+    "source_uai": "0920146J"
+  },
+  {
+    "observation": "3ac8bd398f3f622fbca3e339",
+    "uai": "0772127U",
+    "method": "exact_uai",
+    "source_uai": "0772127U"
+  },
+  {
+    "observation": "5d8fc03c017d01daaae5e685",
+    "uai": "0950647M",
+    "method": "exact_uai",
+    "source_uai": "0950647M"
+  },
+  {
+    "observation": "c6b2e87f462cb3a24f4afb3b",
+    "uai": "0950651S",
+    "method": "exact_uai",
+    "source_uai": "0950651S"
+  },
+  {
+    "observation": "0a795b87da849ef4956de22c",
+    "uai": "0951727L",
+    "method": "exact_uai",
+    "source_uai": "0951727L"
+  },
+  {
+    "observation": "dc09aa38ae93d84aafd7b9c1",
+    "uai": "0951922Y",
+    "method": "exact_uai",
+    "source_uai": "0951922Y"
+  },
+  {
+    "observation": "d9e55eadcbd976745ad12a79",
+    "uai": "0772243V",
+    "method": "exact_uai",
+    "source_uai": "0772243V"
+  },
+  {
+    "observation": "ae180f4011cd2d27cf819995",
+    "uai": "0950647M",
+    "method": "exact_uai",
+    "source_uai": "0950647M"
+  },
+  {
+    "observation": "dab6b0f27c418b2226b12fc1",
+    "uai": "0772230F",
+    "method": "exact_uai",
+    "source_uai": "0772230F"
+  },
+  {
+    "observation": "d5ffd57c477a9c9c33e3073d",
+    "uai": "0951147F",
+    "method": "exact_uai",
+    "source_uai": "0951147F"
+  },
+  {
+    "observation": "eda36015426758bdf2922cb4",
+    "uai": "0750662M",
+    "method": "exact_uai",
+    "source_uai": "0750662M"
+  },
+  {
+    "observation": "72f1628c9fb74694e642a8b7",
+    "uai": "0772225A",
+    "method": "exact_uai",
+    "source_uai": "0772225A"
+  },
+  {
+    "observation": "7a529564db23ca2d1eccd95c",
+    "uai": "0750657G",
+    "method": "exact_uai",
+    "source_uai": "0750657G"
+  },
+  {
+    "observation": "274050f763b24ec56b2e6f0e",
+    "uai": "0951788C",
+    "method": "exact_uai",
+    "source_uai": "0951788C"
+  },
+  {
+    "observation": "d31ec682fc8b73086459f31b",
+    "uai": "0951763A",
+    "method": "exact_uai",
+    "source_uai": "0951763A"
+  },
+  {
+    "observation": "817c3446ad990dd97b2bcb62",
+    "uai": "0951787B",
+    "method": "exact_uai",
+    "source_uai": "0951787B"
+  },
+  {
+    "observation": "a2621e1e9cf03e6dfd820b9c",
+    "uai": "0941018W",
+    "method": "exact_uai",
+    "source_uai": "0941018W"
+  },
+  {
+    "observation": "8330de85dbce530317b7e461",
+    "uai": "0770940D",
+    "method": "exact_uai",
+    "source_uai": "0770940D"
+  },
+  {
+    "observation": "0e3b6efaa7a80007fb7506c9",
+    "uai": "0951618T",
+    "method": "exact_uai",
+    "source_uai": "0951618T"
+  },
+  {
+    "observation": "ec39a0fb2084efb6cdc792cd",
+    "uai": "0920147K",
+    "method": "exact_uai",
+    "source_uai": "0920147K"
+  },
+  {
+    "observation": "673efb5702321fcef53995f8",
+    "uai": "0780515L",
+    "method": "exact_uai",
+    "source_uai": "0780515L"
+  },
+  {
+    "observation": "342a04ed1000b62b03caef7c",
+    "uai": "0920134W",
+    "method": "exact_uai",
+    "source_uai": "0920134W"
+  },
+  {
+    "observation": "f7cedba333a88c3bac03efe8",
+    "uai": "0771027Y",
+    "method": "exact_uai",
+    "source_uai": "0771027Y"
+  },
+  {
+    "observation": "b383513e10258f66b271ef93",
+    "uai": "0912364A",
+    "method": "exact_uai",
+    "source_uai": "0912364A"
+  },
+  {
+    "observation": "14da1c1d4378e0637fdb85ec",
+    "uai": "0753256G",
+    "method": "exact_uai",
+    "source_uai": "0753256G"
+  },
+  {
+    "observation": "5e376f95213688ed0ff08380",
+    "uai": "0750660K",
+    "method": "exact_uai",
+    "source_uai": "0750660K"
+  },
+  {
+    "observation": "d1cf1c48e7259d91555d7d86",
+    "uai": "0770922J",
+    "method": "exact_uai",
+    "source_uai": "0770922J"
+  },
+  {
+    "observation": "afa83a3a5f793e36d664686c",
+    "uai": "0910429X",
+    "method": "exact_uai",
+    "source_uai": "0910429X"
+  },
+  {
+    "observation": "19641ac865147dde106b3737",
+    "uai": "0940120V",
+    "method": "exact_uai",
+    "source_uai": "0940120V"
+  },
+  {
+    "observation": "7ec298e75d7460ab5e779cb6",
+    "uai": "0772277G",
+    "method": "exact_uai",
+    "source_uai": "0772277G"
+  },
+  {
+    "observation": "aff2bccd09c4e0f3fb3c4581",
+    "uai": "0951282C",
+    "method": "exact_uai",
+    "source_uai": "0951282C"
+  },
+  {
+    "observation": "f0bce6454b3a8f9f3b370bae",
+    "uai": "0750655E",
+    "method": "exact_uai",
+    "source_uai": "0750655E"
+  },
+  {
+    "observation": "84267a81d36d7a858722441c",
+    "uai": "0772332S",
+    "method": "exact_uai",
+    "source_uai": "0772332S"
+  },
+  {
+    "observation": "66cbcc7d16b4303979580c40",
+    "uai": "0782568T",
+    "method": "exact_uai",
+    "source_uai": "0782568T"
+  },
+  {
+    "observation": "571f0783f9a82ed5916f38a4",
+    "uai": "0931272C",
+    "method": "exact_uai",
+    "source_uai": "0931272C"
+  },
+  {
+    "observation": "da689ca6d8830a0aed5ca8c0",
+    "uai": "0752846L",
+    "method": "exact_uai",
+    "source_uai": "0752846L"
+  },
+  {
+    "observation": "2cd2322bab8dbd19496570c3",
+    "uai": "0930833A",
+    "method": "exact_uai",
+    "source_uai": "0930833A"
+  },
+  {
+    "observation": "e05f2194c4f1ce3095adfc15",
+    "uai": "0770922J",
+    "method": "exact_uai",
+    "source_uai": "0770922J"
+  },
+  {
+    "observation": "73857080720fa100210747b3",
+    "uai": "0932047V",
+    "method": "exact_uai",
+    "source_uai": "0932047V"
+  },
+  {
+    "observation": "e77147df759376c564105ed7",
+    "uai": "0750682J",
+    "method": "exact_uai",
+    "source_uai": "0750682J"
+  },
+  {
+    "observation": "21a878089c64840041b9f746",
+    "uai": "0930127H",
+    "method": "exact_uai",
+    "source_uai": "0930127H"
+  },
+  {
+    "observation": "5ba154d081ff04665b6e12d7",
+    "uai": "0940171A",
+    "method": "exact_uai",
+    "source_uai": "0940171A"
+  },
+  {
+    "observation": "1a0295e88eb34fa1e4c6102a",
+    "uai": "0950640E",
+    "method": "exact_uai",
+    "source_uai": "0950640E"
+  },
+  {
+    "observation": "394bdca6c4523b621190eb0a",
+    "uai": "0951710T",
+    "method": "exact_uai",
+    "source_uai": "0951710T"
+  },
+  {
+    "observation": "75a009715aa271859e921abd",
+    "uai": "0770943G",
+    "method": "exact_uai",
+    "source_uai": "0770943G"
+  },
+  {
+    "observation": "eed4e7701288b0e8b6f74614",
+    "uai": "0770945J",
+    "method": "exact_uai",
+    "source_uai": "0770945J"
+  },
+  {
+    "observation": "61699246985247a277b8a34c",
+    "uai": "0941232D",
+    "method": "exact_uai",
+    "source_uai": "0941232D"
+  },
+  {
+    "observation": "cf374b0e1c736b17b0ecc2fa",
+    "uai": "0930123D",
+    "method": "exact_uai",
+    "source_uai": "0930123D"
+  },
+  {
+    "observation": "7512cda1ff6c4af311ca2e30",
+    "uai": "0750714U",
+    "method": "exact_uai",
+    "source_uai": "0750714U"
+  },
+  {
+    "observation": "b8060b4d5397303d7bc5fef2",
+    "uai": "0771663P",
+    "method": "exact_uai",
+    "source_uai": "0771663P"
+  },
+  {
+    "observation": "a5a276b35a8eaaf511978cf0",
+    "uai": "0911493D",
+    "method": "exact_uai",
+    "source_uai": "0911493D"
+  },
+  {
+    "observation": "e0866b5da8dc054bf9b0c071",
+    "uai": "0920166F",
+    "method": "exact_uai",
+    "source_uai": "0920166F"
+  },
+  {
+    "observation": "127b898600e4e8075053a74a",
+    "uai": "0750714U",
+    "method": "exact_uai",
+    "source_uai": "0750714U"
+  },
+  {
+    "observation": "f9b0a0eb2d02c21b47fa6ae8",
+    "uai": "0750660K",
+    "method": "exact_uai",
+    "source_uai": "0750660K"
+  },
+  {
+    "observation": "96db4aa9e07762698eaea238",
+    "uai": "0930121B",
+    "method": "exact_uai",
+    "source_uai": "0930121B"
+  },
+  {
+    "observation": "11e9a41aed4ce98da3f8150f",
+    "uai": "0750650Z",
+    "method": "exact_uai",
+    "source_uai": "0750650Z"
+  },
+  {
+    "observation": "1fd956f3f01e625a30e303d0",
+    "uai": "0922397F",
+    "method": "exact_uai",
+    "source_uai": "0922397F"
+  },
+  {
+    "observation": "a5925a3e14bb3c3e8d476802",
+    "uai": "0750654D",
+    "method": "exact_uai",
+    "source_uai": "0750654D"
+  },
+  {
+    "observation": "afa0ca8a3dde2c3e15fe71c1",
+    "uai": "0951399E",
+    "method": "exact_uai",
+    "source_uai": "0951399E"
+  },
+  {
+    "observation": "e85857ad2cf6ad34e0cce055",
+    "uai": "0910715H",
+    "method": "exact_uai",
+    "source_uai": "0910715H"
+  },
+  {
+    "observation": "a5e28abed2f76b5156eaafb9",
+    "uai": "0931613Y",
+    "method": "exact_uai",
+    "source_uai": "0931613Y"
+  },
+  {
+    "observation": "e7147d7185b9163d8071609b",
+    "uai": "0770920G",
+    "method": "exact_uai",
+    "source_uai": "0770920G"
+  },
+  {
+    "observation": "95ccd3ce7fbe1c42954cfc0a",
+    "uai": "0911492C",
+    "method": "exact_uai",
+    "source_uai": "0911492C"
+  },
+  {
+    "observation": "2127f2d469f86b8d61040d03",
+    "uai": "0940143V",
+    "method": "exact_uai",
+    "source_uai": "0940143V"
+  },
+  {
+    "observation": "fb3e77721e755004205258fc",
+    "uai": "0782568T",
+    "method": "exact_uai",
+    "source_uai": "0782568T"
+  },
+  {
+    "observation": "70bf1c3b3db7998ca57613bf",
+    "uai": "0750685M",
+    "method": "exact_uai",
+    "source_uai": "0750685M"
+  },
+  {
+    "observation": "3e69258d4b922be315daa80d",
+    "uai": "0940137N",
+    "method": "exact_uai",
+    "source_uai": "0940137N"
+  },
+  {
+    "observation": "0d63f20680fda352b761b5d6",
+    "uai": "0922427N",
+    "method": "exact_uai",
+    "source_uai": "0922427N"
+  },
+  {
+    "observation": "11585a225d1d49e3315a7c98",
+    "uai": "0750691U",
+    "method": "exact_uai",
+    "source_uai": "0750691U"
+  },
+  {
+    "observation": "65e48099040ae26b911f386e",
+    "uai": "0911828T",
+    "method": "exact_uai",
+    "source_uai": "0911828T"
+  },
+  {
+    "observation": "c574d8085e2b81ac854a3834",
+    "uai": "0941018W",
+    "method": "exact_uai",
+    "source_uai": "0941018W"
+  },
+  {
+    "observation": "a50bb220a0ae70b481c39647",
+    "uai": "0750588G",
+    "method": "exact_uai",
+    "source_uai": "0750588G"
+  },
+  {
+    "observation": "d9781b3267cd840195c6227f",
+    "uai": "0912142J",
+    "method": "exact_uai",
+    "source_uai": "0912142J"
+  },
+  {
+    "observation": "b3309489c982eaf50eefc48f",
+    "uai": "0932229T",
+    "method": "exact_uai",
+    "source_uai": "0932229T"
+  },
+  {
+    "observation": "f35530834aa86f39728d2a12",
+    "uai": "0911353B",
+    "method": "exact_uai",
+    "source_uai": "0911353B"
+  },
+  {
+    "observation": "97e4615b957307cb402f2405",
+    "uai": "0930833A",
+    "method": "exact_uai",
+    "source_uai": "0930833A"
+  },
+  {
+    "observation": "48027a04037ea3f28f112c22",
+    "uai": "0752961L",
+    "method": "exact_uai",
+    "source_uai": "0752961L"
+  },
+  {
+    "observation": "93d2b84346e82f90f6f1065b",
+    "uai": "0941930M",
+    "method": "exact_uai",
+    "source_uai": "0941930M"
+  },
+  {
+    "observation": "b49fc9d28d5ca48282463eea",
+    "uai": "0911962N",
+    "method": "exact_uai",
+    "source_uai": "0911962N"
+  },
+  {
+    "observation": "a0bb370665b481a4968d147f",
+    "uai": "0750654D",
+    "method": "exact_uai",
+    "source_uai": "0750654D"
+  },
+  {
+    "observation": "9762fef8f0971b033043d811",
+    "uai": "0940123Y",
+    "method": "exact_uai",
+    "source_uai": "0940123Y"
+  },
+  {
+    "observation": "6e586b1fbb885080c1c0251e",
+    "uai": "0940137N",
+    "method": "exact_uai",
+    "source_uai": "0940137N"
+  },
+  {
+    "observation": "53628767e6dab5156fd05af8",
+    "uai": "0771658J",
+    "method": "exact_uai",
+    "source_uai": "0771658J"
+  },
+  {
+    "observation": "341657daa9c7b3ceba6f68f1",
+    "uai": "0771940R",
+    "method": "exact_uai",
+    "source_uai": "0771940R"
+  },
+  {
+    "observation": "e87b727fe0e0ae1b111cf120",
+    "uai": "0911353B",
+    "method": "exact_uai",
+    "source_uai": "0911353B"
+  },
+  {
+    "observation": "da07f62a72b351c9e92079b3",
+    "uai": "0932122B",
+    "method": "exact_uai",
+    "source_uai": "0932122B"
+  },
+  {
+    "observation": "9c37e0a30389f631e95c95d0",
+    "uai": "0932034F",
+    "method": "exact_uai",
+    "source_uai": "0932034F"
+  },
+  {
+    "observation": "7f9d17e8ac0ae586ad136f7f",
+    "uai": "0951763A",
+    "method": "exact_uai",
+    "source_uai": "0951763A"
+  },
+  {
+    "observation": "cc63b0111501e9777639831f",
+    "uai": "0950641F",
+    "method": "exact_uai",
+    "source_uai": "0950641F"
+  },
+  {
+    "observation": "5aa230a308aa297b83438da5",
+    "uai": "0912364A",
+    "method": "exact_uai",
+    "source_uai": "0912364A"
+  },
+  {
+    "observation": "354947a99176a718e818e9d6",
+    "uai": "0910623H",
+    "method": "exact_uai",
+    "source_uai": "0910623H"
+  },
+  {
+    "observation": "08650dd26e4f02dbef574e80",
+    "uai": "0753256G",
+    "method": "exact_uai",
+    "source_uai": "0753256G"
+  },
+  {
+    "observation": "df85128548567ad0b40ad271",
+    "uai": "0771027Y",
+    "method": "exact_uai",
+    "source_uai": "0771027Y"
+  },
+  {
+    "observation": "408972f1e41e6ee937878fc5",
+    "uai": "0940580V",
+    "method": "exact_uai",
+    "source_uai": "0940580V"
+  },
+  {
+    "observation": "6a821b5a5c4e3507d743f00b",
+    "uai": "0910622G",
+    "method": "exact_uai",
+    "source_uai": "0910622G"
+  },
+  {
+    "observation": "d8fa2bf17b0f5db5efaf0d72",
+    "uai": "0950666H",
+    "method": "exact_uai",
+    "source_uai": "0950666H"
+  },
+  {
+    "observation": "8a84d243c0a4724dc949b5fb",
+    "uai": "0940120V",
+    "method": "exact_uai",
+    "source_uai": "0940120V"
+  },
+  {
+    "observation": "e335fd15f648caf919025220",
+    "uai": "0941347D",
+    "method": "exact_uai",
+    "source_uai": "0941347D"
+  },
+  {
+    "observation": "5c1ea9f08117b5dc011c57aa",
+    "uai": "0750700D",
+    "method": "exact_uai",
+    "source_uai": "0750700D"
+  },
+  {
+    "observation": "48d75a4b881dc50aab0a834b",
+    "uai": "0750658H",
+    "method": "exact_uai",
+    "source_uai": "0750658H"
+  },
+  {
+    "observation": "a908cfe95de4f8be5549d71e",
+    "uai": "0940319L",
+    "method": "exact_uai",
+    "source_uai": "0940319L"
+  },
+  {
+    "observation": "3e9334a442336f5c74b46ae2",
+    "uai": "0940119U",
+    "method": "exact_uai",
+    "source_uai": "0940119U"
+  },
+  {
+    "observation": "80275a869b1ab1d75cb5c0c9",
+    "uai": "0922249V",
+    "method": "exact_uai",
+    "source_uai": "0922249V"
+  },
+  {
+    "observation": "fb0914f084f5e383e39294e3",
+    "uai": "0941951K",
+    "method": "exact_uai",
+    "source_uai": "0941951K"
+  },
+  {
+    "observation": "5afafbb3f091c78cc743f4a3",
+    "uai": "0783548H",
+    "method": "exact_uai",
+    "source_uai": "0783548H"
+  },
+  {
+    "observation": "092200ff120c853e4d7f190c",
+    "uai": "0910622G",
+    "method": "exact_uai",
+    "source_uai": "0910622G"
+  },
+  {
+    "observation": "0fad0743ee05c4bb76ad87c6",
+    "uai": "0940137N",
+    "method": "exact_uai",
+    "source_uai": "0940137N"
+  },
+  {
+    "observation": "f6a6a1c035801cd41115b98b",
+    "uai": "0911927A",
+    "method": "exact_uai",
+    "source_uai": "0911927A"
+  },
+  {
+    "observation": "9bb1ee4b3ff9cc82720550c5",
+    "uai": "0950658Z",
+    "method": "exact_uai",
+    "source_uai": "0950658Z"
+  },
+  {
+    "observation": "34142c1bb1692356cf91d4ee",
+    "uai": "0770920G",
+    "method": "exact_uai",
+    "source_uai": "0770920G"
+  },
+  {
+    "observation": "9175814e8bb8cbecad6ee1b9",
+    "uai": "0750708M",
+    "method": "exact_uai",
+    "source_uai": "0750708M"
+  },
+  {
+    "observation": "bb1a2db780fdd9bb5bbd468f",
+    "uai": "0951787B",
+    "method": "exact_uai",
+    "source_uai": "0951787B"
+  },
+  {
+    "observation": "a91b1f90a9a7d69e5326a050",
+    "uai": "0940113M",
+    "method": "exact_uai",
+    "source_uai": "0940113M"
+  },
+  {
+    "observation": "c4263b7affecd931ec0957dc",
+    "uai": "0940118T",
+    "method": "exact_uai",
+    "source_uai": "0940118T"
+  },
+  {
+    "observation": "a7b3b893b20b7510d057e20f",
+    "uai": "0940137N",
+    "method": "exact_uai",
+    "source_uai": "0940137N"
+  },
+  {
+    "observation": "8b9c696d67bd6ff7977c00ff",
+    "uai": "0750685M",
+    "method": "exact_uai",
+    "source_uai": "0750685M"
+  },
+  {
+    "observation": "78c346f975e73368b21795d2",
+    "uai": "0930138V",
+    "method": "exact_uai",
+    "source_uai": "0930138V"
+  },
+  {
+    "observation": "bb2b5e59e22f96e435b3c4e7",
+    "uai": "0922397F",
+    "method": "exact_uai",
+    "source_uai": "0922397F"
+  },
+  {
+    "observation": "3fce6000348a08d745094a3a",
+    "uai": "0940121W",
+    "method": "exact_uai",
+    "source_uai": "0940121W"
+  },
+  {
+    "observation": "9da2e7e975c0ea91443e8649",
+    "uai": "0941347D",
+    "method": "exact_uai",
+    "source_uai": "0941347D"
+  },
+  {
+    "observation": "1fec65fe0d608167e5531f27",
+    "uai": "0940138P",
+    "method": "exact_uai",
+    "source_uai": "0940138P"
+  },
+  {
+    "observation": "e5f847dc87698f784cf08c52",
+    "uai": "0750660K",
+    "method": "exact_uai",
+    "source_uai": "0750660K"
+  },
+  {
+    "observation": "b66e20a486dfacfe474765a1",
+    "uai": "0750683K",
+    "method": "exact_uai",
+    "source_uai": "0750683K"
+  },
+  {
+    "observation": "cdb781b5801c7dde4d90acb0",
+    "uai": "0782546U",
+    "method": "exact_uai",
+    "source_uai": "0782546U"
+  },
+  {
+    "observation": "faf3fe1b0c4415a869f88735",
+    "uai": "0940129E",
+    "method": "exact_uai",
+    "source_uai": "0940129E"
+  },
+  {
+    "observation": "3946c50f2c744be063e2b600",
+    "uai": "0772188K",
+    "method": "exact_uai",
+    "source_uai": "0772188K"
+  },
+  {
+    "observation": "d27db948fb514aa29eb6abd6",
+    "uai": "0951637N",
+    "method": "exact_uai",
+    "source_uai": "0951637N"
+  },
+  {
+    "observation": "cb9fac55f97e61854eb31df5",
+    "uai": "0951399E",
+    "method": "exact_uai",
+    "source_uai": "0951399E"
+  },
+  {
+    "observation": "182d541e8d52a0b274c8f9be",
+    "uai": "0920146J",
+    "method": "exact_uai",
+    "source_uai": "0920146J"
+  },
+  {
+    "observation": "20e8540930ac902ad933dc50",
+    "uai": "0750658H",
+    "method": "exact_uai",
+    "source_uai": "0750658H"
+  },
+  {
+    "observation": "5a512ac419f0fbd0bf2bbcac",
+    "uai": "0940119U",
+    "method": "exact_uai",
+    "source_uai": "0940119U"
+  },
+  {
+    "observation": "d761434e5423d84a1cdce5d4",
+    "uai": "0771940R",
+    "method": "exact_uai",
+    "source_uai": "0771940R"
+  },
+  {
+    "observation": "8a239c9925428a667d99fe4f",
+    "uai": "0951811C",
+    "method": "exact_uai",
+    "source_uai": "0951811C"
+  },
+  {
+    "observation": "d477aeba386873cefdce32ed",
+    "uai": "0932221J",
+    "method": "exact_uai",
+    "source_uai": "0932221J"
+  },
+  {
+    "observation": "502229369742e46175dfcd37",
+    "uai": "0771658J",
+    "method": "exact_uai",
+    "source_uai": "0771658J"
+  },
+  {
+    "observation": "7b7c2ddd5e8485d16b7b94da",
+    "uai": "0782593V",
+    "method": "exact_uai",
+    "source_uai": "0782593V"
+  },
+  {
+    "observation": "c50bdb831c71f84f255888bb",
+    "uai": "0781819D",
+    "method": "exact_uai",
+    "source_uai": "0781819D"
+  },
+  {
+    "observation": "0475c977beab4d785575b65a",
+    "uai": "0750682J",
+    "method": "exact_uai",
+    "source_uai": "0750682J"
+  },
+  {
+    "observation": "af0275bffb61b1b7867c8052",
+    "uai": "0750658H",
+    "method": "exact_uai",
+    "source_uai": "0750658H"
+  },
+  {
+    "observation": "c1d41258f844bf1a767b7ccc",
+    "uai": "0920142E",
+    "method": "exact_uai",
+    "source_uai": "0920142E"
+  },
+  {
+    "observation": "8aca1f020ecbbf3105455393",
+    "uai": "0920680P",
+    "method": "exact_uai",
+    "source_uai": "0920680P"
+  },
+  {
+    "observation": "d9ddeb457abfbbcde7164a52",
+    "uai": "0920142E",
+    "method": "exact_uai",
+    "source_uai": "0920142E"
+  },
+  {
+    "observation": "1c3f5c58f005f6aa81743396",
+    "uai": "0950651S",
+    "method": "exact_uai",
+    "source_uai": "0950651S"
+  },
+  {
+    "observation": "fba35fcd1ec83342140a2485",
+    "uai": "0921555R",
+    "method": "exact_uai",
+    "source_uai": "0921555R"
+  },
+  {
+    "observation": "fce79c01d8fb305bc35e20bc",
+    "uai": "0922397F",
+    "method": "exact_uai",
+    "source_uai": "0922397F"
+  },
+  {
+    "observation": "c2212b419551debac841bd4c",
+    "uai": "0750685M",
+    "method": "exact_uai",
+    "source_uai": "0750685M"
+  },
+  {
+    "observation": "67f76ad8a80b7bc6a21833f0",
+    "uai": "0921676X",
+    "method": "exact_uai",
+    "source_uai": "0921676X"
+  },
+  {
+    "observation": "c8b6c87718a3849778564a43",
+    "uai": "0930118Y",
+    "method": "exact_uai",
+    "source_uai": "0930118Y"
+  },
+  {
+    "observation": "5ec0065c0058d0a10bf63a81",
+    "uai": "0940145X",
+    "method": "exact_uai",
+    "source_uai": "0940145X"
+  },
+  {
+    "observation": "c89fc18123221c22335346da",
+    "uai": "0930117X",
+    "method": "exact_uai",
+    "source_uai": "0930117X"
+  },
+  {
+    "observation": "95f1bfd8d61e14a8e6dfb6f7",
+    "uai": "0912163G",
+    "method": "exact_uai",
+    "source_uai": "0912163G"
+  },
+  {
+    "observation": "05ae4251fb6f36117af4ae00",
+    "uai": "0950647M",
+    "method": "exact_uai",
+    "source_uai": "0950647M"
+  },
+  {
+    "observation": "61e309f525d0aac6cc311902",
+    "uai": "0750652B",
+    "method": "exact_uai",
+    "source_uai": "0750652B"
+  },
+  {
+    "observation": "0f266477472d8ff656fef701",
+    "uai": "0910676R",
+    "method": "exact_uai",
+    "source_uai": "0910676R"
+  },
+  {
+    "observation": "2dd848e570aa0afb69031df9",
+    "uai": "0750662M",
+    "method": "exact_uai",
+    "source_uai": "0750662M"
+  },
+  {
+    "observation": "25bee19d25a2bf855d06a87a",
+    "uai": "0750660K",
+    "method": "exact_uai",
+    "source_uai": "0750660K"
+  },
+  {
+    "observation": "914c1b0b9cffc3e27e92e41b",
+    "uai": "0750683K",
+    "method": "exact_uai",
+    "source_uai": "0750683K"
+  },
+  {
+    "observation": "3517020149529de317706449",
+    "uai": "0750658H",
+    "method": "exact_uai",
+    "source_uai": "0750658H"
+  },
+  {
+    "observation": "d03d13c36d0d9a828f8fde03",
+    "uai": "0920149M",
+    "method": "exact_uai",
+    "source_uai": "0920149M"
+  },
+  {
+    "observation": "39df96aea380736814f9da6b",
+    "uai": "0750702F",
+    "method": "exact_uai",
+    "source_uai": "0750702F"
+  },
+  {
+    "observation": "11dbd9d30209a340c7eb3a21",
+    "uai": "0772120L",
+    "method": "exact_uai",
+    "source_uai": "0772120L"
+  },
+  {
+    "observation": "c05166e1f2458bff99a64615",
+    "uai": "0921555R",
+    "method": "exact_uai",
+    "source_uai": "0921555R"
+  },
+  {
+    "observation": "0628247e875b2ac45dcec5a7",
+    "uai": "0940119U",
+    "method": "exact_uai",
+    "source_uai": "0940119U"
+  },
+  {
+    "observation": "e2fb97921ce6dbbd7b00e511",
+    "uai": "0750696Z",
+    "method": "exact_uai",
+    "source_uai": "0750696Z"
+  },
+  {
+    "observation": "b96256fc035628d44043ad32",
+    "uai": "0921555R",
+    "method": "exact_uai",
+    "source_uai": "0921555R"
+  },
+  {
+    "observation": "4d9a8ba6856cb3b87abb8256",
+    "uai": "0750662M",
+    "method": "exact_uai",
+    "source_uai": "0750662M"
+  },
+  {
+    "observation": "5ea9c04770f20b423b8a2b12",
+    "uai": "0771940R",
+    "method": "exact_uai",
+    "source_uai": "0771940R"
+  },
+  {
+    "observation": "735a0dd02b93f95287a670e2",
+    "uai": "0750658H",
+    "method": "exact_uai",
+    "source_uai": "0750658H"
+  },
+  {
+    "observation": "b697d7fbfa4e6d105e955fb6",
+    "uai": "0920142E",
+    "method": "exact_uai",
+    "source_uai": "0920142E"
+  },
+  {
+    "observation": "11e515e3027c216b886a307a",
+    "uai": "0940123Y",
+    "method": "exact_uai",
+    "source_uai": "0940123Y"
+  },
+  {
+    "observation": "d3245f399eee78235ef465f2",
+    "uai": "0780422K",
+    "method": "exact_uai",
+    "source_uai": "0780422K"
+  },
+  {
+    "observation": "1fedc0d7d43b010b608b62a7",
+    "uai": "0750683K",
+    "method": "exact_uai",
+    "source_uai": "0750683K"
+  },
+  {
+    "observation": "f67cb4d34fb309ec4267e134",
+    "uai": "0940122X",
+    "method": "exact_uai",
+    "source_uai": "0940122X"
+  },
+  {
+    "observation": "f974328bf5a4ba618c1248fc",
+    "uai": "0782593V",
+    "method": "exact_uai",
+    "source_uai": "0782593V"
+  },
+  {
+    "observation": "bf7a94f43fa34bd48e917eaf",
+    "uai": "0771027Y",
+    "method": "exact_uai",
+    "source_uai": "0771027Y"
+  },
+  {
+    "observation": "b2a9053e1a44316f8dff9729",
+    "uai": "0920163C",
+    "method": "exact_uai",
+    "source_uai": "0920163C"
+  },
+  {
+    "observation": "6cb3d9f290d58d2a4e93739a",
+    "uai": "0750711R",
+    "method": "exact_uai",
+    "source_uai": "0750711R"
+  },
+  {
+    "observation": "322e5210fc6611336ca189cc",
+    "uai": "0920798T",
+    "method": "exact_uai",
+    "source_uai": "0920798T"
+  },
+  {
+    "observation": "833232bb0598d5a6546ed0c9",
+    "uai": "0940138P",
+    "method": "exact_uai",
+    "source_uai": "0940138P"
+  },
+  {
+    "observation": "5dcc11f59cb31f73650edae8",
+    "uai": "0940124Z",
+    "method": "exact_uai",
+    "source_uai": "0940124Z"
+  },
+  {
+    "observation": "cfd7df98e8127a672405ec9a",
+    "uai": "0772229E",
+    "method": "exact_uai",
+    "source_uai": "0772229E"
+  },
+  {
+    "observation": "8dd09269ddd050c2e6449313",
+    "uai": "0911946W",
+    "method": "exact_uai",
+    "source_uai": "0911946W"
+  },
+  {
+    "observation": "61ae8831ef861132757d67cf",
+    "uai": "0920798T",
+    "method": "exact_uai",
+    "source_uai": "0920798T"
+  },
+  {
+    "observation": "b7f9ef10265f17337d988a93",
+    "uai": "0911945V",
+    "method": "exact_uai",
+    "source_uai": "0911945V"
+  },
+  {
+    "observation": "997c838570a6d3567ea496c2",
+    "uai": "0951763A",
+    "method": "exact_uai",
+    "source_uai": "0951763A"
+  },
+  {
+    "observation": "11f7b6c1bb005b6aed79a67f",
+    "uai": "0750690T",
+    "method": "exact_uai",
+    "source_uai": "0750690T"
+  },
+  {
+    "observation": "9e98ecda766fe364c8d22e77",
+    "uai": "0921555R",
+    "method": "exact_uai",
+    "source_uai": "0921555R"
+  },
+  {
+    "observation": "50a2bb485189ad50c0911a81",
+    "uai": "0921555R",
+    "method": "exact_uai",
+    "source_uai": "0921555R"
+  },
+  {
+    "observation": "d4d109ad95c354290aeb4a5d",
+    "uai": "0750648X",
+    "method": "exact_uai",
+    "source_uai": "0750648X"
+  },
+  {
+    "observation": "ebe7b0ef8cbda7374c01ed85",
+    "uai": "0920146J",
+    "method": "exact_uai",
+    "source_uai": "0920146J"
+  },
+  {
+    "observation": "9700d3b77aa14c4c6636dbe4",
+    "uai": "0911353B",
+    "method": "exact_uai",
+    "source_uai": "0911353B"
+  },
+  {
+    "observation": "c88508f96fc8700433d0b5d3",
+    "uai": "0781819D",
+    "method": "exact_uai",
+    "source_uai": "0781819D"
+  },
+  {
+    "observation": "79756512d3ae95f07e77b0e2",
+    "uai": "0780273Y",
+    "method": "exact_uai",
+    "source_uai": "0780273Y"
+  },
+  {
+    "observation": "d73f90fccf00252f77240fc9",
+    "uai": "0921230M",
+    "method": "exact_uai",
+    "source_uai": "0921230M"
+  },
+  {
+    "observation": "eb5b10a178bba019909d05e3",
+    "uai": "0750660K",
+    "method": "exact_uai",
+    "source_uai": "0750660K"
+  },
+  {
+    "observation": "61d30804a98c0ef1d6745f2b",
+    "uai": "0930116W",
+    "method": "exact_uai",
+    "source_uai": "0930116W"
+  },
+  {
+    "observation": "f63f41402c28e018af51dfec",
+    "uai": "0750658H",
+    "method": "exact_uai",
+    "source_uai": "0750658H"
+  },
+  {
+    "observation": "20052cf510576174f6380916",
+    "uai": "0921230M",
+    "method": "exact_uai",
+    "source_uai": "0921230M"
+  },
+  {
+    "observation": "cb3f2b284ee3aaa86c88e539",
+    "uai": "0920146J",
+    "method": "exact_uai",
+    "source_uai": "0920146J"
+  },
+  {
+    "observation": "f0cc075dcd511605a604a6f5",
+    "uai": "0940117S",
+    "method": "exact_uai",
+    "source_uai": "0940117S"
+  },
+  {
+    "observation": "6e2c113ada99a0ad56948e90",
+    "uai": "0920146J",
+    "method": "exact_uai",
+    "source_uai": "0920146J"
+  },
+  {
+    "observation": "45cb5c190908475ccc39aee4",
+    "uai": "0932783V",
+    "method": "exact_uai",
+    "source_uai": "0932783V"
+  },
+  {
+    "observation": "ef8d240472fb88d6b07bab4b",
+    "uai": "0932291K",
+    "method": "exact_uai",
+    "source_uai": "0932291K"
+  },
+  {
+    "observation": "5b6bcf99c4506135014b4769",
+    "uai": "0932122B",
+    "method": "exact_uai",
+    "source_uai": "0932122B"
+  },
+  {
+    "observation": "4f71dcfd40834d178c12ddc2",
+    "uai": "0920145H",
+    "method": "exact_uai",
+    "source_uai": "0920145H"
+  },
+  {
+    "observation": "3cc135cfb5af031b22c4a930",
+    "uai": "0750685M",
+    "method": "exact_uai",
+    "source_uai": "0750685M"
+  },
+  {
+    "observation": "39d8e381bccd423c708f8c84",
+    "uai": "0930830X",
+    "method": "exact_uai",
+    "source_uai": "0930830X"
+  },
+  {
+    "observation": "52f0c1765942dfc953e1ca61",
+    "uai": "0950649P",
+    "method": "exact_uai",
+    "source_uai": "0950649P"
+  },
+  {
+    "observation": "b3f71f357f0262ffbb1bc730",
+    "uai": "0921555R",
+    "method": "exact_uai",
+    "source_uai": "0921555R"
+  },
+  {
+    "observation": "c84662eeff315e18363ddfc8",
+    "uai": "0940120V",
+    "method": "exact_uai",
+    "source_uai": "0940120V"
+  },
+  {
+    "observation": "7f0e728703f9ea0e1b26b7c6",
+    "uai": "0912433A",
+    "method": "exact_uai",
+    "source_uai": "0912433A"
+  },
+  {
+    "observation": "d7bbd176dfc28dc9b6d521ea",
+    "uai": "0750660K",
+    "method": "exact_uai",
+    "source_uai": "0750660K"
+  },
+  {
+    "observation": "8661e2e0be4f64528dac3917",
+    "uai": "0750691U",
+    "method": "exact_uai",
+    "source_uai": "0750691U"
+  },
+  {
+    "observation": "3229ebf46b1658efc86c2262",
+    "uai": "0911945V",
+    "method": "exact_uai",
+    "source_uai": "0911945V"
+  },
+  {
+    "observation": "0b529fcec89a55083643bffc",
+    "uai": "0770933W",
+    "method": "exact_uai",
+    "source_uai": "0770933W"
+  },
+  {
+    "observation": "02db9762c1e81b8215a2df37",
+    "uai": "0780515L",
+    "method": "exact_uai",
+    "source_uai": "0780515L"
+  },
+  {
+    "observation": "f63672ce77ac0e9a2003d3fa",
+    "uai": "0920146J",
+    "method": "exact_uai",
+    "source_uai": "0920146J"
+  },
+  {
+    "observation": "b9ce286fff6942efc3497681",
+    "uai": "0941952L",
+    "method": "exact_uai",
+    "source_uai": "0941952L"
+  },
+  {
+    "observation": "ad20a805311d753f16497855",
+    "uai": "0931430Z",
+    "method": "exact_uai",
+    "source_uai": "0931430Z"
+  },
+  {
+    "observation": "a5f6c750b1dae73ff2e958e3",
+    "uai": "0920146J",
+    "method": "exact_uai",
+    "source_uai": "0920146J"
+  },
+  {
+    "observation": "3e9988b934ad7b040b089520",
+    "uai": "0771940R",
+    "method": "exact_uai",
+    "source_uai": "0771940R"
+  },
+  {
+    "observation": "2f444f9b7218786b1938db9c",
+    "uai": "0750657G",
+    "method": "exact_uai",
+    "source_uai": "0750657G"
+  },
+  {
+    "observation": "2353c3d27057a9043b6694c1",
+    "uai": "0920166F",
+    "method": "exact_uai",
+    "source_uai": "0920166F"
+  },
+  {
+    "observation": "97304c4d4054c66e753a462b",
+    "uai": "0770920G",
+    "method": "exact_uai",
+    "source_uai": "0770920G"
+  },
+  {
+    "observation": "5a6bf6e4d4efe0562f4719a4",
+    "uai": "0941470M",
+    "method": "exact_uai",
+    "source_uai": "0941470M"
+  },
+  {
+    "observation": "b697ff190b4763b84d9d7085",
+    "uai": "0941018W",
+    "method": "exact_uai",
+    "source_uai": "0941018W"
+  },
+  {
+    "observation": "0eb4938ce02dc7db4b3276dc",
+    "uai": "0931024H",
+    "method": "exact_uai",
+    "source_uai": "0931024H"
+  },
+  {
+    "observation": "d7372c0af7760b1a1d29bbce",
+    "uai": "0941951K",
+    "method": "exact_uai",
+    "source_uai": "0941951K"
+  },
+  {
+    "observation": "aa4bf1047f7d30c5bb92dae9",
+    "uai": "0750682J",
+    "method": "exact_uai",
+    "source_uai": "0750682J"
+  },
+  {
+    "observation": "42077f81fccb09faa734ddb5",
+    "uai": "0770920G",
+    "method": "exact_uai",
+    "source_uai": "0770920G"
+  },
+  {
+    "observation": "3728342ed3f207425ccb8a09",
+    "uai": "0921505L",
+    "method": "exact_uai",
+    "source_uai": "0921505L"
+  },
+  {
+    "observation": "93986e5f94eb5f2c45ecd1e8",
+    "uai": "0930118Y",
+    "method": "exact_uai",
+    "source_uai": "0930118Y"
+  },
+  {
+    "observation": "5a4164b793cf01d8e27018b0",
+    "uai": "0940115P",
+    "method": "exact_uai",
+    "source_uai": "0940115P"
+  },
+  {
+    "observation": "1faddbcb98e7c0689589f877",
+    "uai": "0930117X",
+    "method": "exact_uai",
+    "source_uai": "0930117X"
+  },
+  {
+    "observation": "c67ffde6cd623a4bac9c85a1",
+    "uai": "0932122B",
+    "method": "exact_uai",
+    "source_uai": "0932122B"
+  },
+  {
+    "observation": "e56d9af9abdfb545f174f258",
+    "uai": "0921592F",
+    "method": "exact_uai",
+    "source_uai": "0921592F"
+  },
+  {
+    "observation": "a434e2cf1edea3bd9e94510a",
+    "uai": "0940113M",
+    "method": "exact_uai",
+    "source_uai": "0940113M"
+  },
+  {
+    "observation": "c798c792790ecb29b1163f41",
+    "uai": "0951723G",
+    "method": "exact_uai",
+    "source_uai": "0951723G"
+  },
+  {
+    "observation": "d85d0f414bfd0ba9cde1730a",
+    "uai": "0940121W",
+    "method": "exact_uai",
+    "source_uai": "0940121W"
+  },
+  {
+    "observation": "fd0b09492cd77f198ce72141",
+    "uai": "0941470M",
+    "method": "exact_uai",
+    "source_uai": "0941470M"
+  },
+  {
+    "observation": "5734e4629e12f3199e2917ff",
+    "uai": "0750655E",
+    "method": "exact_uai",
+    "source_uai": "0750655E"
+  },
+  {
+    "observation": "b187de75c9568485be3d81a1",
+    "uai": "0932026X",
+    "method": "exact_uai",
+    "source_uai": "0932026X"
+  },
+  {
+    "observation": "7ef9a28a96cbbcc59b90634a",
+    "uai": "0750690T",
+    "method": "exact_uai",
+    "source_uai": "0750690T"
+  },
+  {
+    "observation": "e42bfd080403d9bbe736a464",
+    "uai": "0750700D",
+    "method": "exact_uai",
+    "source_uai": "0750700D"
+  },
+  {
+    "observation": "8537ee77cfcf47b60f44f214",
+    "uai": "0951399E",
+    "method": "exact_uai",
+    "source_uai": "0951399E"
+  },
+  {
+    "observation": "2c80ee5b8d59cbcbd1cfefb0",
+    "uai": "0931024H",
+    "method": "exact_uai",
+    "source_uai": "0931024H"
+  },
+  {
+    "observation": "029ea835c00e030650486ab3",
+    "uai": "0920802X",
+    "method": "exact_uai",
+    "source_uai": "0920802X"
+  },
+  {
+    "observation": "862bb403e2f48570bc9f627c",
+    "uai": "0750694X",
+    "method": "exact_uai",
+    "source_uai": "0750694X"
+  },
+  {
+    "observation": "e86740ee9fb5415f03bb20af",
+    "uai": "0932122B",
+    "method": "exact_uai",
+    "source_uai": "0932122B"
+  },
+  {
+    "observation": "4946dc0cf42386d29175d800",
+    "uai": "0952196W",
+    "method": "exact_uai",
+    "source_uai": "0952196W"
+  },
+  {
+    "observation": "742c0ac713ac79bc66a4989f",
+    "uai": "0932291K",
+    "method": "exact_uai",
+    "source_uai": "0932291K"
+  },
+  {
+    "observation": "4c26c1e0c8ca56404cc09ceb",
+    "uai": "0783447Y",
+    "method": "exact_uai",
+    "source_uai": "0783447Y"
+  },
+  {
+    "observation": "2351133dee6679839d104784",
+    "uai": "0750683K",
+    "method": "exact_uai",
+    "source_uai": "0750683K"
+  },
+  {
+    "observation": "b69ffde9855b0b018b53e2fe",
+    "uai": "0783447Y",
+    "method": "exact_uai",
+    "source_uai": "0783447Y"
+  },
+  {
+    "observation": "5eeb44e34b559206b127d08a",
+    "uai": "0750664P",
+    "method": "exact_uai",
+    "source_uai": "0750664P"
+  },
+  {
+    "observation": "cad8b7ab49a23f4e0782ea7b",
+    "uai": "0750655E",
+    "method": "exact_uai",
+    "source_uai": "0750655E"
+  },
+  {
+    "observation": "6e49278968939ab779ce2eff",
+    "uai": "0750800M",
+    "method": "exact_uai",
+    "source_uai": "0750800M"
+  },
+  {
+    "observation": "daf679c33df3e54cbdd384c9",
+    "uai": "0782132U",
+    "method": "exact_uai",
+    "source_uai": "0782132U"
+  },
+  {
+    "observation": "683087618234a6e0414ee9f0",
+    "uai": "0930834B",
+    "method": "exact_uai",
+    "source_uai": "0930834B"
+  },
+  {
+    "observation": "6dc4e1b6aea8c96f180bccf3",
+    "uai": "0782562L",
+    "method": "exact_uai",
+    "source_uai": "0782562L"
+  },
+  {
+    "observation": "f169a26fc3cd6c9d57f8a28f",
+    "uai": "0920802X",
+    "method": "exact_uai",
+    "source_uai": "0920802X"
+  },
+  {
+    "observation": "5a0dfbc90a508571ded7f809",
+    "uai": "0770932V",
+    "method": "exact_uai",
+    "source_uai": "0770932V"
+  },
+  {
+    "observation": "107670e1a8e8abc772b9ed47",
+    "uai": "0750800M",
+    "method": "exact_uai",
+    "source_uai": "0750800M"
+  },
+  {
+    "observation": "69667d44d2d1be446eb29736",
+    "uai": "0920144G",
+    "method": "exact_uai",
+    "source_uai": "0920144G"
+  },
+  {
+    "observation": "4b06eae53b8144ceed98ba1c",
+    "uai": "0920163C",
+    "method": "exact_uai",
+    "source_uai": "0920163C"
+  },
+  {
+    "observation": "4498e9ab605fd679c420e7e1",
+    "uai": "0940123Y",
+    "method": "exact_uai",
+    "source_uai": "0940123Y"
+  },
+  {
+    "observation": "c407dbac6384d4fb67c22d42",
+    "uai": "0780422K",
+    "method": "exact_uai",
+    "source_uai": "0780422K"
+  },
+  {
+    "observation": "7522885da0dfa1830af6628a",
+    "uai": "0780273Y",
+    "method": "exact_uai",
+    "source_uai": "0780273Y"
+  },
+  {
+    "observation": "6aadd484f0940fae5b1dace8",
+    "uai": "0781819D",
+    "method": "exact_uai",
+    "source_uai": "0781819D"
+  },
+  {
+    "observation": "9432182ad1a7e7c85008cdb8",
+    "uai": "0770920G",
+    "method": "exact_uai",
+    "source_uai": "0770920G"
+  },
+  {
+    "observation": "4012a38db4575217988b0ca5",
+    "uai": "0911493D",
+    "method": "exact_uai",
+    "source_uai": "0911493D"
+  },
+  {
+    "observation": "062645f1af112cda70525f22",
+    "uai": "0952196W",
+    "method": "exact_uai",
+    "source_uai": "0952196W"
+  }
+]

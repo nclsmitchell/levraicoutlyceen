@@ -1,0 +1,4586 @@
+[
+  {
+    "observation": "b23dd4a5462c13865e34269b",
+    "source_uai": null,
+    "amount": "-45038.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "973c9462a716739071045615",
+    "source_uai": null,
+    "amount": "-600000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e59ee8ae5f1654e5e2229edc",
+    "source_uai": null,
+    "amount": "275000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9dda1803f512c7d83448dd1c",
+    "source_uai": null,
+    "amount": "217000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "aebf743a896681b876829506",
+    "source_uai": null,
+    "amount": "40000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5ae3f2bff4231ad2f6954cff",
+    "source_uai": null,
+    "amount": "1560000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8c1d65a5c408ed0faa5edf3c",
+    "source_uai": null,
+    "amount": "2200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8934a5824e2f42fd756cad7b",
+    "source_uai": null,
+    "amount": "11000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "925d5abffa700de4dbcfd6f8",
+    "source_uai": null,
+    "amount": "10000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "373233a514fcbbec0f7d93b3",
+    "source_uai": null,
+    "amount": "710000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e91c48c553b8028f6c816908",
+    "source_uai": null,
+    "amount": "1970000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "729269470b259dda8fa2bff5",
+    "source_uai": null,
+    "amount": "-10000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ffd6da50f8eb3b101bf2a721",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d7f93d3f4dbbb88c2da199a4",
+    "source_uai": null,
+    "amount": "18000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0afd496ba33906c742b672f2",
+    "source_uai": null,
+    "amount": "1950000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7bd4622e9ea4088de8f2e9a6",
+    "source_uai": null,
+    "amount": "40000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c5adf4ae66f17121ef41deba",
+    "source_uai": null,
+    "amount": "800000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4c11efc483ec1b5b94cae549",
+    "source_uai": null,
+    "amount": "11900000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7e5f004a24079c1ce6a465ee",
+    "source_uai": null,
+    "amount": "865000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d7cc5a3be8cf4611628b243b",
+    "source_uai": null,
+    "amount": "3900000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3850a66f5dc1781da514d45b",
+    "source_uai": "0772311U",
+    "amount": "69000000.00",
+    "reason": "UAI hors référentiel ; rattachement non confirmé"
+  },
+  {
+    "observation": "9bbaee285b6bd892984f068e",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7866f826a0133ba434e3106b",
+    "source_uai": null,
+    "amount": "-70000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "91faec02842d8e2fe12df403",
+    "source_uai": null,
+    "amount": "115038.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d854739a4a07544fb0c39780",
+    "source_uai": null,
+    "amount": "26100.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "07ce3a696091b31111bba91c",
+    "source_uai": null,
+    "amount": "2500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "cdc0e2bcdfdacbd09f9411bc",
+    "source_uai": null,
+    "amount": "1720000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d28d99128b9426a95817091f",
+    "source_uai": null,
+    "amount": "40000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f297d058c6c9e875b06a1798",
+    "source_uai": null,
+    "amount": "3200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "86e72008e8d22513309e6db6",
+    "source_uai": null,
+    "amount": "1200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "33b7d38931939c07c7ce7dc1",
+    "source_uai": null,
+    "amount": "957000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "eed34a9c5bfab448b3b51bbe",
+    "source_uai": null,
+    "amount": "600000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7d77c599e72ed2dbbc10746c",
+    "source_uai": null,
+    "amount": "140000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f02090511f72e2e981d391b2",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e5f624dc71d82ef7e1f9c713",
+    "source_uai": null,
+    "amount": "24000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a18606d0c42e0ee60e6b7947",
+    "source_uai": null,
+    "amount": "12185000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "90f57171bab0b033c8ac1259",
+    "source_uai": null,
+    "amount": "8000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c307b8e812a49f9d678f2442",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2182b294e5b6fa87e0d9e47f",
+    "source_uai": null,
+    "amount": "300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "cb7364763f1b23355673eaa4",
+    "source_uai": null,
+    "amount": "150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "fb936d57bae79a3bc88ca251",
+    "source_uai": null,
+    "amount": "800000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "eb9201ab6f1b72bebaa0081d",
+    "source_uai": null,
+    "amount": "600000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "80acc88721d9ad5fad574991",
+    "source_uai": null,
+    "amount": "890000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "74492f1769490ab3748d1c56",
+    "source_uai": null,
+    "amount": "20000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ae5cda16407df95aceea5134",
+    "source_uai": null,
+    "amount": "16000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3aeb996867c2bbd54c3ada44",
+    "source_uai": null,
+    "amount": "800000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c8c12dbdf3f5519605a37af6",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1991747bb15ca1012076381c",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "bb4299c19e669286107464e8",
+    "source_uai": null,
+    "amount": "450000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "cfd5665ff73a2afc30566bda",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9b1a86b191cf1d6f914d6176",
+    "source_uai": null,
+    "amount": "14000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d7f30d38ab53aee761ceb458",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d9f8ea51bf80eae63a00022b",
+    "source_uai": null,
+    "amount": "1350000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "56e983815fa5119a69dc3a10",
+    "source_uai": null,
+    "amount": "1200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ebc383a03eb03f3d08b46239",
+    "source_uai": null,
+    "amount": "400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "bee1d0acf798ae9f55f5a827",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4fb8ac79f449fff0b22ede68",
+    "source_uai": null,
+    "amount": "110000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "821a1c9143ad1e5e4f44e744",
+    "source_uai": null,
+    "amount": "1800000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b5a3b0a13ec154328ca2d975",
+    "source_uai": null,
+    "amount": "4000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "bec3c2784c359bbadff76af8",
+    "source_uai": null,
+    "amount": "3500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "98fe641362e5aed85c94fe02",
+    "source_uai": null,
+    "amount": "400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "afc3d69f952f14910ce3a25f",
+    "source_uai": null,
+    "amount": "176800.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b905e4e925f28eb9e867c69b",
+    "source_uai": null,
+    "amount": "136000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "47fbb88ef0a35bb3b551b724",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "cf1c22c8619b15f2fe5d73a8",
+    "source_uai": null,
+    "amount": "18600000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "92fea666e7b6a10d8a2802d3",
+    "source_uai": null,
+    "amount": "420000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "11993af6bd4513be6ef92652",
+    "source_uai": null,
+    "amount": "620000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "019f8803f525f782e12ad6d7",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9832ebbafc5158f2e238d88b",
+    "source_uai": null,
+    "amount": "540000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "877a6fffc20e49f9310abb04",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ba186783a5a638c27c2e1b54",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "dec7eeef3d9cf2801d9ee960",
+    "source_uai": null,
+    "amount": "223000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f90c2201d7bdc66c131effb1",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8c5cbba438f43743549abcc1",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "453ddb10d274fd77ab863839",
+    "source_uai": null,
+    "amount": "218600.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3741a2ab5ed4b920748b03ee",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "12b7215cc5277c343c90756c",
+    "source_uai": null,
+    "amount": "24982758.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8a0c6f501033cccfad0d50d3",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "334c7df8d657d6c6c1872eb3",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5262382c0e1c152b90b49fa1",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9d33565d4bfc56ffb56d7145",
+    "source_uai": null,
+    "amount": "750000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0e5f68d72cca8b724953adbb",
+    "source_uai": null,
+    "amount": "15000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b4c7f28e6038bfea997f7991",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ac0a298957c25558a602c7e8",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f824ec5bc0908c3b3aff4274",
+    "source_uai": null,
+    "amount": "950000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8149430554b78c998e5a8889",
+    "source_uai": null,
+    "amount": "102000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8a4f85327dc8baa24b2a9d30",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1da4197837e8b6c78a7bc972",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "47e674535f10080e5c52706f",
+    "source_uai": null,
+    "amount": "22740000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d4bcb15d2d2aba2f32d5ed0f",
+    "source_uai": null,
+    "amount": "900000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5e6afbae92c889c7e8fa95dd",
+    "source_uai": null,
+    "amount": "2600000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "dc1bfc2254d49139b803af5c",
+    "source_uai": null,
+    "amount": "882890.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "56046530aa043d0b934b7ff0",
+    "source_uai": null,
+    "amount": "-650000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9e1d0cbeae007d7fcbb1969a",
+    "source_uai": null,
+    "amount": "148059.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "059bf04141cc6eb042d0e635",
+    "source_uai": null,
+    "amount": "4500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "66d020f6b3342f366c0d4dfc",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "21e2bbacb4db37e04333feeb",
+    "source_uai": null,
+    "amount": "4600000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6a8c4505b95a151f632a507e",
+    "source_uai": null,
+    "amount": "672000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7305f34c051eee7e77dcdbf5",
+    "source_uai": null,
+    "amount": "503654.40",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3aa2282b4d916cc0dc223c23",
+    "source_uai": null,
+    "amount": "4000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3041727d0796f55178cbf2cf",
+    "source_uai": null,
+    "amount": "480000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "969c02ebae354d92c47b7c33",
+    "source_uai": null,
+    "amount": "130600.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a9b4f33a37012cedad17df22",
+    "source_uai": null,
+    "amount": "400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6372bd14e6f6c856cdb2601c",
+    "source_uai": null,
+    "amount": "10000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8cc22e9ea94b7c6d2b005e63",
+    "source_uai": null,
+    "amount": "300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2b9cd34373debe8c92c3e0c8",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d957f95e22ee8f23ef072101",
+    "source_uai": null,
+    "amount": "1300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "30b6b792981c7465b7bec4ea",
+    "source_uai": null,
+    "amount": "6000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "30662f56da8c8c84fc93ca4d",
+    "source_uai": "0770027L",
+    "amount": "13500.00",
+    "reason": "UAI hors référentiel ; rattachement non confirmé"
+  },
+  {
+    "observation": "c2f86f6eb18e94bd8cf8af6b",
+    "source_uai": null,
+    "amount": "48050.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b046df8fc0cc3f707f3584eb",
+    "source_uai": null,
+    "amount": "236000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9aaff9754af7d6340348654a",
+    "source_uai": null,
+    "amount": "-3060000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ade8b7f6a19e08fe6776b401",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "91700e9c1e80f8bf00756c21",
+    "source_uai": null,
+    "amount": "5000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "675b008e30f8a64d364e8a35",
+    "source_uai": null,
+    "amount": "490000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7c65749c2d89d51abbe1e100",
+    "source_uai": null,
+    "amount": "600000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "bdde802923eb416577592a36",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e4e8f81556e58bc7993c85fa",
+    "source_uai": null,
+    "amount": "370000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5eceeb61a26742235f512228",
+    "source_uai": null,
+    "amount": "150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1cc22c9856a815699cb35809",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c3fd00db336e7dd3fc4a050d",
+    "source_uai": null,
+    "amount": "700000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a59fbb2a59283566b0616c35",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4f06136f6d4dc04a9a57df8f",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2ef94ff0cc4bf81f4196ef04",
+    "source_uai": null,
+    "amount": "9000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6c3934ffd65794b5f5bb00f5",
+    "source_uai": null,
+    "amount": "540000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e3c5a89fc5e121e89547c7bb",
+    "source_uai": null,
+    "amount": "300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "45779677f84ecccd7c882f04",
+    "source_uai": null,
+    "amount": "12000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9a18f36e4976dbbde944fe3c",
+    "source_uai": null,
+    "amount": "150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6d9c1aca79aa1496d957a618",
+    "source_uai": null,
+    "amount": "1615326.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e536a81c044ec9da38cf6f23",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "31286edf67d4bea2c52ddba9",
+    "source_uai": null,
+    "amount": "3000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "45fd36ecb42c495d54a90c0f",
+    "source_uai": null,
+    "amount": "7998000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "325b520952029ca0e4fb0f12",
+    "source_uai": null,
+    "amount": "2861000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2f313739d1cd4e2751b2d48b",
+    "source_uai": null,
+    "amount": "7000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5ee46a10fbc24fc1b3ee9aa0",
+    "source_uai": null,
+    "amount": "7000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1881e4ec1b572731a9bae8c0",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "eb7942dbeb7fd9566fc0290d",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "815634cd3f4d5642c764033b",
+    "source_uai": null,
+    "amount": "560000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2cc7f77944fbd8244511b0a0",
+    "source_uai": null,
+    "amount": "10000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6fac911e53675cfa43fd8695",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "887cfc6d55d7a0b93fa5c181",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ef75887c3372fcf1c82c5e41",
+    "source_uai": null,
+    "amount": "8000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "96f172e1334be3e461a128eb",
+    "source_uai": null,
+    "amount": "865000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "45d8f2e8e399e834964dd494",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "88e9b2b09bd226ab2b78c6cd",
+    "source_uai": null,
+    "amount": "1420000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "aec2e3a15660916ebc34c51a",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d68365ecf89c25060b63f45e",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2749cf49d68282b957bdd7f5",
+    "source_uai": null,
+    "amount": "350000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f659de187dc67edf6a804723",
+    "source_uai": null,
+    "amount": "3060000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "21a9d8d95a4efaf02e8e5e35",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6f9d46e6f8dea740c4810994",
+    "source_uai": null,
+    "amount": "1093873.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "75a2a44765985c130dfe12e3",
+    "source_uai": null,
+    "amount": "2500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "96fa7eb7b9113c75fb5ca8d2",
+    "source_uai": "0752538B",
+    "amount": "60000.00",
+    "reason": "UAI hors référentiel ; rattachement non confirmé"
+  },
+  {
+    "observation": "7fa5826a80c5fe288ab50d36",
+    "source_uai": null,
+    "amount": "21000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b277ae38e0b353174f8b717c",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "02da5a3bd181a03dbc872a84",
+    "source_uai": null,
+    "amount": "50000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "49ba7f8ae8b358a10e6b89d4",
+    "source_uai": null,
+    "amount": "15000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5f197865be6581f3f1158430",
+    "source_uai": null,
+    "amount": "6000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ab23548a92ce1c57a5f6f31d",
+    "source_uai": null,
+    "amount": "450000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f54a333bab8c9de60e4e98e4",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b6f7b055a1f465eab53635b8",
+    "source_uai": null,
+    "amount": "8000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "eb3f1431b2980c3f2bd02115",
+    "source_uai": null,
+    "amount": "300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8aeb6cf0b05d6fab9665848c",
+    "source_uai": null,
+    "amount": "40000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c0c2db286e7e74cdc4694a23",
+    "source_uai": null,
+    "amount": "150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "898e7cd545bab9928d3c025f",
+    "source_uai": null,
+    "amount": "30000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "39b17e25ab6a715b87435480",
+    "source_uai": null,
+    "amount": "5000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0589f06c89c2ebdb46f77561",
+    "source_uai": null,
+    "amount": "5619000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4c416e6b656a6e63d394167b",
+    "source_uai": null,
+    "amount": "1292945.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f6c4ab6e20e97928438e7762",
+    "source_uai": null,
+    "amount": "2500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f73295bd375dbfd0770c5afa",
+    "source_uai": null,
+    "amount": "300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f6e1f2e9f72cfc6234c7f0d1",
+    "source_uai": null,
+    "amount": "243000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "aca6067d2c11d91a96ed27a2",
+    "source_uai": null,
+    "amount": "69312000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0c80d8a9cfeb653ef12fbbae",
+    "source_uai": null,
+    "amount": "52000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3e8b9c4e0a9db5b0b40e0fdd",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f413ae3cd3d43121d39bcda5",
+    "source_uai": null,
+    "amount": "152000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f0eceb4dca1b415146a733a0",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "40295d5e371aa49cfeb136ee",
+    "source_uai": null,
+    "amount": "724000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "750e27676c5ccf18264670b9",
+    "source_uai": null,
+    "amount": "1500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "362bb71e0488d20d2dfe7e0d",
+    "source_uai": null,
+    "amount": "300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "923b685e3364383ebc6a0bba",
+    "source_uai": null,
+    "amount": "40000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "32884c58c997f648241857f9",
+    "source_uai": null,
+    "amount": "588900.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "fba385c140354405f600c0ad",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c149bbf54cc6acfeb2f41f2d",
+    "source_uai": null,
+    "amount": "320000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2cbb65be3f967e6d48b7d3e7",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e36d35396d0d708e4c54513b",
+    "source_uai": null,
+    "amount": "30000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "932697b305c46dc4a277fe3e",
+    "source_uai": null,
+    "amount": "13400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1920fa818adc4cf630d6acb9",
+    "source_uai": null,
+    "amount": "6000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "40306f82d14bcc0b0acf2274",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "605912a230a3bece4fe8fc32",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d19a58be7168f16c8ec17a19",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "bd44613144f0595e486b2803",
+    "source_uai": null,
+    "amount": "1072055.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a6d5721d407d3d85c640b85d",
+    "source_uai": null,
+    "amount": "63000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3d3496de92ca1e8f903e732c",
+    "source_uai": null,
+    "amount": "50000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7daa26281e7f716a549ce780",
+    "source_uai": null,
+    "amount": "150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "68a3e84f7b3a345bcd43a913",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "19e636b035217141e2df2359",
+    "source_uai": null,
+    "amount": "552500.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "45b35604638b9b04b54d84e3",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3a03ed6b61a6059cfd9bc1d8",
+    "source_uai": null,
+    "amount": "4000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "46d3d4ea1cf39b176e7f1918",
+    "source_uai": null,
+    "amount": "109848000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "fb67bb07c4ef55f1bb14b0a0",
+    "source_uai": null,
+    "amount": "650000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7a9be1ba2f7c357220305d96",
+    "source_uai": null,
+    "amount": "1750000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6d237e8fe2a7d38611dc862f",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "fc9822c1798020d2cde41a69",
+    "source_uai": null,
+    "amount": "10270.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5887c70374f6303fb5088564",
+    "source_uai": null,
+    "amount": "550000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0705b118573f6c830c99f88a",
+    "source_uai": null,
+    "amount": "7430000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b01e1642ce7583551725197c",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e548f0428fbd330d89cac852",
+    "source_uai": null,
+    "amount": "750000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "50d4704f0485b0240e48c6eb",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "65c395bf2aa38078d04e557e",
+    "source_uai": null,
+    "amount": "1560545.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "640582e0c51dc1527b06acd9",
+    "source_uai": null,
+    "amount": "158600.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6297e2232ee2340e2f743f75",
+    "source_uai": null,
+    "amount": "360000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "61cbde02678f4260ac1a866d",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3d6d1597753c2e60c93ff7ef",
+    "source_uai": null,
+    "amount": "15000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b4d13479a7da87ca41b15d65",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3d2097aa1b0f81383e1c5b8a",
+    "source_uai": null,
+    "amount": "1400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3f944b5c7102e6dff3dbd43b",
+    "source_uai": null,
+    "amount": "332000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9032c9998696bc80c754a662",
+    "source_uai": null,
+    "amount": "750000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "67d6ae5d3a618fda29b50ef6",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1f835058577a2c7d3cb4adcf",
+    "source_uai": null,
+    "amount": "125000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "03803b038599d49cc818c1b6",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0c62b32c0a771f32933a49b0",
+    "source_uai": null,
+    "amount": "150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ded236cefb3bd0d3e898d35d",
+    "source_uai": null,
+    "amount": "13650000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "bcf583595d01bd59a9881b6e",
+    "source_uai": null,
+    "amount": "150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b7217d05e787d2838fc30bab",
+    "source_uai": null,
+    "amount": "408000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ae215f2720b2d8d6915bef71",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6d01e3216ac4c0b0c95d5315",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "650d5b51723ab95dbc728959",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "027d410444da406125aebdab",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "cd7f73b814c423358c5911c7",
+    "source_uai": null,
+    "amount": "4801000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "882ee759d92200be905c6702",
+    "source_uai": null,
+    "amount": "50000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "85aeb9c0b0bc5f950065c218",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f10e64aaf9104ba9df9b5c60",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9c309fdf03a50ecddba24bb6",
+    "source_uai": null,
+    "amount": "30000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "665f63f1abf14e103e03d3ad",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1991b3a666884d3fafb42649",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "cb2a9e322b38496c6b514598",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "fd4aec56af927ffba6b7db95",
+    "source_uai": null,
+    "amount": "100333.90",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "72ad8890f8602a2da6b02535",
+    "source_uai": null,
+    "amount": "474000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2b5bfd2e6c23bc4f3cbe311a",
+    "source_uai": null,
+    "amount": "400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1ab5a8c7db9a3e59ce791654",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9451638540d64d24d80da329",
+    "source_uai": null,
+    "amount": "40000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3361f14fcedb071ed8440370",
+    "source_uai": null,
+    "amount": "856970.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b36e007237026e658c9b20a1",
+    "source_uai": null,
+    "amount": "48050.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "340091843f8d427caf56fb7e",
+    "source_uai": null,
+    "amount": "9700000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1838fc29803db797d4b92eec",
+    "source_uai": null,
+    "amount": "2300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "79c989da1728788faf90f040",
+    "source_uai": null,
+    "amount": "50000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "387938966518fe066a08dd81",
+    "source_uai": null,
+    "amount": "40000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6bf79305164bdf36fbac59b0",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ffc564a4dde1d8a635ea8edf",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3a4691f082283d8e893df726",
+    "source_uai": null,
+    "amount": "3786245.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "98b89e5f9e2e79235710ad57",
+    "source_uai": null,
+    "amount": "3000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "dafc4d95e00ed568d9781380",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "85ab1d4e6db326bff29b0fd6",
+    "source_uai": null,
+    "amount": "5000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "453c1f065759d75ee08e4ba5",
+    "source_uai": null,
+    "amount": "10000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f59e888242dcff97bcfd578d",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9b78a29ecdc04448d623489a",
+    "source_uai": "0783213U",
+    "amount": "40000.00",
+    "reason": "UAI hors référentiel ; rattachement non confirmé"
+  },
+  {
+    "observation": "06471f45799bcccbf13f959d",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d036d696375038780b15e881",
+    "source_uai": null,
+    "amount": "31000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "538fb7b6c2ce6a1063bfce91",
+    "source_uai": null,
+    "amount": "280000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "459b99a58aec9d0cc541e911",
+    "source_uai": null,
+    "amount": "4000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "db4168c3e2449c8c5c7b7edd",
+    "source_uai": null,
+    "amount": "320000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "897a2ba0414a8388a92f809b",
+    "source_uai": null,
+    "amount": "28243222.11",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1c7f1f2cd87e8bfd26e4cba2",
+    "source_uai": null,
+    "amount": "153000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "28fa14f9c656df4b98d55192",
+    "source_uai": null,
+    "amount": "6666.10",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0704937ca1866d1f103fccd1",
+    "source_uai": "0783259U",
+    "amount": "350000.00",
+    "reason": "UAI hors référentiel ; rattachement non confirmé"
+  },
+  {
+    "observation": "a12ccb0dd5dd2a16f42c917e",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e2a3705d4c0ee9b340673ac7",
+    "source_uai": null,
+    "amount": "55000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "08acd417e1b423a1c1df1a48",
+    "source_uai": null,
+    "amount": "6700000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "354c592e9963717a039650e5",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "fe87f884492dd3821508f01c",
+    "source_uai": null,
+    "amount": "4000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "921a9e590f5e411a81b3f473",
+    "source_uai": null,
+    "amount": "1624740.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "88baec6f17ff3bd3a95641c3",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "45920633707a02eefe17d281",
+    "source_uai": null,
+    "amount": "1777070.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "decfcbc40d1f09483a95c5fc",
+    "source_uai": "0780486E",
+    "amount": "200000.00",
+    "reason": "UAI hors référentiel ; rattachement non confirmé"
+  },
+  {
+    "observation": "4dc69844a043d4b00965b253",
+    "source_uai": null,
+    "amount": "110000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "89707e96d5367bc1c5b59fbf",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "bcec108b6a095c451aab386d",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "16d92c2a66271fb46ee04d18",
+    "source_uai": null,
+    "amount": "320000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "19dd9934cde7607456b24925",
+    "source_uai": null,
+    "amount": "10000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4cbb1230ae31c0584923a9a1",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2f36771af8ab818a68ebdf46",
+    "source_uai": null,
+    "amount": "1750123.40",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f22d4ac9b45fa7f9ff1581f2",
+    "source_uai": null,
+    "amount": "810000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7503563dc2a1071f7fd7e9d8",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "edc617ecf4b3db417cbe1b28",
+    "source_uai": null,
+    "amount": "5000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "70e69b6258dd51e1e9199e18",
+    "source_uai": "0783259U",
+    "amount": "97000.00",
+    "reason": "UAI hors référentiel ; rattachement non confirmé"
+  },
+  {
+    "observation": "940cdc53c021f4eb0f11b587",
+    "source_uai": null,
+    "amount": "20026.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "958012e871257be6169620f0",
+    "source_uai": null,
+    "amount": "1820000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b91da145892cb0f08b550d34",
+    "source_uai": null,
+    "amount": "400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "02a27ebfbbcaa24efd4f58f0",
+    "source_uai": null,
+    "amount": "5000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a2a46da73c0226aee22f9635",
+    "source_uai": null,
+    "amount": "12929000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1419aa965493e2e298ebcfea",
+    "source_uai": null,
+    "amount": "70000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c2adf763079b37d75d670dac",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d45d31ce45b79c05a152dae5",
+    "source_uai": null,
+    "amount": "1122918.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d604bb5e066a02b84fe1b5f7",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f7ea1ee1f3dc8d6db93aeca7",
+    "source_uai": null,
+    "amount": "300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0b565a36f63dca04b967c3cb",
+    "source_uai": null,
+    "amount": "47815.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "61f182195d0408f18b2b11fb",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4fe31ebee663eb92faff0671",
+    "source_uai": null,
+    "amount": "2500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ee84686c27ee79ed5633ce72",
+    "source_uai": null,
+    "amount": "-40000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4a1aea90bc6553f4fc54588f",
+    "source_uai": null,
+    "amount": "3972000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "10de8e4b92122af1437c2e91",
+    "source_uai": null,
+    "amount": "41079.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a492fb4e6646edcc35cd11d4",
+    "source_uai": null,
+    "amount": "400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9e55d9448de91d1578fc2d9d",
+    "source_uai": null,
+    "amount": "60000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "23cacd3105d379c03299ccaa",
+    "source_uai": null,
+    "amount": "74556.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b7a44225b45d173a02c360e8",
+    "source_uai": null,
+    "amount": "18000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "28b90fdd27c36b5952f8bcd8",
+    "source_uai": null,
+    "amount": "40000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "57088340879a09acb449b085",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ca9b95683e8ad1cb33f74bc8",
+    "source_uai": null,
+    "amount": "5966000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "62121d12e13ae323f957e0d5",
+    "source_uai": null,
+    "amount": "108020.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "217aaf0a320394a33a9201db",
+    "source_uai": null,
+    "amount": "180000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8f61d8ed7b0ae8e7cf7b6c68",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "137d05df4c1936f5efcba762",
+    "source_uai": null,
+    "amount": "4031000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "dd1e6331e5fbb397aea6b006",
+    "source_uai": null,
+    "amount": "3000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4ca38d43590306fc8abb006f",
+    "source_uai": null,
+    "amount": "378517.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c660fb8413607b4e78003a2b",
+    "source_uai": null,
+    "amount": "1037973.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2c98868287928e16662bd21c",
+    "source_uai": null,
+    "amount": "1500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "27dd43bf6e8b5525f621dc32",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e2ceb483843c0b79947dd34d",
+    "source_uai": null,
+    "amount": "2500.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2eac7bb5c0f9276a1fbf2449",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1d1b6fcefa7052774b8843bb",
+    "source_uai": null,
+    "amount": "300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3388d0e36695a57895af18a9",
+    "source_uai": null,
+    "amount": "3000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7763ee669da6806e34802f72",
+    "source_uai": null,
+    "amount": "-25000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3b69e3c0a4a527fdf91dd0fa",
+    "source_uai": null,
+    "amount": "-102000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a71f45b84f783dd4ccdc97e0",
+    "source_uai": null,
+    "amount": "4000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ff882795af78412500d04ffd",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d4179bd600cc05ef93c1509f",
+    "source_uai": null,
+    "amount": "50000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "65dbdf2b919eef7cc9046d47",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ac962bf1e342cc20ba55b69d",
+    "source_uai": null,
+    "amount": "-10000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4b271a4b449283a536e77050",
+    "source_uai": null,
+    "amount": "35676.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0b1d6f7a71c5359417d4836b",
+    "source_uai": null,
+    "amount": "237000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3a5a58f6fc835647adefa239",
+    "source_uai": null,
+    "amount": "2650000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ab49ee91d4eb5bcc97dca021",
+    "source_uai": null,
+    "amount": "1035036.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2bd569cb889de6501b617dd0",
+    "source_uai": null,
+    "amount": "1142002.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3427173e391edaa5adc04f1b",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4bf88782155422cc7d796a76",
+    "source_uai": null,
+    "amount": "10000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "adca25c504d6ab1b0e0945d0",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d4e46a6f070121f55da62857",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ea981a45cf2fa6db9c5c58a1",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "95092de0e8d593aa2f33cc27",
+    "source_uai": null,
+    "amount": "17500.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "41aa7f0a0d71e60624ff0c1f",
+    "source_uai": null,
+    "amount": "13666000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "db67660d6bd0e0728aae1b3e",
+    "source_uai": null,
+    "amount": "400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "300ded17513e7f6249d557aa",
+    "source_uai": null,
+    "amount": "49000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3f44a737ab0238f7cb5989e6",
+    "source_uai": null,
+    "amount": "1461643.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3748d5c42a1a2bc26185708e",
+    "source_uai": null,
+    "amount": "150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b3e69c36f0f8efc413a55db4",
+    "source_uai": null,
+    "amount": "50000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d8722bcd4e83755940f25bc7",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2022267114db983900a41248",
+    "source_uai": null,
+    "amount": "50000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "99d6eb4c25601c33d64667a6",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "bbeac58960bb77aa9aab6f13",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a46b726648adbf6324cdb7be",
+    "source_uai": null,
+    "amount": "1587.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "cd0932b65fbc5b05428d22e7",
+    "source_uai": null,
+    "amount": "1044000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "97c8304860200ddd3dcf4038",
+    "source_uai": null,
+    "amount": "1485591.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ce8d3da3ad66ed8dfe578fb8",
+    "source_uai": null,
+    "amount": "150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8e6878210312a7ddf39bc62f",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3f2af885040bbfd5202c20da",
+    "source_uai": null,
+    "amount": "800000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a396b6df4dc319977519759b",
+    "source_uai": null,
+    "amount": "14700000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4a6dff686e6d9c321fe69e84",
+    "source_uai": null,
+    "amount": "800000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a577466c5704e311a33e45bb",
+    "source_uai": null,
+    "amount": "520000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a7d73e4987b636e5b5fd3836",
+    "source_uai": null,
+    "amount": "900000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3ec935b3ac7a3b81c97993e7",
+    "source_uai": null,
+    "amount": "5000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4678547788229ca48b6b7c16",
+    "source_uai": null,
+    "amount": "3000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3f577368bc72ed7266e94b10",
+    "source_uai": null,
+    "amount": "15000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "69c00d173dcdd781cea1ded6",
+    "source_uai": null,
+    "amount": "400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "549e23ef3f9c56bb6fe159a0",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "28f867bea7dcb0df13f1950a",
+    "source_uai": null,
+    "amount": "10000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "737ec6699ec3ba2f19b76a41",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "fd9a44348cc56273c64718cd",
+    "source_uai": null,
+    "amount": "252463.82",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "bda816428e771c0c7a67bd1f",
+    "source_uai": null,
+    "amount": "50000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "cf86c9cc96919c48cbc588e6",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3c86dbeae3235425a03f6e73",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "41aa9cf5fb0381b1d63916de",
+    "source_uai": null,
+    "amount": "4000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f22f32e37b8509afc302fb19",
+    "source_uai": null,
+    "amount": "300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f2e8cd873ebb0ccbfec173b8",
+    "source_uai": null,
+    "amount": "300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "747de97045f06d5e48535b67",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "bf72835b849783a863818d54",
+    "source_uai": null,
+    "amount": "10000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ba92392250c32c67ee989a67",
+    "source_uai": null,
+    "amount": "300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "222a9bafb9aafc2accd8c67c",
+    "source_uai": null,
+    "amount": "-10000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "40b803a53524e3c784a9cfae",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "750dbea63ae40f2f50bd4a28",
+    "source_uai": null,
+    "amount": "7000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c6291671157703ae220f441a",
+    "source_uai": null,
+    "amount": "200265.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "bc29119db57a57f40b5740de",
+    "source_uai": null,
+    "amount": "1928000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9997642c0cc146395870d50c",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "56b363056f2f048a4e4bafde",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e4d76b746431efcb590fd9e5",
+    "source_uai": null,
+    "amount": "400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1533cdb90f8dc4498a970244",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0b1c36eb95d007f1543b3c66",
+    "source_uai": null,
+    "amount": "28066750.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "11a854667bb298d82f131dc9",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f75fc1e843b3562d5092fb5a",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4d4e0a93e30a995e6ccdc1d1",
+    "source_uai": null,
+    "amount": "1132638.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "cbb6b40965ab56e570f134fb",
+    "source_uai": null,
+    "amount": "9060000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9d227958ec1ef49260b53247",
+    "source_uai": null,
+    "amount": "821988.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d99c874e23ee4fd60866394e",
+    "source_uai": null,
+    "amount": "20951499.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6b9e047a8a45a4605f2f043d",
+    "source_uai": null,
+    "amount": "600000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "00ce76750ccf83c76790d071",
+    "source_uai": null,
+    "amount": "338.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "178bbdb31f1ddf1cf263696b",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "fb4aedc9c8bcb90ae5d23fcd",
+    "source_uai": null,
+    "amount": "11869301.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "dc2fcdedc554084b1ec034d1",
+    "source_uai": null,
+    "amount": "10000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ced1a32adb75ad96ded50f6d",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7f682419deb0876431ad4bd5",
+    "source_uai": null,
+    "amount": "25000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "263b1bcbefec37e477783c3b",
+    "source_uai": null,
+    "amount": "1400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ceb559e90336d13816c3ea8d",
+    "source_uai": null,
+    "amount": "97531.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b2b6ea4af5212a2dbaff928b",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "064b8100e1b2a48f7252562a",
+    "source_uai": null,
+    "amount": "12340.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b4fc1f9d41550b2fbf28a419",
+    "source_uai": null,
+    "amount": "27561.80",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7710d462f1aa575e09bf54ae",
+    "source_uai": null,
+    "amount": "150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1d5761c84a3488d778635039",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c723042c72d8dc96a8ec5982",
+    "source_uai": "0752548M",
+    "amount": "950000.00",
+    "reason": "UAI hors référentiel ; rattachement non confirmé"
+  },
+  {
+    "observation": "b6abaac361556b4c7b35d444",
+    "source_uai": null,
+    "amount": "984000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6af3e6ad90b1c55388cdb9fc",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7cbb039e3b1950a08180881e",
+    "source_uai": null,
+    "amount": "21000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "30728594e500a41a070f9f7c",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "df6ab00d0eba9956cbe33789",
+    "source_uai": null,
+    "amount": "5000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4893752d9c54577abc0ece5c",
+    "source_uai": null,
+    "amount": "1029126.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1e5476c954eada6c5b268664",
+    "source_uai": null,
+    "amount": "10000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b0d67622dbefdc729acb691c",
+    "source_uai": null,
+    "amount": "13274501.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "59fc38d2e0e6505fadb97042",
+    "source_uai": null,
+    "amount": "7340699.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "cc98c5a9d43d1f3706f04371",
+    "source_uai": null,
+    "amount": "300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b88d588224e0aebcfa55bcaa",
+    "source_uai": null,
+    "amount": "1600000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6603ca83de3f9fcaabe0f915",
+    "source_uai": null,
+    "amount": "3000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "68b5fcb19d082b38020e6e26",
+    "source_uai": null,
+    "amount": "4637.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ee0a36324bfd5ee391c4cc68",
+    "source_uai": null,
+    "amount": "55000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "73ede4a3037cb91d413b7d25",
+    "source_uai": null,
+    "amount": "1876000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "428c89b37dcf09d5f0abff68",
+    "source_uai": null,
+    "amount": "25000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1da1f126b9df176ea7a3c22c",
+    "source_uai": null,
+    "amount": "269134.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d8924441eb7f23f2a5461ed9",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f921305e436033c49d68851c",
+    "source_uai": null,
+    "amount": "1300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0c08d36b0266582b8fb34ddc",
+    "source_uai": null,
+    "amount": "700000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0d4fb33cb5185182700f30e5",
+    "source_uai": null,
+    "amount": "105000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7c4c1dffedea4305719a4a94",
+    "source_uai": null,
+    "amount": "330000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6da9f8a7867aeee360616e0c",
+    "source_uai": null,
+    "amount": "10000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ad70abfae12accfa18fd7bef",
+    "source_uai": null,
+    "amount": "469754.80",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b3e7e9bb7f8f0496a62227db",
+    "source_uai": null,
+    "amount": "3000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5edb350cb6cf92b11994c877",
+    "source_uai": null,
+    "amount": "1300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a7732ecba323a4b79a7b3bfc",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a85884195cb49b2a37528d67",
+    "source_uai": "0780486E",
+    "amount": "120000.00",
+    "reason": "UAI hors référentiel ; rattachement non confirmé"
+  },
+  {
+    "observation": "8085805c4e062cf6286be75b",
+    "source_uai": null,
+    "amount": "15000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f24917da864f8574a7dd8afa",
+    "source_uai": null,
+    "amount": "290000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "eccf433762118f2ea1df8907",
+    "source_uai": null,
+    "amount": "1935970.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9402fb768217394229e56561",
+    "source_uai": null,
+    "amount": "750000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2778324b5cdb04d836b36dc1",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4e5f145ed0e08358ceb28ebd",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5959f52dd5b2c0440d1c472e",
+    "source_uai": null,
+    "amount": "1317563.66",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d75c42fa1d91364071fd2609",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5becb57846ba321abe7535d6",
+    "source_uai": "0783259U",
+    "amount": "420000.00",
+    "reason": "UAI hors référentiel ; rattachement non confirmé"
+  },
+  {
+    "observation": "7426e492d4a1f3ca9168fa29",
+    "source_uai": null,
+    "amount": "5894000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a8d2629a51bdc5bd77f78b33",
+    "source_uai": null,
+    "amount": "400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "160022dfc81202032ffc4b1c",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0aaf2c0bfc5c3a4882c4e4b9",
+    "source_uai": null,
+    "amount": "2500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f3afbcad03f270177b442418",
+    "source_uai": null,
+    "amount": "49940.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "365979b6a1f10d9d79b616e3",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "436d3ff8a93564ab20161140",
+    "source_uai": null,
+    "amount": "580000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9e21804141b4fbb16f47b7a4",
+    "source_uai": null,
+    "amount": "9700000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0cb9c2d945d80412a958d3de",
+    "source_uai": null,
+    "amount": "320000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7d0dc9abeaa71eec43dc882f",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "da0e6ab536aedb2017edd0b4",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5234884d50522e26c690fd8a",
+    "source_uai": null,
+    "amount": "40000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "10907ea91cdf6437a3087b60",
+    "source_uai": null,
+    "amount": "31000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "11bbc3c049e8ee51e9439e7c",
+    "source_uai": null,
+    "amount": "50000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "bf4853ec0c610e698b0a1642",
+    "source_uai": null,
+    "amount": "10000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f9a379fe8a003c9bdeafd411",
+    "source_uai": null,
+    "amount": "600000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "93cfa39bced7d5ec366a4c9b",
+    "source_uai": null,
+    "amount": "39635000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "52dc4f959f48a0287fb746b7",
+    "source_uai": null,
+    "amount": "884835.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ba158bf087e69a0c9b29d53a",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ab5115050251aad268d91dc3",
+    "source_uai": null,
+    "amount": "130000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2295cc2ac6586b576616b30b",
+    "source_uai": null,
+    "amount": "1619445.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "bfef7a336bb54d1848393517",
+    "source_uai": null,
+    "amount": "400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1616db19a90da4a25e9c836d",
+    "source_uai": null,
+    "amount": "24019000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "21d569cf95017d0f89db96a2",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8f02f7ae7a3d49a9ffd99acc",
+    "source_uai": null,
+    "amount": "780000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4b04b3430c5241db86f459bb",
+    "source_uai": null,
+    "amount": "190000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0ba47ef40aeae913196bb8a0",
+    "source_uai": null,
+    "amount": "300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7b021c059b2dcfaa5870d21b",
+    "source_uai": null,
+    "amount": "400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "93182f970880e95e820237af",
+    "source_uai": "0752538B",
+    "amount": "60000.00",
+    "reason": "UAI hors référentiel ; rattachement non confirmé"
+  },
+  {
+    "observation": "b070274755a30582c7098b6f",
+    "source_uai": null,
+    "amount": "4271619.53",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6c08e6f125c1fd5c3360da24",
+    "source_uai": null,
+    "amount": "13650000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "708eb94d144f53fa520a7d51",
+    "source_uai": null,
+    "amount": "10000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b3c9b43d07642e6bbbe4b547",
+    "source_uai": null,
+    "amount": "69500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "82e0aa52418541450e51329d",
+    "source_uai": null,
+    "amount": "1160000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2f601bd9c2b4a0ab1fe4df2e",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3664506a34529d40cede43d3",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "37a373bba96d168795d5f539",
+    "source_uai": null,
+    "amount": "6000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "19ae169915eb296edfdddf43",
+    "source_uai": null,
+    "amount": "30000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "21a653cdf107021a4bad6a5e",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "38a671c120a127d388a19751",
+    "source_uai": null,
+    "amount": "1200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "99c83862f79026ce4e9ce5c6",
+    "source_uai": null,
+    "amount": "30000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0bc26d9469d61b99d55997f0",
+    "source_uai": null,
+    "amount": "3000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3878409808a3ce14a6dab11e",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9e81b7a219b5f86f01798988",
+    "source_uai": null,
+    "amount": "50000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2fa02ebc114ec2e59bb9cf9a",
+    "source_uai": null,
+    "amount": "17265.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9d006db203972ef362775a1e",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c15c66d4d164435849764925",
+    "source_uai": null,
+    "amount": "50000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "35480ccd4ff29acc75951f73",
+    "source_uai": null,
+    "amount": "110000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "728e4f6f5867e2ae8ec9660e",
+    "source_uai": null,
+    "amount": "8000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "03b041ccfc3fd11fbe7b7abc",
+    "source_uai": null,
+    "amount": "150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "80a0083fdfadfc2a3c514bfa",
+    "source_uai": null,
+    "amount": "10000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0b7a4d5690fa7a7487c5186a",
+    "source_uai": null,
+    "amount": "800000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ef08c09c7579af0354a482f9",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "942e147f6012f4edafd4b725",
+    "source_uai": null,
+    "amount": "3000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "de65cff41a7f33768b9e4b4e",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d8fcc163ec39064650a80f69",
+    "source_uai": null,
+    "amount": "580000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "de8de364c29406e8a83ac3ca",
+    "source_uai": "0772311U",
+    "amount": "1400000.00",
+    "reason": "UAI hors référentiel ; rattachement non confirmé"
+  },
+  {
+    "observation": "91a28d938bb434778a0d3b04",
+    "source_uai": null,
+    "amount": "2100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "114b0ec557329c24cc0b865d",
+    "source_uai": null,
+    "amount": "600000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "30293cc7787b3f47ad10b64d",
+    "source_uai": null,
+    "amount": "1500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5b7d994ff8a630be0125f63f",
+    "source_uai": null,
+    "amount": "-4800000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1872f3726e13345e97283696",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a85123e9b59e110d6842e6c6",
+    "source_uai": null,
+    "amount": "4714392.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "798bff11acbd46c74b6f3ed1",
+    "source_uai": null,
+    "amount": "300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "51f4e7e7c40d0e788149d374",
+    "source_uai": null,
+    "amount": "120000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c242bbc11dbe8f70169df9d4",
+    "source_uai": null,
+    "amount": "3198695.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9447e861f36bf0d0525aaad4",
+    "source_uai": null,
+    "amount": "600000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ba68948664bbea4f0890a5b8",
+    "source_uai": null,
+    "amount": "779326.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "57455091ccd5b723ac0a5d19",
+    "source_uai": null,
+    "amount": "400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "762e040148614d11d6357a22",
+    "source_uai": null,
+    "amount": "2266000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7b6f0277b667952b36a993bb",
+    "source_uai": null,
+    "amount": "800000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0bc6190b470d3066b1d869a1",
+    "source_uai": null,
+    "amount": "2266000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5fcb68a4cc04ecf12e32a8f3",
+    "source_uai": null,
+    "amount": "5000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "998a118c10ae9e6903105117",
+    "source_uai": null,
+    "amount": "3000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8dcc94f4de99c8d7f44dc48e",
+    "source_uai": null,
+    "amount": "1081616.96",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "915168771228a7f77e39c517",
+    "source_uai": null,
+    "amount": "12300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d2383cfa2d76c8f7359e129e",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "337a0c3fac8a8c20818a03ac",
+    "source_uai": null,
+    "amount": "759168.81",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "95d1ee7560674ce4659c379e",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "cb5cafab74fcfda258ad8766",
+    "source_uai": null,
+    "amount": "3500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6b9fdaf7a6eea4760325cb62",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f7d169ae7f1746221eea06d3",
+    "source_uai": null,
+    "amount": "23500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c65db265fad450d020e10e09",
+    "source_uai": null,
+    "amount": "5000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1bccd1361d051c6639ac6686",
+    "source_uai": null,
+    "amount": "215000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "abbad4c4d397288d501286f0",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7c751f0aba92ace7b4991c1b",
+    "source_uai": null,
+    "amount": "50000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "682fe6c3917f51e13ff60406",
+    "source_uai": null,
+    "amount": "800000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "65745a871b59ad8bee9bc89b",
+    "source_uai": null,
+    "amount": "524514.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8994ad8a8da7ea7e6b344011",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5dd6799e68aac29a566226ac",
+    "source_uai": null,
+    "amount": "10000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5e06a187f592955fbac9a1eb",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1addb2cb412c6c8560b99bb7",
+    "source_uai": null,
+    "amount": "3767666.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4b3c9eadf0b05c0977c64bbd",
+    "source_uai": null,
+    "amount": "70000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3fbc0bc2f74b6eff3b00f5b2",
+    "source_uai": null,
+    "amount": "150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2fc69eb1c413b486917a1f4d",
+    "source_uai": null,
+    "amount": "1500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4eac56223c1d02cc4f62b0d9",
+    "source_uai": null,
+    "amount": "4000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "cd3b8adf27ac584999d23c50",
+    "source_uai": null,
+    "amount": "3000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e26c7cbfac986cb439be83e7",
+    "source_uai": null,
+    "amount": "800000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "dd59b0b9651302f1adb9fb13",
+    "source_uai": null,
+    "amount": "55000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a08770ff0026bbd4f526ff64",
+    "source_uai": null,
+    "amount": "12101000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "93fb3943c3b81a99265a24b5",
+    "source_uai": null,
+    "amount": "150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9ebb0ec3a86b36293de0588e",
+    "source_uai": null,
+    "amount": "55000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "50b09b1cf4e1a8d3c8ff68cb",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5c854ef633c1e36d25047599",
+    "source_uai": null,
+    "amount": "10000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "18485f5586cd48526aefc71e",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6c23c28c451ec89f511c6919",
+    "source_uai": null,
+    "amount": "370000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "aa3a0a008c36d22e2ffd0bf0",
+    "source_uai": null,
+    "amount": "576000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "483be42df4daef6174a422e4",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e1c51841a8791c6606720304",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9231532d0f26fe4a08d61495",
+    "source_uai": null,
+    "amount": "15000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a045d49d32c23989c187fd61",
+    "source_uai": null,
+    "amount": "433379.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a60277b99c7bac57a0b5097a",
+    "source_uai": null,
+    "amount": "631109.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c1f6c3eb22fb86182738292c",
+    "source_uai": null,
+    "amount": "1150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "fe971ab8dc465e9716438d93",
+    "source_uai": null,
+    "amount": "50000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f1a7156301e6667c0ab075b2",
+    "source_uai": null,
+    "amount": "-150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a81723dc5feb51eeea37daaf",
+    "source_uai": null,
+    "amount": "130000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3e5cbdff3a472e7a0672cc97",
+    "source_uai": null,
+    "amount": "620000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "740ec108c05a76ce11d6240a",
+    "source_uai": null,
+    "amount": "3200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1d214b32b0ce45d4ee1bc33e",
+    "source_uai": null,
+    "amount": "21600000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a9fd3eefa1ec4bc09323b76b",
+    "source_uai": null,
+    "amount": "13000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "dd3ceb4ba069bbf34da5446b",
+    "source_uai": null,
+    "amount": "50000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "af91e72a97cc2533d82ce3e1",
+    "source_uai": null,
+    "amount": "70000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8160d2b5f40b37455e2ee6cc",
+    "source_uai": null,
+    "amount": "7000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e054dcde41d89e31750de113",
+    "source_uai": null,
+    "amount": "1966.30",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "561c0bd22fdad89f9fc12ae1",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3393cc385193164fcf4d1210",
+    "source_uai": null,
+    "amount": "5987581.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4a5f184516182f9a1fc996b8",
+    "source_uai": null,
+    "amount": "80000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5bf463b20b888eb13da12af2",
+    "source_uai": null,
+    "amount": "600000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a3fa7a6f5f50c47139171f6b",
+    "source_uai": null,
+    "amount": "1500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "525739146e353dd99e9f0d39",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7f33aaf3e20a8137e33744ab",
+    "source_uai": null,
+    "amount": "920000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0f98d584e000b3d54f83faee",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "64306a4c555ef6a446ae962c",
+    "source_uai": null,
+    "amount": "6000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6e66b7a4eb8966f5dafe8b96",
+    "source_uai": null,
+    "amount": "325000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4cdb2905b42cb194805b7878",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1cde584c2923c482a3880910",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "aa8068534e4e7b53ace6af81",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2ce391e8b97e1365943dd09e",
+    "source_uai": null,
+    "amount": "467853.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d8f1aed6c2eb9a8b267434f4",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "001d59b13f40fccae76b5f93",
+    "source_uai": null,
+    "amount": "1200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "af615e150cd9d318d69c8dcb",
+    "source_uai": null,
+    "amount": "400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4169f7ed0384a15cc5096d11",
+    "source_uai": null,
+    "amount": "31126.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "90ab34fba3c238cb496e5d34",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7823a17eb8fdff8b2874e2a6",
+    "source_uai": null,
+    "amount": "26332.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "02c167c48298ec2246a4d8cb",
+    "source_uai": null,
+    "amount": "901142.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2642ccb7939c029da3b7a47a",
+    "source_uai": null,
+    "amount": "21000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5f018a1c11360512e2646f58",
+    "source_uai": null,
+    "amount": "8500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "45209edffa249e90fb35f4e7",
+    "source_uai": null,
+    "amount": "4800000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b86ba5c8b4c0b296b7ec5919",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e40810e0cededbb0f81b0423",
+    "source_uai": null,
+    "amount": "83331.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "be40bc0df3a95c469608415a",
+    "source_uai": null,
+    "amount": "-6000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "41684a5254ae35abf7c634c5",
+    "source_uai": null,
+    "amount": "95000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "838ec37cc47520920b345e4f",
+    "source_uai": null,
+    "amount": "1199613.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c8aa38fcfe9993954b927bc8",
+    "source_uai": null,
+    "amount": "3082986.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "fc0a6350ad972d39779a02e7",
+    "source_uai": null,
+    "amount": "10000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d785c5f763940b1f7e9c4960",
+    "source_uai": null,
+    "amount": "1300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "64a34bbf44c555e7cb288722",
+    "source_uai": null,
+    "amount": "1461249.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2ebb2b9460405f5250cd1e3e",
+    "source_uai": null,
+    "amount": "245000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6e071ccaf33b81c60ac236fe",
+    "source_uai": null,
+    "amount": "148545.12",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "eef9b860ec3096f8b00c7e97",
+    "source_uai": null,
+    "amount": "10500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "358902c979484e915af41927",
+    "source_uai": null,
+    "amount": "880000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "33fec57c0e22055ad3137634",
+    "source_uai": null,
+    "amount": "-21000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "57f432981269fa4c5bacf3a3",
+    "source_uai": null,
+    "amount": "20000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f34981af8290784d970b3772",
+    "source_uai": null,
+    "amount": "750000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "43e560b7ed910d2122bb17bc",
+    "source_uai": null,
+    "amount": "6576415.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1275b86c316e023f3f3b0fd8",
+    "source_uai": null,
+    "amount": "12884000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d8cb84d70fee2581f08665ce",
+    "source_uai": null,
+    "amount": "15000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "023f0029da8cb986d8793c3f",
+    "source_uai": null,
+    "amount": "2784774.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c5ebb6c818565783e23eea02",
+    "source_uai": null,
+    "amount": "180000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "92e2503a626c84e04840f61e",
+    "source_uai": null,
+    "amount": "50276.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "799368aebae2356830c2d01b",
+    "source_uai": null,
+    "amount": "5400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e0737ccb5e7a04cec79d0419",
+    "source_uai": null,
+    "amount": "422000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "129fb28a917eb98db1775f0c",
+    "source_uai": null,
+    "amount": "740000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "931ecf74fe0ef9eec17c363f",
+    "source_uai": null,
+    "amount": "3380000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "121d28413903a6a872d4ece0",
+    "source_uai": null,
+    "amount": "10000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "becd9782a4ff2014e8623666",
+    "source_uai": null,
+    "amount": "21045.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "236c220367f6193ab0401e0a",
+    "source_uai": null,
+    "amount": "40000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ca2378bbb9f2edff8d0bf663",
+    "source_uai": null,
+    "amount": "55402.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "352f28404a85513d9a283cf8",
+    "source_uai": null,
+    "amount": "1060000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0d4234ae427d63d955cab41a",
+    "source_uai": null,
+    "amount": "50000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "eca2856b120dd2bcf482e807",
+    "source_uai": null,
+    "amount": "1911873.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "acb42a6803884627c47044bf",
+    "source_uai": null,
+    "amount": "65000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4784b2b3be54afd964330717",
+    "source_uai": null,
+    "amount": "1300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ca07c8d2e441969c7eb62bb7",
+    "source_uai": null,
+    "amount": "5000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "bb9779087e3a02b63c355452",
+    "source_uai": null,
+    "amount": "3797591.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "527e7e427a060739819615dc",
+    "source_uai": null,
+    "amount": "40000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8dcf2f5afa5510e881343af7",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0f3ef3446c78aebea609c6fe",
+    "source_uai": null,
+    "amount": "2500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "cc12931153a4038b7782cfac",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ff267dcb95808c9ff05c6695",
+    "source_uai": null,
+    "amount": "30000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "49a921d9c60b180c1065230b",
+    "source_uai": null,
+    "amount": "49000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f931ace4be091011860bd9ca",
+    "source_uai": null,
+    "amount": "300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "681321cac2c1b52e96e6201d",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1eb51f39bb127270687660dc",
+    "source_uai": null,
+    "amount": "70000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "316b3e18d67a03bcd056a795",
+    "source_uai": null,
+    "amount": "22750000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "be52119c0d0b4a6c99451513",
+    "source_uai": null,
+    "amount": "151786.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e759c9974783e039625ef55b",
+    "source_uai": null,
+    "amount": "35322.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9d5cc5085d4328789111c0f9",
+    "source_uai": null,
+    "amount": "6468405.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "24183a9e7706d4cb0a81645a",
+    "source_uai": null,
+    "amount": "20000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "135e1c3e5f852e4e202ccbc1",
+    "source_uai": null,
+    "amount": "3000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "41ce0b6966043eaeb50c99ae",
+    "source_uai": null,
+    "amount": "2212000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4e6bb70476c1c7c8fe6f508f",
+    "source_uai": null,
+    "amount": "5400000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "459a82c6d004b4cb63208de8",
+    "source_uai": null,
+    "amount": "6545000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "fc0e56c2ef1d1fa03e4d0e3c",
+    "source_uai": null,
+    "amount": "11000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c89ce0d03f3fc71ccfcd78d7",
+    "source_uai": null,
+    "amount": "8640.20",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "60a82462dd66309a07b99023",
+    "source_uai": null,
+    "amount": "210000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "23aec49e82ad67100eb8ae76",
+    "source_uai": null,
+    "amount": "5000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "11736eb018344858f7251c8b",
+    "source_uai": null,
+    "amount": "86433.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6205cd4fbf5644678f9e280d",
+    "source_uai": null,
+    "amount": "-800000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6b17e98ca2a97f6de3a3cfcf",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "af221390433670402730f394",
+    "source_uai": null,
+    "amount": "120000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4563702402c2b9b17aee326d",
+    "source_uai": null,
+    "amount": "21012000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "653a01f02862b1b283062c97",
+    "source_uai": null,
+    "amount": "10000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "144c39c9630009c8d117247e",
+    "source_uai": null,
+    "amount": "730000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0c6d05673d8c80d8efaac9b6",
+    "source_uai": null,
+    "amount": "3971681.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e7f0a65ba5c49ea880142827",
+    "source_uai": null,
+    "amount": "800000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "859a7ac3022ba1bc5feac3ae",
+    "source_uai": null,
+    "amount": "3438816.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "93fdb8c27d917cbaacd45c90",
+    "source_uai": null,
+    "amount": "10820000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "297eae78ae8832d0c19346d1",
+    "source_uai": null,
+    "amount": "6000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "678fe824b2e9ca19328d3392",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "07f8ee49c62670d9b61e1a5f",
+    "source_uai": null,
+    "amount": "1880612.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c553a887188a588126d86129",
+    "source_uai": null,
+    "amount": "350000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a7b87d79079c914294ec96a3",
+    "source_uai": null,
+    "amount": "110000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ab0a25fa1da0333ff1244ee9",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1d53f7cd88be2ca3b51ecf70",
+    "source_uai": null,
+    "amount": "150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "cdfa12746cdbb68b9be0c7b7",
+    "source_uai": null,
+    "amount": "75000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "aad9d90ea00c2432e6a195c8",
+    "source_uai": null,
+    "amount": "162500.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "2e746c5931dcbf8909ce7889",
+    "source_uai": null,
+    "amount": "130600.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "29b7a026626673b81bd3cf48",
+    "source_uai": null,
+    "amount": "869400.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7790b94f4bdaa07ab1e68727",
+    "source_uai": null,
+    "amount": "4000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7f8abd64a1cc67508d55d0f4",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0cd149dec1a27b6114ffe47d",
+    "source_uai": null,
+    "amount": "630000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "17aecaafdd7e7f7acc13d94f",
+    "source_uai": null,
+    "amount": "820000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "92f28b5c3323cbcde986ce2c",
+    "source_uai": null,
+    "amount": "1795628.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "bff3b142af0775bef5ee1f6d",
+    "source_uai": null,
+    "amount": "376211.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "41ecf800507c8abca4246b19",
+    "source_uai": null,
+    "amount": "30000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "0848de4538b250a96e24ba17",
+    "source_uai": null,
+    "amount": "800000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d7e568c6baa4cba6e557fd6b",
+    "source_uai": null,
+    "amount": "35000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8bfec0f0d575a705eae69849",
+    "source_uai": null,
+    "amount": "67509.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4676af49f69bd90195e3842f",
+    "source_uai": null,
+    "amount": "2385085.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "97105d787ae4fc2f820da201",
+    "source_uai": null,
+    "amount": "50000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8bb30f99cff7cb47a676c2a1",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6e4597d06df8b315da34ac1a",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "cb4546cf601bcc518e01abcd",
+    "source_uai": null,
+    "amount": "350000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6a5b047b7807fce2809ddb9c",
+    "source_uai": null,
+    "amount": "50000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f7a5f4cde780741574c8c89e",
+    "source_uai": null,
+    "amount": "108000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "fffe8aff9e2da8f9724b2ec3",
+    "source_uai": null,
+    "amount": "17600000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "edfa681bde80541be646e76e",
+    "source_uai": null,
+    "amount": "3750000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6cf93ac79be4c1083d131b73",
+    "source_uai": null,
+    "amount": "1590900.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "78cf06e0be97143262f2b838",
+    "source_uai": null,
+    "amount": "300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e72d59897f24c762d7b55b40",
+    "source_uai": null,
+    "amount": "75240.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b18601dc8259e696880a81ad",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b1af08ef57a70c14538a416a",
+    "source_uai": null,
+    "amount": "220000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "cd4d94f5d2f8ebeaf16a994d",
+    "source_uai": null,
+    "amount": "80000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4fba059c71099b9071ebc61b",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8a702d6969278ac84561de63",
+    "source_uai": null,
+    "amount": "25926.68",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "7dd06ec5bc99f3f33c08d829",
+    "source_uai": null,
+    "amount": "100000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "504a29357fa9b0251c82371e",
+    "source_uai": null,
+    "amount": "49940.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "126baa7d37e6653523cbc872",
+    "source_uai": null,
+    "amount": "529291.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6a98f4aec9e508d71c991bc0",
+    "source_uai": null,
+    "amount": "108000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8073a963324625d4cefc6fab",
+    "source_uai": null,
+    "amount": "31308.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c259a203c68bacf522ffe0fc",
+    "source_uai": null,
+    "amount": "150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6782d594a406d2ad1f2c3005",
+    "source_uai": null,
+    "amount": "2180000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8d8bf626392ba5097783c367",
+    "source_uai": null,
+    "amount": "131853.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "64a77654d4c3b690223cd956",
+    "source_uai": null,
+    "amount": "25000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "917d7eeae1cc7faea2b591ba",
+    "source_uai": null,
+    "amount": "7000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5e1662d91e8fe0a27224cfa6",
+    "source_uai": null,
+    "amount": "305000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b77217dde6f51d009794e12b",
+    "source_uai": null,
+    "amount": "13000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "33a922f548203b3d0615da65",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f7b7deaef8c906e08b1532f3",
+    "source_uai": null,
+    "amount": "740000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "34f4c6e3684c324c829d85e7",
+    "source_uai": null,
+    "amount": "12600000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "41e3fe770250eb6eabef36cb",
+    "source_uai": null,
+    "amount": "12340.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "00de0d34c66993b91309dc29",
+    "source_uai": null,
+    "amount": "48000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d128bea1fab84789cd942829",
+    "source_uai": null,
+    "amount": "70188.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "57b25483e6addc35ce39c83a",
+    "source_uai": null,
+    "amount": "680000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e13d9041ea08cb9229ab5011",
+    "source_uai": null,
+    "amount": "975000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "6f85c53e90127ba2bbe45a25",
+    "source_uai": null,
+    "amount": "110000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3b2a79cc8b12b03aa7e651a7",
+    "source_uai": null,
+    "amount": "500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "46e48139eb6c68415e9445f8",
+    "source_uai": null,
+    "amount": "563771.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ca4c1351b921234139d75dfc",
+    "source_uai": null,
+    "amount": "60000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "c0caa0034086d63f898aedde",
+    "source_uai": null,
+    "amount": "150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9aac742e2d0564ba3135eeb4",
+    "source_uai": null,
+    "amount": "50000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f37bb48f48045a740915328e",
+    "source_uai": null,
+    "amount": "101000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "127accbdb056f6e5029c6c13",
+    "source_uai": null,
+    "amount": "745000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "30542355d576ffadc6e559ff",
+    "source_uai": null,
+    "amount": "30000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a58ac9f11cf24272dac5ddeb",
+    "source_uai": null,
+    "amount": "155225.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ea6951f6465ec4c3d4875333",
+    "source_uai": null,
+    "amount": "80000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "b322599f47d1a97bd35f6e50",
+    "source_uai": null,
+    "amount": "8906.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ad5d55b3af16b4eecb4b701b",
+    "source_uai": null,
+    "amount": "4040000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5bdfb5656b14ea5c08ab4fcb",
+    "source_uai": null,
+    "amount": "25000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5288446f547696f9199a2cc0",
+    "source_uai": null,
+    "amount": "432000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "26470fc95df9744e763ab3fc",
+    "source_uai": null,
+    "amount": "25258.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5156c1f317d238888819de28",
+    "source_uai": null,
+    "amount": "50000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "ce9b24d33138672146bacdba",
+    "source_uai": null,
+    "amount": "3071.20",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "9998ba70c40dd3e13dbe80ff",
+    "source_uai": null,
+    "amount": "160000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "a3edfaa2f740d54f33bfa2e7",
+    "source_uai": null,
+    "amount": "2500000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "06d9e331aa45c78250cda1db",
+    "source_uai": null,
+    "amount": "220000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "bd8a621307d0a70b3041a148",
+    "source_uai": null,
+    "amount": "11300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1b73a59e66a6925a9042cada",
+    "source_uai": null,
+    "amount": "4000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "87ab0575376ab13601b9db30",
+    "source_uai": null,
+    "amount": "2000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "86d0543228b69f265b0f38b1",
+    "source_uai": null,
+    "amount": "150000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "38f80eafebdd36b9b5e074b7",
+    "source_uai": null,
+    "amount": "17700000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "d8b87926e4e9402bab99a0ad",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e86913d728816b3fc4a74852",
+    "source_uai": null,
+    "amount": "30000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "54f9314e6f10d45fbd37a7b1",
+    "source_uai": null,
+    "amount": "3115.40",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "886aeb0fe313dbd9004aefa6",
+    "source_uai": null,
+    "amount": "730000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "3fd7b6bcc0ac4cc0c3a4e27f",
+    "source_uai": null,
+    "amount": "74105.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "41c28800d441cafbc1cfd7aa",
+    "source_uai": null,
+    "amount": "200000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "1566dfbf50bffaaf56359fb6",
+    "source_uai": null,
+    "amount": "80000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4bffc784553b65875ee1a357",
+    "source_uai": null,
+    "amount": "506524.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "5d15b59bf7059f4185ac4ed0",
+    "source_uai": null,
+    "amount": "1000000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "28645a69310702ad7e86ae3a",
+    "source_uai": null,
+    "amount": "108000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "15ee3422bb21cfec91e3c2bd",
+    "source_uai": null,
+    "amount": "250000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "f8b044ddd2f0aa188db4fba0",
+    "source_uai": null,
+    "amount": "12670000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "e27a38475cad624ce2cf53f7",
+    "source_uai": null,
+    "amount": "354000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "90914f8ac68096cbd6706755",
+    "source_uai": null,
+    "amount": "10000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "977b6506fa1c4b2945e4f06e",
+    "source_uai": null,
+    "amount": "7114000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "be28974c49b51717a0a158c9",
+    "source_uai": null,
+    "amount": "60785.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "8ae98c4d8cf5dc7214984711",
+    "source_uai": null,
+    "amount": "14300000.00",
+    "reason": "UAI absent"
+  },
+  {
+    "observation": "4ab8839f07197615f44bddce",
+    "source_uai": null,
+    "amount": "12000000.00",
+    "reason": "UAI absent"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "source": "dotation-2025",
+    "page": 17,
+    "scope": "EPLE",
+    "reported": "72929445.00",
+    "calculated": "72929445.00",
+    "passed": true
+  },
+  {
+    "source": "dotation-2025",
+    "page": 17,
+    "scope": "CMR",
+    "reported": "6744289.00",
+    "calculated": "6744289.00",
+    "passed": true
+  },
+  {
+    "source": "dotation-2025",
+    "page": 17,
+    "scope": "CMD",
+    "reported": "156844.00",
+    "calculated": "156844.00",
+    "passed": true
+  },
+  {
+    "source": "dotation-2025",
+    "page": 17,
+    "scope": "GENERAL",
+    "reported": "79830578.00",
+    "calculated": "79830578.00",
+    "passed": true
+  },
+  {
+    "source": "dotation-2026",
+    "page": 26,
+    "scope": "EPLE",
+    "reported": "72794544.00",
+    "calculated": "72794544.00",
+    "passed": true
+  },
+  {
+    "source": "dotation-2026",
+    "page": 26,
+    "scope": "CMR",
+    "reported": "6863061.00",
+    "calculated": "6863061.00",
+    "passed": true
+  },
+  {
+    "source": "dotation-2026",
+    "page": 26,
+    "scope": "CMD",
+    "reported": "155648.00",
+    "calculated": "155648.00",
+    "passed": true
+  },
+  {
+    "source": "dotation-2026",
+    "page": 26,
+    "scope": "GENERAL",
+    "reported": "79813253.00",
+    "calculated": "79813253.00",
+    "passed": true
+  },
+  {
+    "source": "dotation-2025",
+    "page": 25,
+    "scope": "EPLE",
+    "reported": "15570853.00",
+    "calculated": "15570853.00",
+    "passed": true
+  },
+  {
+    "source": "dotation-2025",
+    "page": 25,
+    "scope": "CMR",
+    "reported": "2104445.00",
+    "calculated": "2104445.00",
+    "passed": true
+  },
+  {
+    "source": "dotation-2025",
+    "page": 25,
+    "scope": "GENERAL",
+    "reported": "17675298.00",
+    "calculated": "17675298.00",
+    "passed": true
+  },
+  {
+    "source": "dotation-2026",
+    "page": 34,
+    "scope": "EPLE",
+    "reported": "15652630.00",
+    "calculated": "15652630.00",
+    "passed": true
+  },
+  {
+    "source": "dotation-2026",
+    "page": 35,
+    "scope": "CMR",
+    "reported": "2083822.00",
+    "calculated": "2083822.00",
+    "passed": true
+  },
+  {
+    "source": "dotation-2026",
+    "page": 35,
+    "scope": "GENERAL",
+    "reported": "17736452.00",
+    "calculated": "17736452.00",
+    "passed": true
+  }
+]

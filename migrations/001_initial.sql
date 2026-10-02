@@ -1,0 +1,36 @@
+CREATE TABLE IF NOT EXISTS schema_migrations (name text PRIMARY KEY, applied_at timestamptz NOT NULL DEFAULT now());
+CREATE TYPE quality_status AS ENUM ('observed','allocated','estimated','missing','suppressed','not_applicable');
+CREATE TYPE coverage_status AS ENUM ('partial','complete_declared_scope','not_comparable');
+CREATE TYPE accounting_nature AS ENUM ('proposed_budget','voted_budget','authorization','commitment','mandate_net','payment_net','expense','depreciation','transfer','contract');
+CREATE TABLE sources (id text PRIMARY KEY, title text NOT NULL, producer text NOT NULL, url text NOT NULL, license text NOT NULL);
+CREATE TABLE source_versions (id text PRIMARY KEY, source_id text NOT NULL REFERENCES sources, sha256 char(64) NOT NULL, collected_at timestamptz NOT NULL, published_at timestamptz, path text NOT NULL, metadata jsonb NOT NULL, public boolean NOT NULL DEFAULT true, UNIQUE(source_id,sha256));
+CREATE TABLE evidence (id text PRIMARY KEY, version_id text NOT NULL REFERENCES source_versions, source_row integer, row_id text, page integer, table_name text, column_name text, transformation text NOT NULL, transformation_version text NOT NULL);
+CREATE TABLE geographies (id text PRIMARY KEY, code text NOT NULL, kind text NOT NULL CHECK(kind IN ('region','department','commune','arrondissement')), name text NOT NULL, parent_id text REFERENCES geographies, valid_from date, valid_to date, CHECK(valid_to IS NULL OR valid_from IS NULL OR valid_to>=valid_from));
+CREATE TABLE establishments (uai text PRIMARY KEY CHECK(uai ~ '^[0-9]{7}[A-Z]$'), name text NOT NULL, authority text NOT NULL, nature text NOT NULL, category text NOT NULL, geography_id text REFERENCES geographies, valid_from date, valid_to date, evidence_id text NOT NULL REFERENCES evidence, metadata jsonb NOT NULL DEFAULT '{}');
+CREATE TABLE entity_relations (id text PRIMARY KEY, source_uai text NOT NULL REFERENCES establishments, target_identifier text NOT NULL, target_type text NOT NULL DEFAULT 'establishment', relation_type text NOT NULL, valid_from date, valid_to date, observed_at timestamptz, evidence_id text NOT NULL REFERENCES evidence, metadata jsonb NOT NULL DEFAULT '{}');
+CREATE TABLE enrollments (id text PRIMARY KEY, uai text NOT NULL REFERENCES establishments, school_year integer NOT NULL, population text NOT NULL, value numeric(14,4), unit text NOT NULL DEFAULT 'élèves', status quality_status NOT NULL, coverage coverage_status NOT NULL, evidence_id text NOT NULL REFERENCES evidence, CHECK(value IS NULL OR value>=0), CHECK((status IN ('missing','suppressed','not_applicable') AND value IS NULL) OR (status IN ('observed','allocated','estimated') AND value IS NOT NULL)));
+CREATE TABLE operations (id text PRIMARY KEY, object text NOT NULL, identifiers jsonb NOT NULL DEFAULT '{}', sites jsonb NOT NULL DEFAULT '[]', documents jsonb NOT NULL DEFAULT '[]', status text NOT NULL DEFAULT 'not_documented');
+CREATE TABLE financial_observations (id text PRIMARY KEY, fiscal_year integer NOT NULL, observation_date date, beneficiary_uai text REFERENCES establishments, beneficiary text, payer text, funder text, account text, service text, post text, amount numeric(20,2) NOT NULL, currency char(3) NOT NULL DEFAULT 'EUR', unit text NOT NULL, tax_basis text NOT NULL CHECK(tax_basis IN ('HT','TTC','unknown','not_applicable')), nature accounting_nature NOT NULL, quality quality_status NOT NULL, coverage coverage_status NOT NULL, evidence_id text NOT NULL REFERENCES evidence, operation_id text REFERENCES operations, economic_event_id text, included_in text REFERENCES financial_observations, scope jsonb NOT NULL DEFAULT '{}');
+CREATE TABLE operation_milestones (id text PRIMARY KEY, operation_id text NOT NULL REFERENCES operations, name text NOT NULL, date date NOT NULL, timing text NOT NULL CHECK(timing IN ('planned','actual')), evidence_id text NOT NULL REFERENCES evidence);
+CREATE TABLE transfers (id text PRIMARY KEY, source_observation text NOT NULL REFERENCES financial_observations, final_observation text REFERENCES financial_observations, amount numeric(20,2) NOT NULL, elimination_method text NOT NULL, evidence_id text NOT NULL REFERENCES evidence);
+CREATE TABLE allocations (id text PRIMARY KEY, source_observation text NOT NULL REFERENCES financial_observations, target_uai text REFERENCES establishments, fraction numeric(18,12) CHECK(fraction BETWEEN 0 AND 1), amount numeric(20,2) NOT NULL, allocation_key jsonb NOT NULL, method text NOT NULL, residual numeric(20,2) NOT NULL, evidence_id text NOT NULL REFERENCES evidence);
+CREATE FUNCTION check_allocations() RETURNS trigger AS $$
+DECLARE total numeric; allocated numeric;
+BEGIN
+  SELECT amount INTO total FROM financial_observations WHERE id=NEW.source_observation FOR UPDATE;
+  SELECT COALESCE(sum(amount),0) INTO allocated FROM allocations WHERE source_observation=NEW.source_observation;
+  IF total < 0 OR allocated < 0 OR allocated > total OR NEW.residual <> total - allocated THEN
+    RAISE EXCEPTION 'Allocation and residual must reconcile to source';
+  END IF;
+  RETURN NEW;
+END; $$ LANGUAGE plpgsql;
+CREATE CONSTRAINT TRIGGER allocation_conservation AFTER INSERT OR UPDATE ON allocations DEFERRABLE INITIALLY DEFERRED FOR EACH ROW EXECUTE FUNCTION check_allocations();
+CREATE TABLE assets (id text PRIMARY KEY, component text NOT NULL, uai text REFERENCES establishments, value numeric(20,2), in_service_date date, disposal_date date, depreciation_method text, useful_life_months integer, evidence_id text NOT NULL REFERENCES evidence);
+CREATE TABLE condition_observations (id text PRIMARY KEY, site_identifier text NOT NULL, indicator text NOT NULL, period_start date NOT NULL, period_end date, value numeric, text_value text, unit text, scale jsonb, method text NOT NULL, source_kind text NOT NULL CHECK(source_kind IN ('diagnostic','institutional_communication','testimony')), quality quality_status NOT NULL, evidence_id text NOT NULL REFERENCES evidence);
+CREATE TABLE coverage (id text PRIMARY KEY, uai text NOT NULL REFERENCES establishments, year integer NOT NULL, population text NOT NULL, post text NOT NULL, quality quality_status NOT NULL, coverage coverage_status NOT NULL DEFAULT 'not_comparable', evidence_id text REFERENCES evidence);
+CREATE TABLE computed_metrics (id text PRIMARY KEY, entity text NOT NULL, period jsonb NOT NULL, formula text NOT NULL, version text NOT NULL, inputs jsonb NOT NULL, numerator numeric(24,6), denominator numeric(24,6), exclusions jsonb NOT NULL, quality quality_status NOT NULL, result numeric(24,6), CHECK(denominator IS NULL OR denominator>0));
+CREATE TABLE requests_log (id text PRIMARY KEY, recipient text NOT NULL, sent_at date NOT NULL, status text NOT NULL, private_document_path text, mapping_approved_by text, received_at date);
+CREATE TABLE public_claims (id text PRIMARY KEY, author text NOT NULL, date date NOT NULL, statement text NOT NULL, evidence_id text NOT NULL REFERENCES evidence, territory text NOT NULL, period jsonb, indicator text);
+CREATE TABLE app_snapshots (revision text PRIMARY KEY, generated_at timestamptz NOT NULL, payload jsonb NOT NULL);
+CREATE INDEX enrollments_uai_year ON enrollments(uai,school_year);
+CREATE INDEX financial_uai_year ON financial_observations(beneficiary_uai,fiscal_year);

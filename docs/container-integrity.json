@@ -1,0 +1,125 @@
+{
+  "generated": "2026-10-02T15:32:45.593Z",
+  "base": "http://127.0.0.1:8082",
+  "revision": "ed2456e3852ccede387be820b07121c019244f302a15b13629ba63f3d1ac6b8c",
+  "sources": [
+    {
+      "id": "fr-en-annuaire-education",
+      "sha256": "b95efe1093b38dfcd4d1405507177c92cfcb3b0569ce584d69be476b0f1cfc25",
+      "bytes": 1440499
+    },
+    {
+      "id": "fr-en-lycee_gt-effectifs-niveau-sexe-lv",
+      "sha256": "881c0def8cfd1dfe8fca0fe39eae211d6794cecd6a57d3ddea65996099563634",
+      "bytes": 13036806
+    },
+    {
+      "id": "fr-en-lycee_pro-effectifs-niveau-sexe-lv",
+      "sha256": "5c58cad6517596528cad444aefb780e6fa235bbdedcd2331251dab25482a6995",
+      "bytes": 6100875
+    },
+    {
+      "id": "donnees-budgetaires-lycees-operations-directes",
+      "sha256": "81d1ba02eee1c46175974fe5aade0d5aa5f6a73bbefb9464961594b5146c6465",
+      "bytes": 1059522
+    },
+    {
+      "id": "fr-en-lycee_pro-effectifs-niveau-sexe-mef",
+      "sha256": "24f8f031f762ee2c93f5ff3d694825520d80bb67a68e8cac4133d2643f710e5a",
+      "bytes": 472
+    },
+    {
+      "id": "fr-en-effectifs-etudiants-cpge-par-annee-et-par-sexe",
+      "sha256": "290f11ffbcadae63812a9b3fc7e1cd4809c720d67dfeb7d907165c1a7f011fd1",
+      "bytes": 312
+    },
+    {
+      "id": "fr-en-mode-hebergement-eleves-etablissements-2d",
+      "sha256": "4ec3d6459d1876394d2137daf31d3731d7640add0bc02af17f2b12681df3142a",
+      "bytes": 778
+    },
+    {
+      "id": "fr-en-ips-lycees-ap2022",
+      "sha256": "58dd723158819d7e49d6c699929d3e05ea7cea6cc963a815d0c854d9e13ad7f2",
+      "bytes": 687
+    },
+    {
+      "id": "operations-de-construction-et-de-renovation-dans-les-lycees-francilens",
+      "sha256": "b9055263a29d158303ab7e60b4d42ea1078700337ff7c9510474079eecab272f",
+      "bytes": 788
+    },
+    {
+      "id": "marches-publics-decp-region-ile-de-france",
+      "sha256": "ddb6025cf4b79be3ff5ea4076fa85d37ef42ddc4dfdc9a749b343ad136a641ae",
+      "bytes": 1121
+    },
+    {
+      "id": "liste-des-marches-conclus-depuis-2018",
+      "sha256": "669dfd07fc75fb0e0f1062904073a5405d026aaa1879beb68ae425ca490f043a",
+      "bytes": 1712
+    },
+    {
+      "id": "fr-en-normandie-masse-salariale-des-etablissements-scolaires",
+      "sha256": "3d1f2c0abe0254381be791d7491260cb9a32e16472665e526443cbadb33d40ec",
+      "bytes": 410
+    },
+    {
+      "id": "dotation-2025",
+      "sha256": "0973f8b9304572149ccc36cca262c25591d433dbeb78318f904c2278b1d7a1f1",
+      "bytes": 338438
+    },
+    {
+      "id": "dotation-2026",
+      "sha256": "43e0a198c6c8608e2ff717aab4dd5a156d0b981074247015fda42e3ed1dcf6c9",
+      "bytes": 624992
+    },
+    {
+      "id": "dotation-2020",
+      "sha256": "21b92f9d6adf069336cd43c2d750a55e1ac7e1b6816228a9873d379035cc8ddd",
+      "bytes": 2844298
+    },
+    {
+      "id": "dotation-2022",
+      "sha256": "c23c7b0debdbc0cdf417f81fafe9d5382933bf9050834f5b6d3823002d876cdd",
+      "bytes": 4569070
+    },
+    {
+      "id": "dotation-2023",
+      "sha256": "17c01e894cee07949eeb73df98882b66f636f3d42ad57beac6e0df07e8bf09d7",
+      "bytes": 2084925
+    },
+    {
+      "id": "dotation-2024",
+      "sha256": "712c759465bb4ebcbeb693d64fc06ceecd3eec02f59b86cf905edc0b61a77c59",
+      "bytes": 394258
+    },
+    {
+      "id": "operations-de-construction-et-de-renovation-dans-les-lycees-francilens",
+      "sha256": "cc75b335be657d1395065e821d418d576e58e3f3980881b9d2c14cb8cfdb34c2",
+      "bytes": 239418
+    },
+    {
+      "id": "dotation-2021",
+      "sha256": "31bb448f78bfda2c91341374bca93169ea66a4a311bb4b788c404e27d0cb1235",
+      "bytes": 258088
+    },
+    {
+      "id": "acte-dotation-2025",
+      "sha256": "54bc5869e464775ef79d407973f462c4bfe4d47d6c1afe1b8afc947529792249",
+      "bytes": 321862
+    },
+    {
+      "id": "acte-dotation-2026",
+      "sha256": "6688d5d3f995fe9388e9b7c0bf4fbde07549d970ef32adebc00ab1475759a105",
+      "bytes": 313961
+    }
+  ],
+  "checks": [
+    "public deployment identity; no local-only publication statement",
+    {
+      "concurrent_coverage_exports": 8,
+      "rows_each": 51558
+    },
+    "private paths and invalid source/report names inaccessible"
+  ]
+}

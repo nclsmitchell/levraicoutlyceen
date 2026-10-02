@@ -1,0 +1,100 @@
+[
+  {
+    "year": 2019,
+    "GT": {
+      "rows": 335,
+      "observed": 335
+    },
+    "PRO": {
+      "rows": 296,
+      "observed": 296
+    },
+    "financial_observations": 0,
+    "executed": "missing",
+    "conditions": "missing"
+  },
+  {
+    "year": 2020,
+    "GT": {
+      "rows": 349,
+      "observed": 348
+    },
+    "PRO": {
+      "rows": 294,
+      "observed": 293
+    },
+    "financial_observations": 0,
+    "executed": "missing",
+    "conditions": "missing"
+  },
+  {
+    "year": 2021,
+    "GT": {
+      "rows": 351,
+      "observed": 346
+    },
+    "PRO": {
+      "rows": 294,
+      "observed": 294
+    },
+    "financial_observations": 404,
+    "executed": "missing",
+    "conditions": "missing"
+  },
+  {
+    "year": 2022,
+    "GT": {
+      "rows": 338,
+      "observed": 338
+    },
+    "PRO": {
+      "rows": 292,
+      "observed": 292
+    },
+    "financial_observations": 474,
+    "executed": "missing",
+    "conditions": "missing"
+  },
+  {
+    "year": 2023,
+    "GT": {
+      "rows": 340,
+      "observed": 339
+    },
+    "PRO": {
+      "rows": 289,
+      "observed": 289
+    },
+    "financial_observations": 689,
+    "executed": "missing",
+    "conditions": "missing"
+  },
+  {
+    "year": 2024,
+    "GT": {
+      "rows": 339,
+      "observed": 339
+    },
+    "PRO": {
+      "rows": 288,
+      "observed": 288
+    },
+    "financial_observations": 0,
+    "executed": "missing",
+    "conditions": "missing"
+  },
+  {
+    "year": 2025,
+    "GT": {
+      "rows": 340,
+      "observed": 339
+    },
+    "PRO": {
+      "rows": 291,
+      "observed": 290
+    },
+    "financial_observations": 1009,
+    "executed": "missing",
+    "conditions": "missing"
+  }
+]

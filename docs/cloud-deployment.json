@@ -1,0 +1,50 @@
+{
+  "deployed_at": "2026-10-02T18:35:39.128Z",
+  "project": "levraicoutlyceen",
+  "region": "europe-west1",
+  "url": "https://levraicoutlyceen-fe6jzy2diq-ew.a.run.app",
+  "image": "europe-west1-docker.pkg.dev/levraicoutlyceen/levraicoutlyceen/app@sha256:36b5028f80dab6725f5f7eeaaf443f0898e2215f89e79752e9de60d09441251d",
+  "revision": "ed2456e3852ccede387be820b07121c019244f302a15b13629ba63f3d1ac6b8c",
+  "cost_controls": {
+    "concurrency": 8,
+    "cpu": 1,
+    "cpu_idle": true,
+    "database": "immutable_public_snapshot",
+    "max_instances": 1,
+    "memory": "512Mi",
+    "min_instances": 0,
+    "startup_cpu_boost": false
+  },
+  "terraform": {
+    "version": "1.15.8",
+    "google_provider": "8.4.0",
+    "remote_state_bucket": "levraicoutlyceen-levraicout-tfstate",
+    "prefixes": [
+      "bootstrap",
+      "app"
+    ]
+  },
+  "validation": {
+    "pages": 20,
+    "accessibility_violations": 0,
+    "javascript_errors": 0,
+    "business_tests": 36,
+    "ux_scenarios": 10,
+    "verified_source_downloads": 22,
+    "concurrent_exports": 8,
+    "visual_review": [
+      "graphiques-mobile",
+      "selecteur-mobile",
+      "comparateur-ordinateur"
+    ],
+    "deployment_exit_code": 0
+  },
+  "domain_dns_changed": false,
+  "release_features": [
+    "searchable_selectors",
+    "dependent_communes",
+    "comparison_charts",
+    "canonical_share_link",
+    "PRO_2025_break"
+  ]
+}

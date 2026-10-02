@@ -1,0 +1,44 @@
+{
+  "generated": "2026-10-02T18:13:36.090Z",
+  "base": "http://127.0.0.1:3000",
+  "revision": "ed2456e3852ccede387be820b07121c019244f302a15b13629ba63f3d1ac6b8c",
+  "checks": [
+    {
+      "device": "ordinateur",
+      "check": "required selections; UAI/case search; Escape restores choice; quick comparison URL"
+    },
+    {
+      "device": "ordinateur",
+      "check": "keyboard selection; chronological years; one-year graph; canonical share link"
+    },
+    {
+      "device": "ordinateur",
+      "check": "dependent communes reset; official Paris commune code; accent-insensitive search"
+    },
+    {
+      "device": "ordinateur",
+      "check": "graph values equal export; keyboard year control; source-table link; no viewport overflow"
+    },
+    {
+      "device": "mobile",
+      "check": "required selections; UAI/case search; Escape restores choice; quick comparison URL"
+    },
+    {
+      "device": "mobile",
+      "check": "keyboard selection; chronological years; one-year graph; canonical share link"
+    },
+    {
+      "device": "mobile",
+      "check": "dependent communes reset; official Paris commune code; accent-insensitive search"
+    },
+    {
+      "device": "mobile",
+      "check": "graph values equal export; keyboard year control; source-table link; no viewport overflow"
+    },
+    {
+      "check": "real missing years never bridged; PRO 2025 method break; empty data never plotted as zero",
+      "gap_uai": "0750688R"
+    }
+  ],
+  "violations": []
+}

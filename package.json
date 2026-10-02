@@ -1,0 +1,46 @@
+{
+  "name": "le-vrai-cout-lyceen",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack --hostname 127.0.0.1",
+    "build": "next build --webpack",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "test": "python3 -m unittest discover -s tests -v",
+    "import": "python3 scripts/ingest.py",
+    "recalculate": "python3 scripts/ingest.py --offline",
+    "db:migrate": "node scripts/database.mjs migrate",
+    "db:load": "node scripts/database.mjs load",
+    "test:ui": "node scripts/check-ui.mjs",
+    "test:ux": "node scripts/check-ux.mjs",
+    "format": "prettier --write app lib scripts/*.mjs *.json *.ts *.mjs compose.yaml",
+    "format:check": "prettier --check app lib scripts/*.mjs *.json *.ts *.mjs compose.yaml",
+    "test:db": "node scripts/check-database.mjs",
+    "import:pdf": "python3 scripts/extract_pdf.py",
+    "inspect:sources": "python3 scripts/inspect_sources.py"
+  },
+  "dependencies": {
+    "@next/env": "^16.3.8",
+    "lucide-react": "^0.468.0",
+    "next": "^16.0.0",
+    "pg": "^8.16.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.10.0",
+    "@playwright/test": "^1.55.0",
+    "@tailwindcss/postcss": "^4.1.0",
+    "@types/node": "^24.0.0",
+    "@types/pg": "^8.15.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "prettier": "^3.9.9",
+    "tailwindcss": "^4.1.0",
+    "typescript": "^5.9.0"
+  },
+  "engines": {
+    "node": ">=20.9"
+  }
+}

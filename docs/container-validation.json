@@ -1,0 +1,155 @@
+{
+  "generated": "2026-10-02T15:31:03.893Z",
+  "base": "http://127.0.0.1:8082",
+  "revision": "ed2456e3852ccede387be820b07121c019244f302a15b13629ba63f3d1ac6b8c",
+  "samples": [
+    {
+      "type": "GT",
+      "uai": "0920144G",
+      "name": "Lycée Agora"
+    },
+    {
+      "type": "PRO",
+      "uai": "0752608C",
+      "name": "Campus de la gastronomie durable Belliard - CFA académique de Paris"
+    },
+    {
+      "type": "LPO",
+      "uai": "0770924L",
+      "name": "Campus scolaire de Coulommiers"
+    },
+    {
+      "type": "POST_BAC",
+      "uai": "0770924L",
+      "name": "Campus scolaire de Coulommiers"
+    },
+    {
+      "type": "CMR",
+      "uai": "0750670W",
+      "name": "Lycée Alphonse de Lamartine"
+    }
+  ],
+  "pages": [
+    {
+      "device": "ordinateur",
+      "path": "/",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "ordinateur",
+      "path": "/annuaire?dep=93",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "ordinateur",
+      "path": "/lycees/0930125F",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "ordinateur",
+      "path": "/comparer?level=departement&a=93&b=92&from=2023&to=2025&population=GT&panel=constant",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "ordinateur",
+      "path": "/sources",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "ordinateur",
+      "path": "/methode",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "ordinateur",
+      "path": "/couverture",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "ordinateur",
+      "path": "/preuves/37370fba0001c396f1d7b23b",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "ordinateur",
+      "path": "/operations/fb1c7483ccff9ba8f1967c33",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "ordinateur",
+      "path": "/travaux/ef729c25418245743273e99c",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "mobile",
+      "path": "/",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "mobile",
+      "path": "/annuaire?dep=93",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "mobile",
+      "path": "/lycees/0930125F",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "mobile",
+      "path": "/comparer?level=departement&a=93&b=92&from=2023&to=2025&population=GT&panel=constant",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "mobile",
+      "path": "/sources",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "mobile",
+      "path": "/methode",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "mobile",
+      "path": "/couverture",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "mobile",
+      "path": "/preuves/37370fba0001c396f1d7b23b",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "mobile",
+      "path": "/operations/fb1c7483ccff9ba8f1967c33",
+      "status": 200,
+      "accessibility": []
+    },
+    {
+      "device": "mobile",
+      "path": "/travaux/ef729c25418245743273e99c",
+      "status": 200,
+      "accessibility": []
+    }
+  ],
+  "errors": []
+}
