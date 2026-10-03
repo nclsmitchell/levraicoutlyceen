@@ -32,3 +32,18 @@ npm run test:ux
 `test:ui` contrôle les 20 écrans de la première version sur ordinateur et mobile. `test:ux` contrôle les recherches par UAI, la casse, les accents, les sélections obligatoires, le clavier, les filtres dépendants, les bornes chronologiques, le partage, l’accord graphique/export et les ruptures sur les données réelles. Le cas d’année masquée utilise le lycée `0750688R`, population PRO. Les rapports datés sont dans `ui-validation.json` et `ux-validation.json`, puis `cloud-ui-validation.json` et `cloud-ux-validation.json` après mise en ligne. Les captures de production sont dans `screenshots-cloud/`.
 
 Les contrôles axe incluent aussi une liste de sélection ouverte et les graphiques. Cette vérification de parcours ne constitue pas une étude auprès d’utilisateurs ni un audit RGAA exhaustif. Le comportement clavier suit le [modèle de combobox éditable WAI-ARIA](https://www.w3.org/WAI/ARIA/apg/patterns/combobox/).
+
+## Thème sombre — 3 octobre 2026
+
+L’en-tête propose trois boutons nommés Clair, Sombre et Système, utilisables au clavier et avec une cible tactile de 44 px. Le mode Système est choisi par défaut et réagit aux changements du réglage de l’appareil. Un choix explicite est conservé localement, s’applique aussi aux autres onglets ouverts et reste prioritaire sur le réglage système. Si le navigateur bloque le stockage, les boutons fonctionnent pendant la visite.
+
+La préférence enregistrée est appliquée avant l’affichage du contenu, sans attendre le chargement de React. Le réglage système fonctionne également sans JavaScript. Les surfaces, champs, listes, états manquants, preuves, légendes, axes et séries utilisent la même palette de thème. Les formes et pointillés des courbes sont conservés ; aucun calcul ni jeu de données n’est modifié.
+
+Les contrôles propres au thème s’exécutent avec `npm run test:theme`. Les pages sont contrôlées séparément en clair et en sombre :
+
+```sh
+UI_THEME=light UI_REPORT=docs/ui-light-validation.json SCREENSHOT_DIR=docs/screenshots-light npm run test:ui
+UI_THEME=dark UI_REPORT=docs/ui-dark-validation.json SCREENSHOT_DIR=docs/screenshots-dark npm run test:ui
+```
+
+Les captures des interactions sont dans `docs/screenshots-theme/`. Le rapport `docs/theme-validation.json` vérifie notamment un rechargement, une navigation, le réglage système, deux onglets, un stockage refusé, une préférence invalide et l’application de la préférence avant hydratation. Le suivi du thème de l’appareil utilise [`prefers-color-scheme`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-color-scheme).

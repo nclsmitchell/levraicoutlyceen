@@ -1,9 +1,9 @@
 {
-  "deployed_at": "2026-10-02T18:35:39.128Z",
+  "deployed_at": "2026-10-03T00:06:07.682Z",
   "project": "levraicoutlyceen",
   "region": "europe-west1",
   "url": "https://levraicoutlyceen-fe6jzy2diq-ew.a.run.app",
-  "image": "europe-west1-docker.pkg.dev/levraicoutlyceen/levraicoutlyceen/app@sha256:36b5028f80dab6725f5f7eeaaf443f0898e2215f89e79752e9de60d09441251d",
+  "image": "europe-west1-docker.pkg.dev/levraicoutlyceen/levraicoutlyceen/app@sha256:a246972f8254bc3c5c55cc3770f2078151a262aabf9d3d3f143194da7ac4de48",
   "revision": "ed2456e3852ccede387be820b07121c019244f302a15b13629ba63f3d1ac6b8c",
   "cost_controls": {
     "concurrency": 8,
@@ -19,10 +19,7 @@
     "version": "1.15.8",
     "google_provider": "8.4.0",
     "remote_state_bucket": "levraicoutlyceen-levraicout-tfstate",
-    "prefixes": [
-      "bootstrap",
-      "app"
-    ]
+    "prefixes": ["bootstrap", "app"]
   },
   "validation": {
     "pages": 20,
@@ -33,11 +30,14 @@
     "verified_source_downloads": 22,
     "concurrent_exports": 8,
     "visual_review": [
-      "graphiques-mobile",
-      "selecteur-mobile",
-      "comparateur-ordinateur"
+      "accueil-sombre-mobile",
+      "graphiques-sombres-ordinateur",
+      "selecteur-sombre-mobile"
     ],
-    "deployment_exit_code": 0
+    "deployment_exit_code": 0,
+    "theme": "dark",
+    "local_pages_both_themes": 40,
+    "theme_scenarios": 6
   },
   "domain_dns_changed": false,
   "release_features": [
@@ -45,6 +45,16 @@
     "dependent_communes",
     "comparison_charts",
     "canonical_share_link",
-    "PRO_2025_break"
-  ]
+    "PRO_2025_break",
+    "dark_theme",
+    "persisted_theme_preference",
+    "system_theme_and_tab_sync"
+  ],
+  "cloud_run_revision": "levraicoutlyceen-00005-npc",
+  "validation_reports": {
+    "theme": "docs/cloud-theme-validation.json",
+    "dark_pages": "docs/cloud-ui-dark-validation.json",
+    "local_light_pages": "docs/ui-light-validation.json",
+    "local_dark_pages": "docs/ui-dark-validation.json"
+  }
 }

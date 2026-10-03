@@ -8,6 +8,8 @@ Site déployé : <https://levraicoutlyceen-fe6jzy2diq-ew.a.run.app>. Le déploie
 
 Les sélecteurs recherchables, les graphiques de comparaison et les contrôles de parcours sont décrits dans [docs/ux.md](docs/ux.md). `npm run test:ux` vérifie le clavier, les filtres dépendants, le partage et la fidélité des graphiques aux données et aux exports.
 
+Le sélecteur de thème dans l’en-tête propose Clair, Sombre et Système. Le choix est conservé dans le navigateur ; Système suit les réglages de l’appareil. `npm run test:theme` contrôle la persistance, les changements système, la synchronisation entre onglets, les graphiques et les listes ouvertes. `UI_THEME=dark npm run test:ui` vérifie les pages en sombre ; `UI_REPORT` et `SCREENSHOT_DIR` permettent de conserver des rapports et captures séparés.
+
 ## Lancer l’application
 
 Prérequis : Node.js 24 LTS conseillé (minimum Next.js : 20.9), Python 3.12 et Docker Compose pour PostgreSQL. Les versions exactes de l’application sont verrouillées dans `package-lock.json` ; utiliser `npm ci`.

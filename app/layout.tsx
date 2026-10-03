@@ -3,6 +3,8 @@ import type { Metadata } from "next";
 import { ArrowUpRight, BookOpen } from "lucide-react";
 import { site } from "@/lib/config";
 import { connection } from "next/server";
+import ThemeSwitcher from "./theme-switcher";
+import { themeScript } from "@/lib/theme";
 import "./globals.css";
 export const metadata: Metadata = {
   title: { default: site.name, template: `%s · ${site.name}` },
@@ -16,7 +18,10 @@ export default async function Layout({
 }) {
   await connection();
   return (
-    <html lang="fr">
+    <html lang="fr" data-theme="system" suppressHydrationWarning>
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: themeScript }} />
+      </head>
       <body>
         <a className="skip" href="#contenu">
           Aller au contenu
@@ -52,6 +57,7 @@ export default async function Layout({
                 Les sources <ArrowUpRight size={15} />
               </Link>
             </nav>
+            <ThemeSwitcher />
           </div>
         </header>
         <main id="contenu">{children}</main>

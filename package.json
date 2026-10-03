@@ -14,6 +14,7 @@
     "db:load": "node scripts/database.mjs load",
     "test:ui": "node scripts/check-ui.mjs",
     "test:ux": "node scripts/check-ux.mjs",
+    "test:theme": "node scripts/check-theme.mjs",
     "format": "prettier --write app lib scripts/*.mjs *.json *.ts *.mjs compose.yaml",
     "format:check": "prettier --check app lib scripts/*.mjs *.json *.ts *.mjs compose.yaml",
     "test:db": "node scripts/check-database.mjs",

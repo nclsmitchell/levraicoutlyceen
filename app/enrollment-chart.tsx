@@ -23,9 +23,9 @@ export default function EnrollmentChart({ rows }: { rows: Enrollment[] }) {
           y1={height - pad}
           x2={width - pad}
           y2={height - pad}
-          stroke="#becab7"
+          stroke="var(--line)"
         />
-        <text x={pad} y={22} fontSize="11" fill="#52615a">
+        <text x={pad} y={22} fontSize="11" fill="var(--chart-label)">
           {max} élèves
         </text>
         {years.map((year) => (
@@ -35,7 +35,7 @@ export default function EnrollmentChart({ rows }: { rows: Enrollment[] }) {
             y={height - 12}
             textAnchor="middle"
             fontSize="11"
-            fill="#52615a"
+            fill="var(--chart-label)"
           >
             {year}
           </text>
@@ -51,7 +51,10 @@ export default function EnrollmentChart({ rows }: { rows: Enrollment[] }) {
               )?.value ?? null,
           );
           return (
-            <g key={pop} stroke={pop === "GT" ? "#245a48" : "#736243"}>
+            <g
+              key={pop}
+              stroke={pop === "GT" ? "var(--chart-a)" : "var(--chart-b)"}
+            >
               {values.map((v, i) =>
                 v !== null ? (
                   <g key={i}>
@@ -74,7 +77,7 @@ export default function EnrollmentChart({ rows }: { rows: Enrollment[] }) {
                       cx={x(years[i])}
                       cy={y(v)}
                       r={pop === "GT" ? 3 : 4}
-                      fill={pop === "GT" ? "#245a48" : "#fafbf7"}
+                      fill={pop === "GT" ? "var(--chart-a)" : "var(--surface)"}
                     />
                   </g>
                 ) : null,

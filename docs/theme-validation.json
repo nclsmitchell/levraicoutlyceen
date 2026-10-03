@@ -1,0 +1,28 @@
+{
+  "generated": "2026-10-03T00:02:23.039Z",
+  "base": "http://127.0.0.1:3000",
+  "checks": [
+    {
+      "device": "ordinateur",
+      "check": "system default; keyboard choice; explicit override; persisted reload and navigation; OS changes; tab synchronization; charts and open selector accessibility"
+    },
+    {
+      "device": "mobile",
+      "check": "system default; keyboard choice; explicit override; persisted reload and navigation; OS changes; tab synchronization; charts and open selector accessibility"
+    },
+    {
+      "check": "blocked storage preserves system fallback and functioning theme controls"
+    },
+    {
+      "check": "invalid saved preference falls back to the system theme"
+    },
+    {
+      "check": "saved dark preference applies without waiting for hydration bundles"
+    },
+    {
+      "check": "system dark theme remains available without JavaScript"
+    }
+  ],
+  "errors": [],
+  "violations": []
+}

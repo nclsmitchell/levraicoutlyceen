@@ -10,7 +10,7 @@ export type ComparisonPoint = {
 };
 const number = (value: number) =>
   new Intl.NumberFormat("fr-FR", { maximumFractionDigits: 0 }).format(value);
-const colors = ["#245a48", "#826033"];
+const colors = ["var(--chart-a)", "var(--chart-b)"];
 
 function Chart({
   kind,
@@ -104,14 +104,14 @@ function Chart({
                   y1={y(max * fraction)}
                   x2={width - right}
                   y2={y(max * fraction)}
-                  stroke="#dce2d9"
+                  stroke="var(--line)"
                 />
                 <text
                   x={left - 8}
                   y={y(max * fraction) + 4}
                   textAnchor="end"
                   fontSize="11"
-                  fill="#52615a"
+                  fill="var(--chart-label)"
                 >
                   {number(max * fraction)}
                 </text>
@@ -122,7 +122,7 @@ function Chart({
               x2={x(years.indexOf(selected))}
               y1={top}
               y2={height - bottom}
-              stroke="#aeb8a5"
+              stroke="var(--chart-axis)"
               strokeDasharray="3 4"
             />
             {years.map((year, i) => (
@@ -132,7 +132,7 @@ function Chart({
                 y={height - 13}
                 textAnchor="middle"
                 fontSize="11"
-                fill="#52615a"
+                fill="var(--chart-label)"
               >
                 {String(year).slice(width < 390 && years.length > 4 ? 2 : 0)}
               </text>
@@ -172,7 +172,7 @@ function Chart({
                             y={y(p.value) - 4}
                             width="8"
                             height="8"
-                            fill="#fffefb"
+                            fill="var(--surface)"
                             stroke={colors[s]}
                             strokeWidth="2"
                           />

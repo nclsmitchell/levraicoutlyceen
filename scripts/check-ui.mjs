@@ -5,6 +5,8 @@ import assert from "node:assert/strict";
 const base = process.env.APP_URL || "http://127.0.0.1:3000";
 const reportPath = process.env.UI_REPORT || "docs/ui-validation.json";
 const screenshotDir = process.env.SCREENSHOT_DIR || "docs/screenshots";
+const theme = process.env.UI_THEME || "light";
+assert(["light", "dark"].includes(theme), "UI_THEME must be light or dark");
 await fs.mkdir(screenshotDir, { recursive: true });
 const data = JSON.parse(await fs.readFile("data/derived/current.json", "utf8"));
 const school =
@@ -53,6 +55,7 @@ const report = {
   generated: new Date().toISOString(),
   base,
   revision: data.revision,
+  theme,
   samples,
   pages: [],
   errors: [],
@@ -62,7 +65,10 @@ try {
     ["ordinateur", { width: 1440, height: 1000 }],
     ["mobile", { width: 390, height: 844 }],
   ]) {
-    const context = await browser.newContext({ viewport });
+    const context = await browser.newContext({ viewport, colorScheme: theme });
+    await context.addInitScript((value) => {
+      localStorage.setItem("levraicoutlyceen-theme", value);
+    }, theme);
     const page = await context.newPage();
     page.on("pageerror", (e) => report.errors.push(String(e)));
     for (const [name, path] of routes) {
@@ -98,7 +104,7 @@ try {
     }
     await context.close();
   }
-  const page = await browser.newPage();
+  const page = await browser.newPage({ colorScheme: theme });
   await page.goto(base + "/");
   await page
     .getByLabel("Rechercher un lycée, une ville ou un UAI")

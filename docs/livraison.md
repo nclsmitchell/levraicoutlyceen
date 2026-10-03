@@ -62,3 +62,9 @@ Les instructions et les limites de coûts sont dans [deploiement-gcp.md](deploie
 Les sélecteurs de l’accueil, de l’annuaire, des fiches et du comparateur sont recherchables par libellé ou code. Les communes dépendent immédiatement du département choisi ; le partage conserve les filtres appliqués. Le comparateur présente les effectifs publiés et la couverture des établissements, avec choix de rentrée et accès aux preuves. Les années manquantes, changements de panel et rupture PRO de 2025 interrompent les segments concernés ; la fiche lycée respecte aussi cette rupture.
 
 Les 36 tests métier restent valides. Les 20 contrôles d’écrans et les 10 scénarios UX passent sur la version Cloud Run publiée, avec zéro violation axe détectée. Les nouvelles captures comprennent les graphiques et une recherche de valeur sur ordinateur et mobile. La revue des parcours et ses règles sont décrites dans [ux.md](ux.md).
+
+## Thème sombre — 3 octobre 2026
+
+Le thème Clair/Sombre/Système est disponible sur la version Cloud Run. Le mode Système suit l’appareil ; un choix explicite est conservé dans le navigateur et synchronisé entre onglets. Les tableaux, états manquants, sélecteurs et graphiques disposent d’une palette sombre, avec les mêmes formes et pointillés pour les séries.
+
+Les 40 combinaisons page/écran/thème passent localement, avec zéro violation axe et zéro erreur JavaScript. Les 20 contrôles de pages sombres et les six groupes de scénarios de thème passent également sur le service publié. Les rapports sont `ui-light-validation.json`, `ui-dark-validation.json`, `theme-validation.json`, `cloud-ui-dark-validation.json` et `cloud-theme-validation.json`. Les captures sombres publiées figurent dans `screenshots-cloud-dark/` et `screenshots-cloud-theme/`. Compilation, TypeScript et formatage vérifiés. Les limites d’instances et les données restent inchangées.
